@@ -1,0 +1,750 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LCX SchemaVersion="6.0" Name="d:\CDM02\CDM_SFE\HybridOaaSMain\bin\Loc\en-USReleaseStage\OaaS\_PublishedWebsites\Orchestrator.WebService.ResourceProvider\bin\Orchestrator.OnCloud.dll" PsrId="211" FileType="1" SrcCul="en-US" TgtCul="cs-CZ" xmlns="http://schemas.microsoft.com/locstudio/2006/6/lcx">
+  <Props>
+    <Str Name="CustomName1" Val="Custom 1" />
+    <Str Name="CustomName2" Val="Custom 2" />
+    <Str Name="CustomName3" Val="Custom 3" />
+    <Str Name="CustomName4" Val="Custom 4" />
+    <Str Name="CustomName5" Val="Custom 5" />
+    <Str Name="CustomName6" Val="IQA" />
+    <Str Name="LegoVersion" Val="1" />
+  </Props>
+  <OwnedComments>
+    <Cmt Name="Dev" />
+    <Cmt Name="DUIData" />
+    <Cmt Name="GoldMine" />
+    <Cmt Name="Goldmine8" />
+    <Cmt Name="LcxAdmin" />
+    <Cmt Name="Loc" />
+    <Cmt Name="ManifestData" />
+    <Cmt Name="Mnemonic" />
+    <Cmt Name="Note" />
+    <Cmt Name="Rccx" />
+    <Cmt Name="UIType" />
+    <Cmt Name="UTSData" />
+    <Cmt Name="UTSUI" />
+    <Cmt Name="zLocLevel" />
+  </OwnedComments>
+  <Item ItemId=";Managed Resources" ItemType="0" PsrId="211" Leaf="true">
+    <Disp Icon="Expand" Expand="true" Disp="true" LocTbl="false" />
+    <Modified By="klece_000" DateTime="2014-09-22T08:49:31Z" />
+  </Item>
+  <Item ItemId=";Orchestrator.OnCloud.OrchestratorOnCloudResources.resources" ItemType="0" PsrId="211" Leaf="false">
+    <Disp Icon="Str" Expand="true" Disp="true" LocTbl="false" Path=" \ ;Managed Resources \ 0 \ 0" />
+    <Modified By="klece_000" DateTime="2014-09-22T08:49:31Z" />
+    <Item ItemId=";Strings" ItemType="0" PsrId="211" Leaf="false">
+      <Disp Icon="Str" LocTbl="false" />
+      <Modified By="klece_000" DateTime="2014-09-22T08:49:31Z" />
+      <Item ItemId=";AzureQueueLength" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Azure Average Queue Length Per Interval]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Průměrná délka fronty Azure na interval]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";AzureQueueLengthBase" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Azure Average Queue Length Per Interval Base]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Průměrná délka fronty Azure na interval – základ]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";AzureQueueMessageDuration" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Azure Queue Message Duration]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Fronta Azure – doba zobrazení zpráv]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";AzureQueueMessageDurationBase" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Azure Queue Message Duration Base]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Fronta Azure – doba zobrazení zpráv – základ]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";AzureQueueParseException" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST OrchestratorQueueConnectionString parse exception]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Výjimka při analýze řetězce OrchestratorQueueConnectionString]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";AzureStorageCountersDoNotExist" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Azure storage performance counters do not exist.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Čítače výkonu úložiště Azure neexistují.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";AzureStorageExceptionsPerSec" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Azure Storage Exceptions Per Sec]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Počet výjimek úložiště Azure za sekundu]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";AzureStorageParseException" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST OrchestratorStoreConnectionString parse exception]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Výjimka při analýze řetězce OrchestratorStoreConnectionString]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";AzureStorageStorageUnavailableThrown" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST 2030: Storage unavailable]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST 2030: Úložiště není dostupné.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";AzureWorkerQueuePerfCountersDoNotExist" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Azure Worker Queue performance counters do not exist.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Čítače výkonu fronty pracovních procesů Azure neexistují.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";AzureWorkerRetryPolicyCounter" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Worker Azure Storage Retries]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Úložiště pracovních procesů Azure – počet opakování]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ConfigurationSettingNotFound" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Configuration setting not found in ServiceConfiguration.cscfg for the key: ]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Nastavení konfigurace pro tento klíč se v souboru ServiceConfiguration.cscfg nenašlo: ]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";FailedInGetMessage" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Failed in GetMessage {0}.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Chyba v metodě GetMessage {0}.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";FailedToInitializeQueue" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Failed to initialize queue with error {0}.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Inicializace fronty se nepovedla. Chyba: {0}.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+          <Str Name="Custom3" Val="Repeated_Unlocked" />
+        </Props>
+      </Item>
+      <Item ItemId=";FailedToInitializeQueue1" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Failed to initialize queue with error {0}.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Inicializace fronty se nepovedla. Chyba: {0}.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom3" Val="Repeated_Translated" />
+        </Props>
+      </Item>
+      <Item ItemId=";InSetPartitionInstanceIdCreatedQueue" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST In SetPartitionInstanceId. Created Queue for instance id {0}.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST SetPartitionInstanceId: Vytvořila se fronta pro ID instance {0}.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";InitializingQueueWithAzureAccount" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Initializing Queue with azure queue account {0}.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Inicializuje se fronta s účtem fronty Azure {0}.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";MessageIdIsNull" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Failed to delete the message - the MessageId is null]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Zprávu se nepovedlo odstranit – konstruktor MessageId má hodnotu null.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";MessageWithJobIdReceived" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Message with JobId {0}. received in queueReader {1}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Objekt queueReader {1} přijal zprávu s konstruktorem JobId {0}.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ModuleVersionIdNotFoundInPath" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST The last segment of the path must be module version id. Path: {0}.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Poslední segment cesty musí být ID verze modulu. Cesta: {0}.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ParameterCannotBeNullOrEmpty" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST {0}. cannot be null or empty]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Parametr {0}. nemůže mít hodnotu null ani být prázdný.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";QueueDeleteMessageMessageNotFound" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Queue DeleteMessage - message ID {0}. with PopReceipt {1} not found. This can be caused by the message PopReceipt expiration.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Metoda DeleteMessage fronty – ID zprávy {0}. s vlastností PopReceipt {1} se nenašlo. Může to být kvůli tomu, že vypršela platnost vlastnosti PopReceipt zprávy.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";QueueDeleteMessageThrewException" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Queue DeleteMessage threw an exception.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Metoda DeleteMessage fronty vrátila výjimku.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";QueueGetMessagesThrewException" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Queue GetMessages threw an exception]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Metoda GetMessages fronty vrátila výjimku.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";QueueInstanceId" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST InstanceId {0}.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST InstanceId {0}.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="DiegoR" DateTime="2014-09-25T17:41:22Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ReasonCodeConcurrentRequestsHardThrottle" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Too Many Concurrent Requests, Hard Throttle.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Moc souběžných žádostí, hardwarové omezení]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ReasonCodeConcurrentRequestsSoftThrottle" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Too Many Concurrent Requests, Soft Throttle.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Moc souběžných žádostí, softwarové omezení]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ReasonCodeDiskSpaceHardThrottle" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Disk Space, Hard Throttle.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Místo na disku, hardwarové omezení]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ReasonCodeDiskSpaceSoftThrottle" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Disk Space, Soft Throttle.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Místo na disku, softwarové omezení]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ReasonCodeHighCpuHardThrottle" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST High-volume CPU Activities, Hard Throttle.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Vysoký počet aktivit procesoru, hardwarové omezení]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ReasonCodeHighCpuSoftThrottle" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST High-volume CPU Activities, Soft Throttle.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Vysoký počet aktivit procesoru, softwarové omezení]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ReasonCodeHighReadsHardThrottle" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST High-volume Read Activities, Hard Throttle.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Vysoký počet aktivit čtení, hardwarové omezení]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ReasonCodeHighReadsSoftThrottle" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST High-volume Read Activities, Soft Throttle.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Vysoký počet aktivit čtení, softwarové omezení]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ReasonCodeHighWritesHardThrottle" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST High-volume Write Activities, Hard Throttle.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Vysoký počet aktivit zápisu, hardwarové omezení]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ReasonCodeHighWritesSoftThrottle" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST High-volume Write Activities, Soft Throttle.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Vysoký počet aktivit zápisu, softwarové omezení]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ReasonCodeLogSpaceHardThrottle" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Log Space, Hard Throttle.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Místo v protokolu, hardwarové omezení]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ReasonCodeLogSpaceSoftThrottle" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Log Space, Soft Throttle.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Místo v protokolu, softwarové omezení]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ReasonCodeNoThrottling" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST No throttling.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Žádné omezení]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ReasonCodeQuotaHardThrottle" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Quota Exceeded, HardThrottle.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Překročení kvóty, hardwarové omezení]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ReasonCodeQuotaSoftThrottle" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Quota Exceeded, Soft Throttle.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Překročení kvóty, softwarové omezení]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ReasonCodeRejectAll" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Reject all.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Odmítnout všechno]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ReasonCodeRejectAllWrites" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Reject all writes.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Odmítnout všechny zápisy]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ReasonCodeRejectUpsert" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Reject update/insert.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Odmítnout aktualizace/vkládání]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ReasonCodeThrottleMode" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Throttle Mode:]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Režim omezení:]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ReasonCodeThrottleType" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Throttle Type:]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Typ omezení:]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";RetryPolicyFromConfiguration" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Azure storage retry policy is using configuration store values.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Zásady opakování úložiště Azure používají hodnoty úložiště konfigurace.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";WorkerRetryPolicyPerfCountersDoNotExist" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST 5512: Worker Azure retry policy performance counters do not exist.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST 5512: Čítače výkonu zásad opakování pracovních procesů Azure neexistují.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+    </Item>
+  </Item>
+  <Item ItemId=";Version" ItemType="0" PsrId="211" Leaf="false">
+    <Disp Icon="Ver" Disp="true" LocTbl="false" Path=" \ ;Version \ 8 \ 0" />
+    <Modified By="klece_000" DateTime="2014-09-22T08:49:31Z" />
+    <Item ItemId=";AssemblyVersion" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test Test TEST TEST 7.2.0.0]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+    </Item>
+    <Item ItemId=";CompanyName" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Test Test TEST TEST Microsoft Corporation]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+          <Val><![CDATA[Test Test TEST TEST Microsoft Corporation]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+      <Props>
+        <Str Name="Custom3" Val="Repeated_Translated" />
+      </Props>
+    </Item>
+    <Item ItemId=";FileDescription" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Test Test TEST TEST Orchestrator.OnCloud]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+          <Val><![CDATA[Test Test TEST TEST Orchestrator.OnCloud]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+      <Props>
+        <Str Name="Custom2" Val="LQA_20140919" />
+      </Props>
+    </Item>
+    <Item ItemId=";FileVersion" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test Test TEST TEST 7.2.6599.0]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+    </Item>
+    <Item ItemId=";InternalName" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test Test TEST TEST Orchestrator.OnCloud.dll]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+    </Item>
+    <Item ItemId=";LegalCopyright" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Test Test TEST TEST  ]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+          <Val><![CDATA[Test Test TEST TEST  ]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+      <Props>
+        <Str Name="Custom3" Val="Repeated_Translated" />
+      </Props>
+    </Item>
+    <Item ItemId=";OriginalFilename" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test Test TEST TEST Orchestrator.OnCloud.dll]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+    </Item>
+    <Item ItemId=";ProductName" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Test Test TEST TEST Hybrid Service Management Automation]]></Val>
+        <Tgt Cat="Text" Stat="Update" Orig="New">
+          <Val><![CDATA[Test Test TEST TEST OaaS]]></Val>
+        </Tgt>
+        <Prev Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST OaaS]]></Val>
+        </Prev>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+      <Props>
+        <Str Name="Custom3" Val="Repeated_Translated" />
+      </Props>
+    </Item>
+    <Item ItemId=";ProductVersion" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test Test TEST TEST 7.2.0.0]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+    </Item>
+  </Item>
+  <Item ItemId=";Version" ItemType="8" PsrId="211" Leaf="true">
+    <Disp Icon="Expand" Expand="true" Disp="true" LocTbl="false" />
+    <Modified By="klece_000" DateTime="2014-09-22T08:49:31Z" />
+  </Item>
+</LCX>

@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LCX SchemaVersion="6.0" Name="d:\CDM02\CDM_SFE\HybridOaaSMain\bin\Loc\en-USReleaseStage\OaaS\_PublishedWebsites\Orchestrator.WebService.ResourceProvider\bin\Orchestrator.WebService.ResourceProvider.dll" PsrId="211" FileType="1" SrcCul="en-US" TgtCul="cs-CZ" xmlns="http://schemas.microsoft.com/locstudio/2006/6/lcx">
+  <Props>
+    <Str Name="CustomName1" Val="Custom 1" />
+    <Str Name="CustomName2" Val="Custom 2" />
+    <Str Name="CustomName3" Val="Custom 3" />
+    <Str Name="CustomName4" Val="Custom 4" />
+    <Str Name="CustomName5" Val="Custom 5" />
+    <Str Name="CustomName6" Val="IQA" />
+  </Props>
+  <OwnedComments>
+    <Cmt Name="Dev" />
+    <Cmt Name="DUIData" />
+    <Cmt Name="GoldMine" />
+    <Cmt Name="Goldmine8" />
+    <Cmt Name="LcxAdmin" />
+    <Cmt Name="Loc" />
+    <Cmt Name="ManifestData" />
+    <Cmt Name="Mnemonic" />
+    <Cmt Name="Note" />
+    <Cmt Name="Rccx" />
+    <Cmt Name="UIType" />
+    <Cmt Name="UTSData" />
+    <Cmt Name="UTSUI" />
+    <Cmt Name="zLocLevel" />
+  </OwnedComments>
+  <Item ItemId=";Managed Resources" ItemType="0" PsrId="211" Leaf="true">
+    <Disp Icon="Expand" Expand="true" Disp="true" LocTbl="false" />
+    <Modified By="klece_000" DateTime="2014-09-22T08:49:31Z" />
+  </Item>
+  <Item ItemId=";Orchestrator.WebService.ResourceProvider.Resources.resources" ItemType="0" PsrId="211" Leaf="false">
+    <Disp Icon="Str" Expand="true" Disp="true" LocTbl="false" Path=" \ ;Managed Resources \ 0 \ 0" />
+    <Modified By="klece_000" DateTime="2014-09-22T08:49:31Z" />
+    <Item ItemId=";Strings" ItemType="0" PsrId="211" Leaf="false">
+      <Disp Icon="Str" LocTbl="false" />
+      <Modified By="klece_000" DateTime="2014-09-22T08:49:31Z" />
+      <Item ItemId=";CloudServicesControllerDeleteCloudServiceEnterExit" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="DiegoR" DateTime="2014-09-25T18:11:14Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+          <Str Name="Custom3" Val="Repeated_Unlocked" />
+        </Props>
+      </Item>
+      <Item ItemId=";CloudServicesControllerGetAllResourcesInCloudServiceEnterExit" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom3" Val="Repeated_Translated" />
+        </Props>
+      </Item>
+      <Item ItemId=";ETagMismatched" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Account already exists and etag mismatched.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Účet už existuje a značka etag se neshoduje.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";EventsControllerHandleSubscriptionNotificationsEnterExit" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST SubscriptionId: {0}., State: {1}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST ID předplatného: {0}., stav: {1}]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ResourceProviderResponse" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Resource Provider response: {0}.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Odpověď zprostředkovatele prostředků: {0}.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";ResourcesControllerDeleteResourceEnterExit" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}, ResourceType: {2}, ResourceName:{3}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}, ResourceType: {2}, ResourceName:{3}]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="DiegoR" DateTime="2014-09-25T18:11:52Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+          <Str Name="Custom3" Val="Repeated_Unlocked" />
+        </Props>
+      </Item>
+      <Item ItemId=";ResourcesControllerGetResourceEnterExit" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}, ResourceType: {2}, ResourceName:{3}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}, ResourceType: {2}, ResourceName:{3}]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom3" Val="Repeated_Translated" />
+        </Props>
+      </Item>
+      <Item ItemId=";ResourcesControllerProvisionOrUpdateResourceEnterExit" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}, ResourceType: {2}, ResourceName:{3}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}, ResourceType: {2}, ResourceName:{3}]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom3" Val="Repeated_Translated" />
+        </Props>
+      </Item>
+    </Item>
+  </Item>
+  <Item ItemId=";Version" ItemType="0" PsrId="211" Leaf="false">
+    <Disp Icon="Ver" Disp="true" LocTbl="false" Path=" \ ;Version \ 8 \ 0" />
+    <Modified By="klece_000" DateTime="2014-09-22T08:49:31Z" />
+    <Item ItemId=";AssemblyVersion" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test Test TEST TEST 7.2.0.0]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+    </Item>
+    <Item ItemId=";CompanyName" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Test Test TEST TEST Microsoft Corporation]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+          <Val><![CDATA[Test Test TEST TEST Microsoft Corporation]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+      <Props>
+        <Str Name="Custom3" Val="Repeated_Translated" />
+      </Props>
+    </Item>
+    <Item ItemId=";FileDescription" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Test Test TEST TEST Orchestrator.WebService.ResourceProvider]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+          <Val><![CDATA[Test Test TEST TEST Orchestrator.WebService.ResourceProvider]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+      <Props>
+        <Str Name="Custom2" Val="LQA_20140919" />
+      </Props>
+    </Item>
+    <Item ItemId=";FileVersion" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test Test TEST TEST 7.2.4038.0]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+    </Item>
+    <Item ItemId=";InternalName" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test Test TEST TEST Orchestrator.WebService.ResourceProvider.dll]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+    </Item>
+    <Item ItemId=";LegalCopyright" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Test Test TEST TEST  ]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+          <Val><![CDATA[Test Test TEST TEST  ]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+      <Props>
+        <Str Name="Custom3" Val="Repeated_Translated" />
+      </Props>
+    </Item>
+    <Item ItemId=";OriginalFilename" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test Test TEST TEST Orchestrator.WebService.ResourceProvider.dll]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+    </Item>
+    <Item ItemId=";ProductName" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Test Test TEST TEST OaaS]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+          <Val><![CDATA[Test Test TEST TEST OaaS]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+      <Props>
+        <Str Name="Custom3" Val="Repeated_Translated" />
+      </Props>
+    </Item>
+    <Item ItemId=";ProductVersion" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test Test TEST TEST 7.2.0.0]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+    </Item>
+  </Item>
+  <Item ItemId=";Version" ItemType="8" PsrId="211" Leaf="true">
+    <Disp Icon="Expand" Expand="true" Disp="true" LocTbl="false" />
+    <Modified By="klece_000" DateTime="2014-09-22T08:49:31Z" />
+  </Item>
+</LCX>

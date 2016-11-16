@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocRuleMapDef>
+  <_locDefinition>
+    <_locDefault _loc="locNone"/>
+    <_locTag _loc="locData">Map</_locTag>
+  </_locDefinition>
+  <Map Src="batch" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='BATCH'}Account" _locID="79B8939C232CE5C872BD1E6A01209200">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='BATCH'}Account"-->Batch</Map>
+  <Map Src="application compatibility scripts" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Application Compatibility Scripts'}Folder" _locID="9921D40818DD55342C56F44C989C1E2B">
+    <!--_locComment_text=";[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Application Compatibility Scripts'}Folder"-->Anwendungskompatibilitätsskripts</Map>
+  <Map Src="segoe ui bold, 9, quality:cleartype" Desc="[lcm\desktop_1a\aero.mst.mui.lcm]Loc= {Placeholder=', 9, Quality:ClearType'}RCCX={StringCategory='Font Name'}This is a FONT" LCID="1033" _locID="A8D7E3087D0CCA66F0E38EB20E7DB85D">
+    <!--_locComment_text=";[lcm\desktop_1a\aero.mst.mui.lcm]Loc= {Placeholder=', 9, Quality:ClearType'}RCCX={StringCategory='Font Name'}This is a FONT;LCID=1033"-->Segoe UI Fett, 9, quality:cleartype</Map>
+  <Map Src="250" Desc="[lcm\management_srv\dsadmin.dll.mui.lcm]LcxAdmin={Adaptation}?" _locID="701120F69BA9D192AE19B22400C8D629">
+    <!--_locComment_text=";[lcm\management_srv\dsadmin.dll.mui.lcm]LcxAdmin={Adaptation}?"-->250</Map>
+  <Map Src="cookies" ID="WinXPPhysicalFolder" Desc="[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Cookies','WinXPPhysicalFolder'} Need to match with XP physical folder name" _locID="80EE414B5D70DE4A0B16E08E6A1E1981">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Cookies','WinXPPhysicalFolder'} Need to match with XP physical folder name"-->Cookies</Map>
+  <Map Src="service" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='SERVICE'}Account" _locID="BED65D2596EADC69B7F94BF0763100BE">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='SERVICE'}Account"-->DIENST</Map>
+  <Map Src="proxy" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='PROXY'}Account" _locID="69E9143788D3D140EBF1A000EA5EBAA5">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='PROXY'}Account"-->Proxy</Map>
+  <Map Src="'segoe ui', tahoma" Desc="[lcm\desktop_1b\gadgets\picturepuzzle\css\picturePuzzle.css.lcm]Loc={StringCategory='Font Name'} {Locked=@EU@}" LCID="1033" _locID="EA3BFE57DFA976552A7B7AFEA530AA4E">
+    <!--_locComment_text=";[lcm\desktop_1b\gadgets\picturepuzzle\css\picturePuzzle.css.lcm]Loc={StringCategory='Font Name'} {Locked=@EU@};LCID=1033"-->'segoe ui', tahoma</Map>
+  <Map Src="'segoe ui', tahoma, sans-serif" Desc="[lcm\desktop_1b\gadgets\clock\css\settings.css.lcm]Loc={StringCategory='Font Name'}{Locked=@EU@}" LCID="1033" _locID="BF6542DF3A98433125E1F46BE2293A68">
+    <!--_locComment_text=";[lcm\desktop_1b\gadgets\clock\css\settings.css.lcm]Loc={StringCategory='Font Name'}{Locked=@EU@};LCID=1033"-->'segoe ui', tahoma, sans-serif</Map>
+  <Map Src="messagebox" Desc="[lcm\Core_2\acprgwiz.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="EC76AAAAB8A560C95E282FBE0354475A">
+    <!--_locComment_text=";[lcm\Core_2\acprgwiz.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->messagebox</Map>
+  <Map Src="incoming forest trust builders" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Incoming Forest Trust Builders'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="0DBB03B4ABCE21C8BC5D4D1226BCD43B">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Incoming Forest Trust Builders'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Erstellungen eingehender Gesamtstrukturvertrauensstellung</Map>
+  <Map Src="segoe ui, 12, underline, quality:cleartype" Desc="[lcm\desktop_1a\aero.mst.mui.lcm]Loc={Locked=@EU@} {Placeholder='12, Underline, Quality:ClearType'}RCCX={StringCategory='Font Name'}This is a FONT" LCID="1033" _locID="A2F2A99D6B4B77182C86D00414A7AB32">
+    <!--_locComment_text=";[lcm\desktop_1a\aero.mst.mui.lcm]Loc={Locked=@EU@} {Placeholder='12, Underline, Quality:ClearType'}RCCX={StringCategory='Font Name'}This is a FONT;LCID=1033"-->segoe ui, 12, underline, quality:cleartype</Map>
+  <Map Src="replicator" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Replicator'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="88E0504859CE31A853C830DE376E4BC6">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Replicator'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Replikations-Operator</Map>
+  <Map Src="guests" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Guests'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="860A909AF73A70FBBE20652DD85ADF2E">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Guests'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Gäste</Map>
+  <Map Src="courier" ID="Font Name" Desc="[lcm\security_2\cryptui.dll.mui.lcm]Loc={Adaptation='courier','Font Name'}" _locID="A7C1060C0C289445234E079957B7156E">
+    <!--_locComment_text="Font Name;[lcm\security_2\cryptui.dll.mui.lcm]Loc={Adaptation='courier','Font Name'}"-->courier</Map>
+  <Map Src="courier" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="8101821CDECE4133399BAD719E7342DC">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->courier</Map>
+  <Map Src="p12" Desc="[lcm\security_srv\certmmc.dll.mui.lcm]LcxAdmin={Adaptation}FontSize" _locID="80C0D93B24264F4F24C5043C20BECD83">
+    <!--_locComment_text=";[lcm\security_srv\certmmc.dll.mui.lcm]LcxAdmin={Adaptation}FontSize"-->p12</Map>
+  <Map Src="interactive" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='INTERACTIVE'}Account" _locID="E6571DED9644E0CDEFC2475F91F7DF7D">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='INTERACTIVE'}Account"-->INTERAKTIV</Map>
+  <Map Src="segoe ui, arial" Desc="[lcm\desktop_1a\ieframe.dll.mui.lcm]Loc={Adaptation='Segoe UI','Font Name'} {Adaptation='Arial','Font Name'}{Locked=@EU@}" LCID="1033" _locID="F2EF62277BD7F83C95B1E54DC8E85750">
+    <!--_locComment_text=";[lcm\desktop_1a\ieframe.dll.mui.lcm]Loc={Adaptation='Segoe UI','Font Name'} {Adaptation='Arial','Font Name'}{Locked=@EU@};LCID=1033"-->segoe ui, arial</Map>
+  <Map Src="dddd',' mmmm dd',' yyyy" ID="Date Format" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Adaptation='dddd\',\' MMMM dd\',\' yyyy', 'Date Format'}" _locID="FA0FC33066FB70012512263EF770E77D">
+    <!--_locComment_text="Date Format;[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Adaptation='dddd\',\' MMMM dd\',\' yyyy', 'Date Format'}"-->dddd',' MMMM dd',' yyyy</Map>
+  <Map Src="segoe media center light" Desc="[lcm\media_desk_2\ehres.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="8A6620745189E97C5F19D6C03D1E514E">
+    <!--_locComment_text=";[lcm\media_desk_2\ehres.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->segoe media center light</Map>
+  <Map Src="pre-windows 2000 compatible access" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Pre-Windows 2000 Compatible Access'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="531E63A6E0ED40C5A392B8E28A7932FB">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Pre-Windows 2000 Compatible Access'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Prä-Windows 2000 kompatibler Zugriff</Map>
+  <Map Src="tahoma, arial, helvetica, sans-serif" Desc="[lcm\net_media_dev_srv\wms\WMSMONITOR.dll.mui.lcm]Loc={Adaptation='Tahoma, Arial, Helvetica, sans-serif','FontName'}" LCID="1033" _locID="A34E54091B360FF9DE9DA26238CEDF4A">
+    <!--_locComment_text=";[lcm\net_media_dev_srv\wms\WMSMONITOR.dll.mui.lcm]Loc={Adaptation='Tahoma, Arial, Helvetica, sans-serif','FontName'};LCID=1033"-->tahoma, arial, helvetica, sans-serif</Map>
+  <Map Src="domain guests" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Domain Guests'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="E4A39603F54BA40C0E7FF7337C3A301E">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Domain Guests'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Domänen-Gäste</Map>
+  <Map Src="server operators" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Server Operators'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="7569E7B542DED106B6D2DC0295CA0DB6">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Server Operators'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Server-Operatoren</Map>
+  <Map Src="my documents\my music" ID="WinXPPhysicalFolder" Desc="[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='My Documents\My Music','WinXPPhysicalFolder'}Needs to match with XP physical folder name." _locID="040F9EA67F6E73DBB1BD91690D06158E">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='My Documents\My Music','WinXPPhysicalFolder'}Needs to match with XP physical folder name."-->Eigene Dateien\Eigene Musik</Map>
+  <Map Src="sans-serif" Desc="[lcm\Dev_Net_Mgmt_2\journal.exe.mui.lcm]Loc={StringCategory='Font Name'} Font name 
+{Locked=@EU@}" LCID="1033" _locID="A71BF10BCF6BB14123F9AD25284D740D">
+    <!--_locComment_text=";[lcm\Dev_Net_Mgmt_2\journal.exe.mui.lcm]Loc={StringCategory='Font Name'} Font name 
+{Locked=@EU@};LCID=1033"-->sans-serif</Map>
+  <Map Src="9.0" ID="Font Size" Desc="[lcm\core_sec_1\wscui.cpl.mui.lcm]Loc={Adaptation='9.0','Font Size'}" _locID="10AFA9C144F2941F1B860254ADFC7621">
+    <!--_locComment_text="Font Size;[lcm\core_sec_1\wscui.cpl.mui.lcm]Loc={Adaptation='9.0','Font Size'}"-->9.0</Map>
+  <Map Src="batang" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font nameRCCX=Kor" LCID="1033" _locID="ECE73091F8269C3CEE87184DC84B418F">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font nameRCCX=Kor;LCID=1033"-->batang</Map>
+  <Map Src="times" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="6693F179535661DFF730BACA4665A5E6">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->times</Map>
+  <Map Src="documents and settings" ID="WinXPPhysicalFolder" Desc="[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Documents and Settings','WinXPPhysicalFolder'} Need to match with XP physical folder name" _locID="EC75EF803EFA5A4D7B6ED01ABEB99E0F">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Documents and Settings','WinXPPhysicalFolder'} Need to match with XP physical folder name"-->Dokumente und Einstellungen</Map>
+  <Map Src="documents and settings" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Documents and Settings'}Folder" _locID="FA629064B146D6F653E01C8E6013556C">
+    <!--_locComment_text=";[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Documents and Settings'}Folder"-->Dokumente und Einstellungen</Map>
+  <Map Src="backup operators" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Backup Operators'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="DB39EECEA1B983DE0F807509977426AC">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Backup Operators'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Sicherungs-Operatoren</Map>
+  <Map Src="nt authority" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='NT AUTHORITY'}Account" _locID="E6D9752C2E3BDCCD15271BBE4762C7E6">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='NT AUTHORITY'}Account"-->NT-AUTORITÄT</Map>
+  <Map Src="ras and ias servers" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='RAS and IAS Servers'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="592310F4B577CCBED34D8E7BBB2657D1">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='RAS and IAS Servers'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->RAS- und IAS-Server</Map>
+  <Map Src="calibri, tahoma, sans-serif" Desc="[lcm\desktop_1b\gadgets\rssfeeds\css\flyout.css.lcm]Loc={StringCategory='Font Name'} {Locked=@EU@}" LCID="1033" _locID="1B10C06E0FCF54D14B315EDEE857BD31">
+    <!--_locComment_text=";[lcm\desktop_1b\gadgets\rssfeeds\css\flyout.css.lcm]Loc={StringCategory='Font Name'} {Locked=@EU@};LCID=1033"-->calibri, tahoma, sans-serif</Map>
+  <Map Src="segoe media center" Desc="[lcm\media_desk_2\ehres.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="BD397B0213D1A422F024467EB9BD9C17">
+    <!--_locComment_text=";[lcm\media_desk_2\ehres.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->segoe media center</Map>
+  <Map Src="trebuchet ms" Desc="[lcm\media_desk_2\omdproject.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="5418C9F8F48F32588F662A89399C8A14">
+    <!--_locComment_text=";[lcm\media_desk_2\omdproject.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->trebuchet ms</Map>
+  <Map Src="none" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='None'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="E521305C85DA97EAFBF4C3C58489F93F">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='None'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Kein</Map>
+  <Map Src="hyrgothic m" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font name" LCID="1033" _locID="4709007642F8969F1E330889505A9270">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font name;LCID=1033"-->hyrgothic m</Map>
+  <Map Src="dialup" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='DIALUP'}Account" _locID="F481EE8061BA83249C42ADBCCF9AF4AD">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='DIALUP'}Account"-->Dialup</Map>
+  <Map Src="common files" ID="WinXPPhysicalFolder" Desc="[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Common Files','WinXPPhysicalFolder'} Need to match with XP physical folder name (Program Files\Common Files)" _locID="C17021805BBCAEBF7D29F2BC3F84C5A5">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Common Files','WinXPPhysicalFolder'} Need to match with XP physical folder name (Program Files\Common Files)"-->Gemeinsame Dateien</Map>
+  <Map Src="common files" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Common Files'}Folder" _locID="0C5409154A19612A295BFA7CF7BFD6C4">
+    <!--_locComment_text=";[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Common Files'}Folder"-->Gemeinsame Dateien</Map>
+  <Map Src="local settings\temporary internet files" ID="WinXPPhysicalFolder" Desc="[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='Local Settings\Temporary Internet Files','WinXPPhysicalFolder'}Needs to match with XP physical folder name." _locID="3911BFFADD3B777B131976DE6A5FDCD2">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='Local Settings\Temporary Internet Files','WinXPPhysicalFolder'}Needs to match with XP physical folder name."-->Lokale Einstellungen\Temporary Internet Files</Map>
+  <Map Src="users" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='USERS'}Account" _locID="3B0FA8522E5DD99A330728EC16261593">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='USERS'}Account"-->Benutzer</Map>
+  <Map Src="trusted installers" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Trusted Installers'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="A036F78D2428B4F44E9A8D835EA74986">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Trusted Installers'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Vertrauenswürdige Installer</Map>
+  <Map Src="book antiqua" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="4BD8646CCE775DA91C8C4931DBF8DFCD">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->book antiqua</Map>
+  <Map Src="accessories\media center\media center programs" ID="WinXPPhysicalFolder" Desc="[lcm\media_desk_dev_3\shmig.dll.mui.lcm]Loc={Map='Accessories\Media Center\Media Center Programs','WinXPPhysicalFolder'}; Needs to match with the folder name on XP" _locID="E69A30964C4E1A7EAF5730DDFAC08E2E">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\media_desk_dev_3\shmig.dll.mui.lcm]Loc={Map='Accessories\Media Center\Media Center Programs','WinXPPhysicalFolder'}; Needs to match with the folder name on XP"-->Zubehör\Media Center\Media Center-Programme</Map>
+  <Map Src="nt pseudo domain" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='NT Pseudo Domain'}Account" _locID="A61EA97B140177498708264ACD87B32B">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='NT Pseudo Domain'}Account"-->NT-Pseudodomäne</Map>
+  <Map Src="media" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Media'}Folder" _locID="0DD6B70BFCE5A53FEF66D02ACB89432C">
+    <!--_locComment_text=";[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Media'}Folder"-->Medien</Map>
+  <Map Src="launch internet explorer browser" Desc="[lcm\media_desk_2\iedkcs32.dll.mui.lcm]LcxAdmin={Map='Launch Internet Explorer Browser'}Dependency: needs consistent translation" _locID="3D6A73AE9438093AF034BC27E4223B12">
+    <!--_locComment_text=";[lcm\media_desk_2\iedkcs32.dll.mui.lcm]LcxAdmin={Map='Launch Internet Explorer Browser'}Dependency: needs consistent translation"-->Internet Explorer Browser starten</Map>
+  <Map Src="programs" ID="WinXPPhysicalFolder" Desc="[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Programs','WinXPPhysicalFolder'} Need to match with XP physical folder name" _locID="A7FBF482D467A4B67F538B84458A0ED1">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Programs','WinXPPhysicalFolder'} Need to match with XP physical folder name"-->Programme</Map>
+  <Map Src="programs" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Programs'}Folder" _locID="BF46693D60347D52838AAE0CB17BC59A">
+    <!--_locComment_text=";[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Programs'}Folder"-->Programme</Map>
+  <Map Src="segoe ui,tahoma" Desc="[lcm\desktop_1b\gadgets\contacts\contacts.html.lcm]Loc={StringCategory='Font Name'} {Locked=@EU@}" LCID="1033" _locID="172373367E9CFFEF0D8C3E20D5E05F9C">
+    <!--_locComment_text=";[lcm\desktop_1b\gadgets\contacts\contacts.html.lcm]Loc={StringCategory='Font Name'} {Locked=@EU@};LCID=1033"-->segoe ui,tahoma</Map>
+  <Map Src="administrative tools" ID="WinXPPhysicalFolder" Desc="[lcm\media_desk_dev_3\shmig.dll.mui.lcm]Loc={Map='Administrative Tools','WinXPPhysicalFolder'}; Needs to match with the folder name on XP" _locID="FBDF595568510F0CCF00E235A6D97622">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\media_desk_dev_3\shmig.dll.mui.lcm]Loc={Map='Administrative Tools','WinXPPhysicalFolder'}; Needs to match with the folder name on XP"-->Verwaltung</Map>
+  <Map Src="creator owner server" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='CREATOR OWNER SERVER'}Account" _locID="AF02CCD055722CB6DDC576C4CE6DBE63">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='CREATOR OWNER SERVER'}Account"-->ERSTELLER-BESITZER-SERVER</Map>
+  <Map Src="self" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='SELF'}Account" _locID="71A0913523ECD0FB5C7D15AF40EE1EEF">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='SELF'}Account"-->SELBST</Map>
+  <Map Src="18;normal;none;segoe ui" Desc="[lcm\desktop_1a\authui.dll.mui.lcm]Loc={Locked=@EU@} {StringCategory='Font Name'}RCCX={StringCategory='Font Name'}This is a FONT" LCID="1033" _locID="12C647C860BC5344CC454FBD8F9E0D27">
+    <!--_locComment_text=";[lcm\desktop_1a\authui.dll.mui.lcm]Loc={Locked=@EU@} {StringCategory='Font Name'}RCCX={StringCategory='Font Name'}This is a FONT;LCID=1033"-->18;normal;none;segoe ui</Map>
+  <Map Src="application data\microsoft\internet explorer\quick launch" ID="WinXPPhysicalFolder" Desc="[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='Application Data\Microsoft\Internet Explorer\Quick Launch','WinXPPhysicalFolder'}Needs to match with XP physical folder name." _locID="E8A9B32FBAAC756A906B9F260D0AA851">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='Application Data\Microsoft\Internet Explorer\Quick Launch','WinXPPhysicalFolder'}Needs to match with XP physical folder name."-->Anwendungsdaten\Microsoft\Internet Explorer\Quick Launch</Map>
+  <Map Src="start menu" ID="WinXPPhysicalFolder" Desc="[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Start Menu','WinXPPhysicalFolder'} Need to match with XP physical folder name" _locID="62DC618D84376AEE4F5A464010B382BE">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Start Menu','WinXPPhysicalFolder'} Need to match with XP physical folder name"-->Startmenü</Map>
+  <Map Src="start menu" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Start Menu'}Folder" _locID="9DA2655C63DE6FEFFA2EE810E8175002">
+    <!--_locComment_text=";[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Start Menu'}Folder"-->Startmenü</Map>
+  <Map Src="arial black" ID="Font Name" Desc="[lcm\security_2\cryptui.dll.mui.lcm]Loc=[BugStatus=NT,359508,C][BugStatus=359508,C] {Adaptation='Arial Black','Font Name'}" _locID="8AA6057FE09E45AFD026F8E6B48FBF84">
+    <!--_locComment_text="Font Name;[lcm\security_2\cryptui.dll.mui.lcm]Loc=[BugStatus=NT,359508,C][BugStatus=359508,C] {Adaptation='Arial Black','Font Name'}"-->arial black</Map>
+  <Map Src="direct" Desc="[lcm\media_desk_dev_3\mciqtz32.dll.mui.lcm]LcxAdmin={Adaptation}As per Dev, if these strings were never localized before, they need to remain in English, otherwize they need to be localized  consistently" _locID="8E760F823BE8B233211695F67830072F">
+    <!--_locComment_text=";[lcm\media_desk_dev_3\mciqtz32.dll.mui.lcm]LcxAdmin={Adaptation}As per Dev, if these strings were never localized before, they need to remain in English, otherwize they need to be localized  consistently"-->direct</Map>
+  <Map Src="monotype sorts" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="6744E0E83B8CC01850670BDA4B87545D">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->monotype sorts</Map>
+  <Map Src="nethood" ID="WinXPPhysicalFolder" Desc="[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='NetHood','WinXPPhysicalFolder'} Need to match with XP physical folder name" _locID="A27C9849E047960670D926CC80D89FA8">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='NetHood','WinXPPhysicalFolder'} Need to match with XP physical folder name"-->Netzwerkumgebung</Map>
+  <Map Src="network service" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='NETWORK SERVICE'}Account" _locID="188F8C0D2DF10281A4CE7CCFB564ED4D">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='NETWORK SERVICE'}Account"-->Netzwerkdienst</Map>
+  <Map Src="fortezza" Desc="[lcm\security_2\cryptui.dll.mui.lcm]GoldMine={MaxLength=198}(e:\nt\vista_rtm\ds\security\cryptoapi\ui\wizards\signing.cpp,1189)LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="3081A97B0D123A0CE5873B8546C02E29">
+    <!--_locComment_text=";[lcm\security_2\cryptui.dll.mui.lcm]GoldMine={MaxLength=198}(e:\nt\vista_rtm\ds\security\cryptoapi\ui\wizards\signing.cpp,1189)LcxAdmin={StringCategory='Font Name'};LCID=1033"-->fortezza</Map>
+  <Map Src="accessories" ID="WinXPPhysicalFolder" Desc="[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Accessories','WinXPPhysicalFolder'} Need to match with XP physical folder name (Program Files\Windows NT\Accessories)" _locID="D00C94C91E4169C5B486E4B25D6C5D04">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Accessories','WinXPPhysicalFolder'} Need to match with XP physical folder name (Program Files\Windows NT\Accessories)"-->Zubehör</Map>
+  <Map Src="accessories" ID="Windows9X" Desc="[lcm\multimedia_1\unregmp2.exe.mui.lcm]LcxAdmin={Map='Accessories', 'Windows9X'} {Map='Entertainment', 'Windows9X'} Folder names" _locID="DAA052C629D443E571731B2FD979AE8E">
+    <!--_locComment_text="Windows9X;[lcm\multimedia_1\unregmp2.exe.mui.lcm]LcxAdmin={Map='Accessories', 'Windows9X'} {Map='Entertainment', 'Windows9X'} Folder names"-->Zubehör</Map>
+  <Map Src="accessories" ID="WindowsNT" Desc="[lcm\multimedia_1\unregmp2.exe.mui.lcm]LCXADMIN={Map='Accessories', 'WindowsNT'} {Map='Entertainment', 'WindowsNT'} Folder names" _locID="1328E63C2B512D5C794974B4364F1831">
+    <!--_locComment_text="WindowsNT;[lcm\multimedia_1\unregmp2.exe.mui.lcm]LCXADMIN={Map='Accessories', 'WindowsNT'} {Map='Entertainment', 'WindowsNT'} Folder names"-->Zubehör</Map>
+  <Map Src="accessories" ID="StartMenuFolder" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Accessories','StartMenuFolder'}Start Menu Folder" _locID="CD0151630BF6A808425945394EA8DE00">
+    <!--_locComment_text="StartMenuFolder;[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Accessories','StartMenuFolder'}Start Menu Folder"-->Zubehör</Map>
+  <Map Src="start menu\programs\administrative tools" ID="WinXPPhysicalFolder" Desc="[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='Start Menu\Programs\Administrative Tools','WinXPPhysicalFolder'}Needs to match with XP physical folder name." _locID="D4BCD895A0167C03A5E8956D9DD62891">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='Start Menu\Programs\Administrative Tools','WinXPPhysicalFolder'}Needs to match with XP physical folder name."-->Startmenü\Programme\Verwaltung</Map>
+  <Map Src="my documents\my pictures" ID="WinXPPhysicalFolder" Desc="[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='My Documents\My Pictures','WinXPPhysicalFolder'}Needs to match with XP physical folder name." _locID="4F3879966641D88DBF9C9FC18F30C092">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='My Documents\My Pictures','WinXPPhysicalFolder'}Needs to match with XP physical folder name."-->Eigene Dateien\Eigene Bilder</Map>
+  <Map Src="arial" Desc="[lcm\security_srv\certcarc.asp.lcm]Loc={Locked=@EU@}" LCID="1033" _locID="A9A429F71EDA12694677C211FC39B556">
+    <!--_locComment_text=";[lcm\security_srv\certcarc.asp.lcm]Loc={Locked=@EU@};LCID=1033"-->arial</Map>
+  <Map Src="arial" ID="Font Name" Desc="[lcm\desktop_1a\ieframe.dll.mui.lcm]Loc={Adaptation='Segoe UI','Font Name'} {Adaptation='verdana','Font Name'} {Adaptation='Arial','Font Name'}" _locID="39A071AC8EAD4183CA215F378BA40F21">
+    <!--_locComment_text="Font Name;[lcm\desktop_1a\ieframe.dll.mui.lcm]Loc={Adaptation='Segoe UI','Font Name'} {Adaptation='verdana','Font Name'} {Adaptation='Arial','Font Name'}"-->arial</Map>
+  <Map Src="zapfdingbats" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="1C8143916FBB4FF7F19ABE937A259A08">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->zapfdingbats</Map>
+  <Map Src="windows classic" Desc="[lcm\desktop_1a\themeui.dll.mui.lcm]RCCX={Map='Windows Classic'}Scheme, needs to match with WinXP" _locID="2F80A99CFF0FEF20B577ADD790D8F99E">
+    <!--_locComment_text=";[lcm\desktop_1a\themeui.dll.mui.lcm]RCCX={Map='Windows Classic'}Scheme, needs to match with WinXP"-->Windows - klassisch</Map>
+  <Map Src="dotumche" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="291360E198EFC0D4FA1BEB6E62C11210">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->dotumche</Map>
+  <Map Src="tahoma bold, ms shell dlg" Desc="[lcm\desktop_1a\ieframe.dll.mui.lcm]Loc={StringCategory='Font Name'}" LCID="1033" _locID="71735FB470D9BA29053E5AD0655AB270">
+    <!--_locComment_text=";[lcm\desktop_1a\ieframe.dll.mui.lcm]Loc={StringCategory='Font Name'};LCID=1033"-->Tahoma Fett, MS Shell Dlg</Map>
+  <Map Src="segoe" Desc="[lcm\desktop_1b\sstext3d.scr.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc={Locked=@EU@}" LCID="1033" _locID="1CF92C4CD6DF3115951892E3C7DD7193">
+    <!--_locComment_text=";[lcm\desktop_1b\sstext3d.scr.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc={Locked=@EU@};LCID=1033"-->segoe</Map>
+  <Map Src="segoe" ID="Font Name" Desc="[lcm\desktop_1a\perfcentercpl.dll.mui.lcm]Loc={Adaptation='Segoe UI', 'Font Name'} {Adaptation='Segoe', 'Font Name'} {Adaptation='Tahoma', 'Font Name'} {Adaptation='Arial', 'Font Name'} {Adaptation='Microsoft Sans Serif', 'Font Name'} {Locked=@EU@}" _locID="F28E9FF316EF134D130D23CB31D8873E">
+    <!--_locComment_text="Font Name;[lcm\desktop_1a\perfcentercpl.dll.mui.lcm]Loc={Adaptation='Segoe UI', 'Font Name'} {Adaptation='Segoe', 'Font Name'} {Adaptation='Tahoma', 'Font Name'} {Adaptation='Arial', 'Font Name'} {Adaptation='Microsoft Sans Serif', 'Font Name'} {Locked=@EU@}"-->segoe</Map>
+  <Map Src="http://www.licensing.microsoft.com/default.asp?lang=" ID="URL" Desc="[lcm\net_media_dev_srv\LicMgr.exe.mui.lcm]Loc={Adaptation='http://www.licensing.microsoft.com/default.asp?Lang=','URL'}" _locID="EF7BC7ADECE850D19C5078D66E6006C2">
+    <!--_locComment_text="URL;[lcm\net_media_dev_srv\LicMgr.exe.mui.lcm]Loc={Adaptation='http://www.licensing.microsoft.com/default.asp?Lang=','URL'}"-->http://www.licensing.microsoft.com/default.asp?lang=</Map>
+  <Map Src="newcenturyschlbk" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="1C54ED352F7ED8402F5F7DF007C36CD1">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->newcenturyschlbk</Map>
+  <Map Src="cryptographic operators" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Cryptographic Operators'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="3D4A497C10A9BB84F34AF9C3B07C1EAF">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Cryptographic Operators'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Kryptografie-Operatoren</Map>
+  <Map Src="ffppttddccrrll" ID="Print Format" Desc="[lcm\desktop_1b\notepad.exe.mui.lcm]LcxAdmin={Adaptation='fFpPtTdDcCrRlL', 'Print Format'} Information on time, page number, etc" _locID="8958E99D4A9ACE085215B4AC579DF72E">
+    <!--_locComment_text="Print Format;[lcm\desktop_1b\notepad.exe.mui.lcm]LcxAdmin={Adaptation='fFpPtTdDcCrRlL', 'Print Format'} Information on time, page number, etc"-->nNsSuUdDzZrRlL</Map>
+  <Map Src="launch windows mail" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Launch Windows Mail'}Dependency: needs consistent translation" _locID="34DA62B8B33814057610BAD7EE02DB34">
+    <!--_locComment_text=";[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Launch Windows Mail'}Dependency: needs consistent translation"-->Windows Mail starten</Map>
+  <Map Src="hysmyeongjo m" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font name" LCID="1033" _locID="51642EEF9ACC627419C0EDDB83A9A1FD">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font name;LCID=1033"-->hysmyeongjo m</Map>
+  <Map Src="8" Desc="[lcm\security_srv\certmmc.dll.mui.lcm]LcxAdmin={Adaptation}Font size" _locID="A3EA7D7A4DC93FB5676E6D20C0A43038">
+    <!--_locComment_text=";[lcm\security_srv\certmmc.dll.mui.lcm]LcxAdmin={Adaptation}Font size"-->8</Map>
+  <Map Src="8" ID="Font Size" Desc="[lcm\security_2\gpedit.dll.mui.lcm]Loc={Adaptation='8','Font Size'}" _locID="A1A3098EEBAB5A4822C51E87C9139AEA">
+    <!--_locComment_text="Font Size;[lcm\security_2\gpedit.dll.mui.lcm]Loc={Adaptation='8','Font Size'}"-->8</Map>
+  <Map Src="8" ID="FontSize" Desc="[lcm\net_media_dev_srv\mstsmmc.dll.mui.lcm]Loc={Adaptation='8','FontSize'}" _locID="60C581C3AE0CCD0AB8F05A3D4D1CD6CF">
+    <!--_locComment_text="FontSize;[lcm\net_media_dev_srv\mstsmmc.dll.mui.lcm]Loc={Adaptation='8','FontSize'}"-->8</Map>
+  <Map Src="hyrgothic m hw" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font name" LCID="1033" _locID="B453DE445C95A2EE59139960CD909439">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font name;LCID=1033"-->hyrgothic m hw</Map>
+  <Map Src="pre" Desc="[lcm\media_desk_dev_3\mciqtz32.dll.mui.lcm]LcxAdmin={Adaptation}As per Dev, if these strings were never localized before, they need to remain in English, otherwize they need to be localized  consistently" _locID="BB8F62B960C4F7E2FB38A4EA3E460BB8">
+    <!--_locComment_text=";[lcm\media_desk_dev_3\mciqtz32.dll.mui.lcm]LcxAdmin={Adaptation}As per Dev, if these strings were never localized before, they need to remain in English, otherwize they need to be localized  consistently"-->pre</Map>
+  <Map Src="history" ID="WinXPPhysicalFolder" Desc="[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='History','WinXPPhysicalFolder'} Need to match with XP physical folder name" _locID="AE42FC31340D9FCD8F2A03A5E7413A25">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='History','WinXPPhysicalFolder'} Need to match with XP physical folder name"-->Verlauf</Map>
+  <Map Src="remote interactive logon" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='REMOTE INTERACTIVE LOGON'}Account" _locID="D25714B6BE5EB4C1E6FC6B715EDFE684">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='REMOTE INTERACTIVE LOGON'}Account"-->INTERAKTIVE REMOTEANMELDUNG</Map>
+  <Map Src="digest authentication" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='Digest Authentication'}Account" _locID="51B7D8159AF314BCE292D89BCB357D9F">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='Digest Authentication'}Account"-->Digestauthentifizierung</Map>
+  <Map Src="gothic medium bbb" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="5A8A550C2A053EFCDC786FEDACA1D688">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->gothic medium bbb</Map>
+  <Map Src="sample music" Desc="[lcm\multimedia_1\wmploc.dll.mui.lcm]LcxAdmin={Map='Sample Music'}Map: Need to match with the folder name 'Sample Music'  with the appropriate translation from the OS if available. Leave in English otherwise. MUST start with a \ (bug # 92241). Check extra instructions in 'WMP90 Folder Names Instructions.doc'" _locID="B0887433BFD9757C14715FDB8BC575FA">
+    <!--_locComment_text=";[lcm\multimedia_1\wmploc.dll.mui.lcm]LcxAdmin={Map='Sample Music'}Map: Need to match with the folder name 'Sample Music'  with the appropriate translation from the OS if available. Leave in English otherwise. MUST start with a \ (bug # 92241). Check extra instructions in 'WMP90 Folder Names Instructions.doc'"-->Beispielmusik</Map>
+  <Map Src="terminal server license servers" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Terminal Server License Servers'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="B90302DD63CBF24028E23575B6619B9A">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Terminal Server License Servers'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Terminalserver-Lizenzserver</Map>
+  <Map Src="common coverpages" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Common Coverpages'}Folder" _locID="AC00998C5371F8BD69B5276FAC2DA22A">
+    <!--_locComment_text=";[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Common Coverpages'}Folder"-->Gemeinsame Deckblätter</Map>
+  <Map Src="segoe ui" Desc="[lcm\multimedia_1\wmploc.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}RCCX=this is used in the task buttons in vista+" LCID="1033" _locID="4DA67798897E163E3AE3A00487CEC05B">
+    <!--_locComment_text=";[lcm\multimedia_1\wmploc.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}RCCX=this is used in the task buttons in vista+;LCID=1033"-->segoe ui</Map>
+  <Map Src="segoe ui" ID="Font Name" Desc="[lcm\dev_net_1\firewallcontrolpanel.exe.mui.lcm]Loc={Adaptation='Segoe UI','Font Name'} {Locked=@EU@;'Segoe UI'}" _locID="8CC391DC55EC32AEF22682119EAD8122">
+    <!--_locComment_text="Font Name;[lcm\dev_net_1\firewallcontrolpanel.exe.mui.lcm]Loc={Adaptation='Segoe UI','Font Name'} {Locked=@EU@;'Segoe UI'}"-->segoe ui</Map>
+  <Map Src="my briefcase" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='My Briefcase'}Folder" _locID="1661FA52B77FCECA6C09A576F927C717">
+    <!--_locComment_text=";[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='My Briefcase'}Folder"-->Aktenkoffer</Map>
+  <Map Src="franklin gothic" Desc="[lcm\Core_2\mstscax.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Just as FYI: this string was involved in bug 773246 on Server 2003 timeframe, affecting FE langs. Issue seems to be fixed on Vista." LCID="1033" _locID="90AD45D73C5B57E1CDA8A9AD662A88CB">
+    <!--_locComment_text=";[lcm\Core_2\mstscax.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Just as FYI: this string was involved in bug 773246 on Server 2003 timeframe, affecting FE langs. Issue seems to be fixed on Vista.;LCID=1033"-->franklin gothic</Map>
+  <Map Src="verdana, arial, sans serif" Desc="[lcm\desktop_1a\ieframe.dll.mui.lcm]Loc={Adaptation='Verdana','Font Name'}{Adaptation='{Adaptation='Arial','Font Name'}
+','Font Name'}{Adaptation='Sans Serif','Font Name'} {Locked=@EU@}" LCID="1033" _locID="BF3112F4CA2661C6B0A7693414534227">
+    <!--_locComment_text=";[lcm\desktop_1a\ieframe.dll.mui.lcm]Loc={Adaptation='Verdana','Font Name'}{Adaptation='{Adaptation='Arial','Font Name'}
+','Font Name'}{Adaptation='Sans Serif','Font Name'} {Locked=@EU@};LCID=1033"-->verdana, arial, sans serif</Map>
+  <Map Src="9pt;;;courier new bold;cleartype" Desc="[lcm\desktop_1a\msoobe.exe.mui.lcm]Loc={StringCategory='Font Name'}" LCID="1033" _locID="69699C64EAA0FC1B7CC3FD3D7E24A793">
+    <!--_locComment_text=";[lcm\desktop_1a\msoobe.exe.mui.lcm]Loc={StringCategory='Font Name'};LCID=1033"-->9pt;;;Courier New Fett;ClearType</Map>
+  <Map Src="zapfchancery" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="E67598761E3B5AAA13B84172225E1C62">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->zapfchancery</Map>
+  <Map Src="domain controllers" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Domain Controllers'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="A559E6737F6C7BB3A9A388290BF41BF2">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Domain Controllers'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Domänencontroller</Map>
+  <Map Src="tahoma, arial, sans serif" Desc="[lcm\net_media_dev_srv\wms\WMSWizard.exe.mui.lcm]Loc={Adaptation='Tahoma, Arial, Sans Serif','FontName'}" LCID="1033" _locID="8B720A98204297A3B829FEB0844C3819">
+    <!--_locComment_text=";[lcm\net_media_dev_srv\wms\WMSWizard.exe.mui.lcm]Loc={Adaptation='Tahoma, Arial, Sans Serif','FontName'};LCID=1033"-->tahoma, arial, sans serif</Map>
+  <Map Src="235" Desc="[lcm\management_srv\dcpromoui.dll.mui.lcm]LcxAdmin={Adaptation}{StringCategory='Number'}" _locID="379F89B438746C47E4BADBAEAEE1124C">
+    <!--_locComment_text=";[lcm\management_srv\dcpromoui.dll.mui.lcm]LcxAdmin={Adaptation}{StringCategory='Number'}"-->235</Map>
+  <Map Src="11.0" ID="Font Size" Desc="[lcm\core_sec_1\wscui.cpl.mui.lcm]Loc={Adaptation='11.0','Font Size'}" _locID="8326884D47A239C80DF4F909A0BDF64A">
+    <!--_locComment_text="Font Size;[lcm\core_sec_1\wscui.cpl.mui.lcm]Loc={Adaptation='11.0','Font Size'}"-->11.0</Map>
+  <Map Src="documents" ID="WinXPPhysicalFolder" Desc="[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Documents','WinXPPhysicalFolder'} Need to match with XP physical folder name" _locID="76284CEE1AD106AC2D90A3DC9040C14A">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Documents','WinXPPhysicalFolder'} Need to match with XP physical folder name"-->Dokumente</Map>
+  <Map Src="menu" Desc="[lcm\Dev_Net_Mgmt_2\mmc.exe.mui.lcm]Loc={Locked}" LCID="1033" _locID="4D582218C9C254224FA4A3F230CA55C8">
+    <!--_locComment_text=";[lcm\Dev_Net_Mgmt_2\mmc.exe.mui.lcm]Loc={Locked};LCID=1033"-->menu</Map>
+  <Map Src="schema admins" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Schema Admins'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="AA7597D175CFF331B3E0DCF17542740C">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Schema Admins'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Schema-Admins</Map>
+  <Map Src="off" Desc="[lcm\media_desk_dev_3\mciqtz32.dll.mui.lcm]LcxAdmin={Adaptation}As per Dev, if these strings were never localized before, they need to remain in English, otherwize they need to be localized  consistently" _locID="A976CE8F4CB6D309FC91BBB40CDDDB7D">
+    <!--_locComment_text=";[lcm\media_desk_dev_3\mciqtz32.dll.mui.lcm]LcxAdmin={Adaptation}As per Dev, if these strings were never localized before, they need to remain in English, otherwize they need to be localized  consistently"-->off</Map>
+  <Map Src="wingdings" Desc="[lcm\Core_3a\relmon.dll.mui.lcm]LcxAdmin=DevAttentionRequested::Please replace font adaptation with {StringCategory='Font Name'}Loc=This is a font name;RCCX={StringCategory='Font Name'}  This is a font name;" LCID="1033" _locID="8B59D827076A6C7129EABD9174E9C675">
+    <!--_locComment_text=";[lcm\Core_3a\relmon.dll.mui.lcm]LcxAdmin=DevAttentionRequested::Please replace font adaptation with {StringCategory='Font Name'}Loc=This is a font name;RCCX={StringCategory='Font Name'}  This is a font name;;LCID=1033"-->wingdings</Map>
+  <Map Src="hygungso b" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font name" LCID="1033" _locID="501A2F7CD87561A5DE87B0DB440F256B">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font name;LCID=1033"-->hygungso b</Map>
+  <Map Src="segoe ui, tahoma, arial, verdana" Desc="[lcm\Dev_Net_Mgmt_2\ptres.dll.mui.lcm]LCIreview={Adaptation='sans-serif', 'Font Name'} {NoLocRule}Loc={StringCategory='Font Name'} Font name 
+{Locked=@EU@}" LCID="1033" _locID="73A496B079CCBE9B6FBFC11DD41F6288">
+    <!--_locComment_text=";[lcm\Dev_Net_Mgmt_2\ptres.dll.mui.lcm]LCIreview={Adaptation='sans-serif', 'Font Name'} {NoLocRule}Loc={StringCategory='Font Name'} Font name 
+{Locked=@EU@};LCID=1033"-->segoe ui, tahoma, arial, verdana</Map>
+  <Map Src="startup" ID="WinXPPhysicalFolder" Desc="[lcm\media_desk_2\fdeploy.dll.mui.lcm]RCCX={Map='Startup','WinXPPhysicalFolder'} Need to match with XP physical folder name" _locID="C82B37A5BA46B1D737E72725E1A631CA">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\media_desk_2\fdeploy.dll.mui.lcm]RCCX={Map='Startup','WinXPPhysicalFolder'} Need to match with XP physical folder name"-->Autostart</Map>
+  <Map Src="on" Desc="[lcm\media_desk_dev_3\mciqtz32.dll.mui.lcm]LcxAdmin={Adaptation}As per Dev, if these strings were never localized before, they need to remain in English, otherwize they need to be localized  consistently" _locID="15A1A61DEB49BDC9A7AC8600BDDA9243">
+    <!--_locComment_text=";[lcm\media_desk_dev_3\mciqtz32.dll.mui.lcm]LcxAdmin={Adaptation}As per Dev, if these strings were never localized before, they need to remain in English, otherwize they need to be localized  consistently"-->on</Map>
+  <Map Src="gulimche" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="5B83823F910B20C771105FD5F58AC758">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->gulimche</Map>
+  <Map Src="enterprise read-only domain controllers" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Enterprise Read-only Domain Controllers'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="C9BE6AF68656ABC0DFF64BD134552948">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Enterprise Read-only Domain Controllers'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Domänencontroller der Organisation ohne Schreibzugriff</Map>
+  <Map Src="segoe ui, segoe, verdana, tahoma, arial, microsoft sans serif" Desc="[lcm\desktop_1a\perfcentercpl.dll.mui.lcm]Loc={Adaptation='Segoe UI', 'Font Name'} {Adaptation='Segoe', 'Font Name'} {Adaptation='Tahoma', 'Font Name'} {Adaptation='Arial', 'Font Name'} {Adaptation='Microsoft Sans Serif', 'Font Name'} {Locked=@EU@} {Adaptation='Verdana', 'Font Name'}" LCID="1033" _locID="94DC09DE23C12BEFCE7A98F1DCDD0515">
+    <!--_locComment_text=";[lcm\desktop_1a\perfcentercpl.dll.mui.lcm]Loc={Adaptation='Segoe UI', 'Font Name'} {Adaptation='Segoe', 'Font Name'} {Adaptation='Tahoma', 'Font Name'} {Adaptation='Arial', 'Font Name'} {Adaptation='Microsoft Sans Serif', 'Font Name'} {Locked=@EU@} {Adaptation='Verdana', 'Font Name'};LCID=1033"-->segoe ui, segoe, verdana, tahoma, arial, microsoft sans serif</Map>
+  <Map Src="segoeui, tahoma" Desc="[lcm\desktop_1b\sidebar.exe.mui.lcm]GoldMine={MaxLength=99}(e:\nt\vista_rtm\enduser\winapps\sidebar\ui\flyouthostwindow.cpp,840)LcxAdmin={StringCategory='Font Name'}Loc={StringCategory='Font Name'} {Locked=@EU@}" LCID="1033" _locID="ECD93D48A10B492F297EF20D73BDD29F">
+    <!--_locComment_text=";[lcm\desktop_1b\sidebar.exe.mui.lcm]GoldMine={MaxLength=99}(e:\nt\vista_rtm\enduser\winapps\sidebar\ui\flyouthostwindow.cpp,840)LcxAdmin={StringCategory='Font Name'}Loc={StringCategory='Font Name'} {Locked=@EU@};LCID=1033"-->segoeui, tahoma</Map>
+  <Map Src="20pt;;;segoe ui;cleartype" Desc="[lcm\desktop_1a\msoobe.exe.mui.lcm]Loc={Locked=@EU@} {StringCategory='Font Name'}" LCID="1033" _locID="8EFCC10BB3276C8D2814C8AE61D4FD79">
+    <!--_locComment_text=";[lcm\desktop_1a\msoobe.exe.mui.lcm]Loc={Locked=@EU@} {StringCategory='Font Name'};LCID=1033"-->20pt;;;segoe ui;cleartype</Map>
+  <Map Src="favorites" ID="WinXPPhysicalFolder" Desc="[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Favorites','WinXPPhysicalFolder'} Need to match with XP physical folder name" _locID="69DB5730B780125433E215F758C376F9">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Favorites','WinXPPhysicalFolder'} Need to match with XP physical folder name"-->Favoriten</Map>
+  <Map Src="helvetica-narrow" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="93469A23C77F3EDE6C483281C7380BC3">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->helvetica-narrow</Map>
+  <Map Src="channels" Desc="[lcm\media_desk_2\iedkcs32.dll.mui.lcm]LcxAdmin={Map='Channels'}Folder" _locID="DAB7FD8E045040F05AD52F85AE1198F1">
+    <!--_locComment_text=";[lcm\media_desk_2\iedkcs32.dll.mui.lcm]LcxAdmin={Map='Channels'}Folder"-->Channels</Map>
+  <Map Src="segoe ui, 9, italic, quality:cleartype" Desc="[lcm\desktop_1a\aero.mst.mui.lcm]Loc={Locked=@EU@} {Placeholder=', Italic, Quality:ClearType'}RCCX={StringCategory='Font Name'}This is a FONT" LCID="1033" _locID="E39A4448988D968D21FB5259115C4BBB">
+    <!--_locComment_text=";[lcm\desktop_1a\aero.mst.mui.lcm]Loc={Locked=@EU@} {Placeholder=', Italic, Quality:ClearType'}RCCX={StringCategory='Font Name'}This is a FONT;LCID=1033"-->segoe ui, 9, italic, quality:cleartype</Map>
+  <Map Src="verdana bold" ID="FontName" Desc="[lcm\net_media_dev_srv\dhcpsnap.dll.mui.lcm]Loc={Adaptation='Verdana Bold','FontName'}" _locID="52B8FBCD0EA069CC3F028591A68DC697">
+    <!--_locComment_text="FontName;[lcm\net_media_dev_srv\dhcpsnap.dll.mui.lcm]Loc={Adaptation='Verdana Bold','FontName'}"-->Verdana Fett</Map>
+  <Map Src="verdana bold" Desc="[lcm\networking_3\dot3gpui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="50A5637049CFBD08328649B3C09671AD">
+    <!--_locComment_text=";[lcm\networking_3\dot3gpui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->Verdana Fett</Map>
+  <Map Src="verdana bold" Desc="[lcm\management_srv\dcpromocmd.dll.mui.lcm]LcxAdmin={Adaptation}Font name" _locID="051B3C35A070237EEF756A98AF8B1E9C">
+    <!--_locComment_text=";[lcm\management_srv\dcpromocmd.dll.mui.lcm]LcxAdmin={Adaptation}Font name"-->Verdana Fett</Map>
+  <Map Src="enterprise domain controllers" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='ENTERPRISE DOMAIN CONTROLLERS'}Account" _locID="3547A6C379393C2CE0804454EB661CD7">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='ENTERPRISE DOMAIN CONTROLLERS'}Account"-->DOMÄNENCONTROLLER DER ORGANISATION</Map>
+  <Map Src="9;normal;none;segoe ui" Desc="[lcm\desktop_1a\authui.dll.mui.lcm]Loc={Locked=@EU@} {StringCategory='Font Name'}RCCX=Font property strings for 'common' (ie, LogonUI) DUI markup {StringCategory='Font Name'}This is a FONT" LCID="1033" _locID="7FB195DCD0E598C098C3E19E2E2923A3">
+    <!--_locComment_text=";[lcm\desktop_1a\authui.dll.mui.lcm]Loc={Locked=@EU@} {StringCategory='Font Name'}RCCX=Font property strings for 'common' (ie, LogonUI) DUI markup {StringCategory='Font Name'}This is a FONT;LCID=1033"-->9;normal;none;segoe ui</Map>
+  <Map Src="helvetica" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="9E9F78F0C2D91D6A39D074674582737B">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->helvetica</Map>
+  <Map Src="local service" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='LOCAL SERVICE'}Display version of internal account" _locID="37F8F3BCDDDC14F8C3B5850AB94C242E">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='LOCAL SERVICE'}Display version of internal account"-->Lokaler Dienst</Map>
+  <Map Src="software updates" Desc="[lcm\media_desk_2\iedkcs32.dll.mui.lcm]LcxAdmin={Map='Software Updates'}Folder" _locID="BFA24F251A533DA18DC8290E4C1A594E">
+    <!--_locComment_text=";[lcm\media_desk_2\iedkcs32.dll.mui.lcm]LcxAdmin={Map='Software Updates'}Folder"-->Softwareupdates</Map>
+  <Map Src="calibri" Desc="[lcm\desktop_1b\gadgets\rssfeeds\RSSFeeds.html.lcm]Loc={Locked=@EU@} Note: this is a font name" LCID="1033" _locID="591B0CC74A4F527475195E0DA9DCB4D3">
+    <!--_locComment_text=";[lcm\desktop_1b\gadgets\rssfeeds\RSSFeeds.html.lcm]Loc={Locked=@EU@} Note: this is a font name;LCID=1033"-->calibri</Map>
+  <Map Src="builtin" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='BUILTIN'}Account" _locID="DF0E6D4929D819035E9428EA85126EFE">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='BUILTIN'}Account"-->VORDEFINIERT</Map>
+  <Map Src="builtin" ID="Acount name" Desc="[lcm\Security_3\ntmarta.dll.mui.lcm]LcxAdmin={Map='BUILTIN','Acount name'}Display only." _locID="42B334A2322591BFAA8617E84059C20F">
+    <!--_locComment_text="Acount name;[lcm\Security_3\ntmarta.dll.mui.lcm]LcxAdmin={Map='BUILTIN','Acount name'}Display only."-->VORDEFINIERT</Map>
+  <Map Src="&quot;segoe ui&quot;, &quot;verdana&quot;, &quot;arial&quot;" Desc="[lcm\desktop_1a\ieframe.dll.mui.lcm]Loc={Locked=@EU@}" LCID="1033" _locID="119B0402B38EAEF7AD8F5B1DFE61C8F4">
+    <!--_locComment_text=";[lcm\desktop_1a\ieframe.dll.mui.lcm]Loc={Locked=@EU@};LCID=1033"-->"segoe ui", "verdana", "arial"</Map>
+  <Map Src="restricted" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='RESTRICTED'}Account" _locID="20B70595FF33D3C3EA7B07E03A8F0518">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='RESTRICTED'}Account"-->EINGESCHRÄNKTER ZUGRIFF</Map>
+  <Map Src="tahoma, ms shell dlg" Desc="[lcm\desktop_1a\ieframe.dll.mui.lcm]Loc={Adaptation='Tahoma', 'Font Name'} {Adaptation='MS Shell Dlg', 'Font Name'}" LCID="1033" _locID="CD3025D2762061DAECAB55C81F1D1E78">
+    <!--_locComment_text=";[lcm\desktop_1a\ieframe.dll.mui.lcm]Loc={Adaptation='Tahoma', 'Font Name'} {Adaptation='MS Shell Dlg', 'Font Name'};LCID=1033"-->tahoma, ms shell dlg</Map>
+  <Map Src="195" Desc="[lcm\management_srv\dcpromoui.dll.mui.lcm]LcxAdmin={Adaptation}{StringCategory='Number'}" _locID="1DFCE8E29E977C6B9E74C0483FDAA3F7">
+    <!--_locComment_text=";[lcm\management_srv\dcpromoui.dll.mui.lcm]LcxAdmin={Adaptation}{StringCategory='Number'}"-->195</Map>
+  <Map Src="ms gothic" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="BBBD39CD33330E9AF72E7AB7F57AE40D">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->ms gothic</Map>
+  <Map Src="domain computers" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Domain Computers'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="60179EFC9CBA8513597B06925DDA16B9">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Domain Computers'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Domänencomputer</Map>
+  <Map Src="recycle bin" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Recycle Bin'}Folder" _locID="A484075AFF046BFCE27D0CEA08DF16E2">
+    <!--_locComment_text=";[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Recycle Bin'}Folder"-->Papierkorb</Map>
+  <Map Src="microsoft sans serif" ID="FontName" Desc="[lcm\net_media_dev_srv\mstsmmc.dll.mui.lcm]Loc={Adaptation='Microsoft Sans Serif','FontName'}" _locID="5B66C5C2561A06A77B27465AD5BC7B48">
+    <!--_locComment_text="FontName;[lcm\net_media_dev_srv\mstsmmc.dll.mui.lcm]Loc={Adaptation='Microsoft Sans Serif','FontName'}"-->microsoft sans serif</Map>
+  <Map Src="microsoft sans serif" ID="Font Name" Desc="[lcm\desktop_1a\perfcentercpl.dll.mui.lcm]Loc={Adaptation='Segoe UI', 'Font Name'} {Adaptation='Segoe', 'Font Name'} {Adaptation='Tahoma', 'Font Name'} {Adaptation='Arial', 'Font Name'} {Adaptation='Microsoft Sans Serif', 'Font Name'} {Locked=@EU@}" _locID="B9A219A174891FC22089F578E321E5D6">
+    <!--_locComment_text="Font Name;[lcm\desktop_1a\perfcentercpl.dll.mui.lcm]Loc={Adaptation='Segoe UI', 'Font Name'} {Adaptation='Segoe', 'Font Name'} {Adaptation='Tahoma', 'Font Name'} {Adaptation='Arial', 'Font Name'} {Adaptation='Microsoft Sans Serif', 'Font Name'} {Locked=@EU@}"-->microsoft sans serif</Map>
+  <Map Src="anonymous logon" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='ANONYMOUS LOGON'}Account" _locID="92D86296CA8C45711C34F9023229B98A">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='ANONYMOUS LOGON'}Account"-->ANONYMOUS-ANMELDUNG</Map>
+  <Map Src="post" Desc="[lcm\media_desk_dev_3\mciqtz32.dll.mui.lcm]LcxAdmin={Adaptation}As per Dev, if these strings were never localized before, they need to remain in English, otherwize they need to be localized  consistently" _locID="BCF4D3FDCE86E3AB23FAF424B8176C53">
+    <!--_locComment_text=";[lcm\media_desk_dev_3\mciqtz32.dll.mui.lcm]LcxAdmin={Adaptation}As per Dev, if these strings were never localized before, they need to remain in English, otherwize they need to be localized  consistently"-->post</Map>
+  <Map Src="11;normal;none;segoe ui" Desc="[lcm\desktop_1a\authui.dll.mui.lcm]Loc={Locked=@EU@} {StringCategory='Font Name'}RCCX={StringCategory='Font Name'}This is a FONT" LCID="1033" _locID="6B8456F0B720D2D891637D555E12758F">
+    <!--_locComment_text=";[lcm\desktop_1a\authui.dll.mui.lcm]Loc={Locked=@EU@} {StringCategory='Font Name'}RCCX={StringCategory='Font Name'}This is a FONT;LCID=1033"-->11;normal;none;segoe ui</Map>
+  <Map Src="accessories\communications" ID="WinXPPhysicalFolder" Desc="[lcm\media_desk_dev_3\shmig.dll.mui.lcm]Loc={Map='Accessories\Communications','WinXPPhysicalFolder'}; Needs to match with the folder name on XP" _locID="1ECB498933C32B36DCAB3C64AA60FC52">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\media_desk_dev_3\shmig.dll.mui.lcm]Loc={Map='Accessories\Communications','WinXPPhysicalFolder'}; Needs to match with the folder name on XP"-->Zubehör\Kommunikation</Map>
+  <Map Src="ms shell dlg" Desc="[lcm\security_srv\certmmc.dll.mui.lcm]LcxAdmin={Adaptation}Font" _locID="683C43BB120BD93841176AC0207A130D">
+    <!--_locComment_text=";[lcm\security_srv\certmmc.dll.mui.lcm]LcxAdmin={Adaptation}Font"-->ms shell dlg</Map>
+  <Map Src="ms shell dlg" ID="FontName" Desc="[lcm\net_media_dev_srv\lrwizdll.dll.mui.lcm]Loc={Adaptation='MS Shell Dlg','FontName'}" _locID="A8A9809D53765D0005442C058797B2BB">
+    <!--_locComment_text="FontName;[lcm\net_media_dev_srv\lrwizdll.dll.mui.lcm]Loc={Adaptation='MS Shell Dlg','FontName'}"-->ms shell dlg</Map>
+  <Map Src="ms shell dlg" Desc="[lcm\multimedia_1\wmploc.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}This is the font name for the text in SKIN CHOOSER. Please see 'WMP90 Font Instructions.doc' for instructions.RCCX=font face" LCID="1033" _locID="FD932D128173A5481ED50DD9ACC13B73">
+    <!--_locComment_text=";[lcm\multimedia_1\wmploc.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}This is the font name for the text in SKIN CHOOSER. Please see 'WMP90 Font Instructions.doc' for instructions.RCCX=font face;LCID=1033"-->ms shell dlg</Map>
+  <Map Src="ms shell dlg" ID="Font Name" Desc="[lcm\desktop_1a\ieframe.dll.mui.lcm]Loc={Adaptation='Tahoma', 'Font Name'} {Adaptation='MS Shell Dlg', 'Font Name'}" _locID="67157EF00E9211AFE66B0A1433C971B9">
+    <!--_locComment_text="Font Name;[lcm\desktop_1a\ieframe.dll.mui.lcm]Loc={Adaptation='Tahoma', 'Font Name'} {Adaptation='MS Shell Dlg', 'Font Name'}"-->ms shell dlg</Map>
+  <Map Src="arial narrow" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="F66D88B04AE1467A03AD2404C7D51281">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->arial narrow</Map>
+  <Map Src="print operators" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Print Operators'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="6791367CA53F691283A4713B0C0710CA">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Print Operators'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Druck-Operatoren</Map>
+  <Map Src="local" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='LOCAL'}Account" _locID="76109CC0FA54C029D1DB17EC140AF84F">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='LOCAL'}Account"-->LOKAL</Map>
+  <Map Src="12" Desc="[lcm\security_srv\certmmc.dll.mui.lcm]LcxAdmin={Adaptation}Font size" _locID="DFA9AE02BAFC0BBBF98AC9D10111A01B">
+    <!--_locComment_text=";[lcm\security_srv\certmmc.dll.mui.lcm]LcxAdmin={Adaptation}Font size"-->12</Map>
+  <Map Src="12" ID="Font Size" Desc="[lcm\security_2\gpedit.dll.mui.lcm]Loc={Adaptation='12','Font Size'}" _locID="E6437C67471E9C085063C973E0E601BD">
+    <!--_locComment_text="Font Size;[lcm\security_2\gpedit.dll.mui.lcm]Loc={Adaptation='12','Font Size'}"-->12</Map>
+  <Map Src="12" ID="FontSize" Desc="[lcm\net_media_dev_srv\mstsmmc.dll.mui.lcm]Loc={Adaptation='12','FontSize'}" _locID="E8B37086CCFBBB55DE10F63582CE3724">
+    <!--_locComment_text="FontSize;[lcm\net_media_dev_srv\mstsmmc.dll.mui.lcm]Loc={Adaptation='12','FontSize'}"-->12</Map>
+  <Map Src="segoe ui, 9, underline, quality:cleartype" Desc="[lcm\desktop_1a\aero.mst.mui.lcm]Loc={Locked=@EU@} {Placeholder=', Quality:ClearType'}RCCX={StringCategory='Font Name'}This is a FONT" LCID="1033" _locID="8F9AAECF08DED14FCEBAE1D9E5DCFF78">
+    <!--_locComment_text=";[lcm\desktop_1a\aero.mst.mui.lcm]Loc={Locked=@EU@} {Placeholder=', Quality:ClearType'}RCCX={StringCategory='Font Name'}This is a FONT;LCID=1033"-->segoe ui, 9, underline, quality:cleartype</Map>
+  <Map Src="administrators" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Administrators'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="C98A25233C51B062B695431B8EFB10AA">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Administrators'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Administratoren</Map>
+  <Map Src="corbel" Desc="[lcm\media_desk_2\omdproject.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="0BCC9E846B1947E19242E186C11753CB">
+    <!--_locComment_text=";[lcm\media_desk_2\omdproject.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->corbel</Map>
+  <Map Src="microsoft script debugger" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Microsoft Script Debugger'}Folder" _locID="B88C8CF38D80E7938BE739806909E6FD">
+    <!--_locComment_text=";[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Microsoft Script Debugger'}Folder"-->microsoft script debugger</Map>
+  <Map Src="creator owner" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='CREATOR OWNER'}Account" _locID="697762E6FD9D737B2F0B32C2F37E2BC8">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='CREATOR OWNER'}Account"-->ERSTELLER-BESITZER</Map>
+  <Map Src="kaiti_gb2312" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}RCCX=ZhS" LCID="1033" _locID="5CC07076E537345A1FBB737FF8B4001E">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}RCCX=ZhS;LCID=1033"-->kaiti_gb2312</Map>
+  <Map Src="segoe ui, tahoma, sans-serif" Desc="[lcm\desktop_1b\gadgets\stickynotes\css\notes.css.lcm]Loc={StringCategory='Font Name'} {Locked=@EU@}" LCID="1033" _locID="93B6601757E41383A9E68B165DB0EBFA">
+    <!--_locComment_text=";[lcm\desktop_1b\gadgets\stickynotes\css\notes.css.lcm]Loc={StringCategory='Font Name'} {Locked=@EU@};LCID=1033"-->segoe ui, tahoma, sans-serif</Map>
+  <Map Src="383" Desc="[lcm\management_srv\dsadmin.dll.mui.lcm]LcxAdmin={Adaptation}?" _locID="24E6083AADE4D22EFF66AD113E0EE1D6">
+    <!--_locComment_text=";[lcm\management_srv\dsadmin.dll.mui.lcm]LcxAdmin={Adaptation}?"-->383</Map>
+  <Map Src="network configuration operators" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Network Configuration Operators'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="A11E51513CA9604352426FF2E0979EEF">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Network Configuration Operators'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Netzwerkkonfigurations-Operatoren</Map>
+  <Map Src="segoe ui, 12, quality:cleartype" Desc="[lcm\desktop_1a\aero.mst.mui.lcm]Loc= {Locked=@EU@} {Placeholder=', 12, Quality:ClearType'}RCCX={StringCategory='Font Name'}This is a FONT" LCID="1033" _locID="EA15FE52343A10A25280A57FF429F7AF">
+    <!--_locComment_text=";[lcm\desktop_1a\aero.mst.mui.lcm]Loc= {Locked=@EU@} {Placeholder=', 12, Quality:ClearType'}RCCX={StringCategory='Font Name'}This is a FONT;LCID=1033"-->segoe ui, 12, quality:cleartype</Map>
+  <Map Src="century gothic" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="D314F72CD9FED56258D2C65AA106B695">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->century gothic</Map>
+  <Map Src="yyyy" ID="Date Format" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Adaptation='yyyy', 'Date Format'}" _locID="30E6D90F7655476CBA4BBB734FE7785B">
+    <!--_locComment_text="Date Format;[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Adaptation='yyyy', 'Date Format'}"-->yyyy</Map>
+  <Map Src="high contrast #2" Desc="[lcm\desktop_1a\themeui.dll.mui.lcm]RCCX={Map='High Contrast #2'}Scheme, needs to match with WinXP" _locID="414742E5B9BAFD7FF2994D6542D2870A">
+    <!--_locComment_text=";[lcm\desktop_1a\themeui.dll.mui.lcm]RCCX={Map='High Contrast #2'}Scheme, needs to match with WinXP"-->Kontrast Nr. 2</Map>
+  <Map Src="palatino linotype" Desc="[lcm\media_desk_2\omdproject.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="84DCA7055BA5B2DBF274D7AE78D9CB71">
+    <!--_locComment_text=";[lcm\media_desk_2\omdproject.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->palatino linotype</Map>
+  <Map Src="hygothic m" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font name" LCID="1033" _locID="7888C894F3EB48DEA30E527816630D6B">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font name;LCID=1033"-->hygothic m</Map>
+  <Map Src="my video" Desc="[lcm\multimedia_1\wmploc.dll.mui.lcm]LcxAdmin={Map='My Video'} Map: Need to match with the folder name 'My Video'  with the appropriate translation from the OS if available. Leave in English otherwise. MUST start with a \ (bug # 92241)" _locID="D505CA859337DB98C3CEF576A9838DAB">
+    <!--_locComment_text=";[lcm\multimedia_1\wmploc.dll.mui.lcm]LcxAdmin={Map='My Video'} Map: Need to match with the folder name 'My Video'  with the appropriate translation from the OS if available. Leave in English otherwise. MUST start with a \ (bug # 92241)"-->Eigenes Video</Map>
+  <Map Src="internet user" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='INTERNET USER'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="4D5441AF942CF3E52B767866C82F105D">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='INTERNET USER'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->INTERNETBENUTZER</Map>
+  <Map Src="bold" Desc="[lcm\Dev_Net_Mgmt_2\ptres.dll.mui.lcm]LCIreview={Adaptation='sans-serif', 'Font Name'} {NoLocRule}Loc={StringCategory='Font Name'} Font name 
+{Locked=@EU@}" LCID="1033" _locID="FAD3D0985152BC4A1C5DAC6FB7F4B0EE">
+    <!--_locComment_text=";[lcm\Dev_Net_Mgmt_2\ptres.dll.mui.lcm]LCIreview={Adaptation='sans-serif', 'Font Name'} {NoLocRule}Loc={StringCategory='Font Name'} Font name 
+{Locked=@EU@};LCID=1033"-->bold</Map>
+  <Map Src="segoe ui, 9, quality:cleartype" Desc="[lcm\desktop_1a\aero.mst.mui.lcm]Loc={Locked=@EU@} {Placeholder=', 9, Quality:ClearType'}RCCX={StringCategory='Font Name'}This is a FONT" LCID="1033" _locID="86B6279951A1B063E40091B97BDD4A27">
+    <!--_locComment_text=";[lcm\desktop_1a\aero.mst.mui.lcm]Loc={Locked=@EU@} {Placeholder=', 9, Quality:ClearType'}RCCX={StringCategory='Font Name'}This is a FONT;LCID=1033"-->segoe ui, 9, quality:cleartype</Map>
+  <Map Src="ntlm authentication" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='NTLM Authentication'}Account" _locID="410953CE55329EDFAB24C1A9AA352641">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='NTLM Authentication'}Account"-->NTLM-Authentifizierung</Map>
+  <Map Src="fangsong_gb2312" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="75927EF2E926F4B901D4F1A5CEB41341">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->fangsong_gb2312</Map>
+  <Map Src="remote desktop users" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Remote Desktop Users'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="3363DB492DA0D9C5D8D244EEF56A3E64">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Remote Desktop Users'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Remotedesktopbenutzer</Map>
+  <Map Src="mmm dd yyyy" ID="Date Format" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Adaptation='MMM dd yyyy', 'Date Format'}" _locID="E91A1CCCD037F91A413F9720CC7D2A38">
+    <!--_locComment_text="Date Format;[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Adaptation='MMM dd yyyy', 'Date Format'}"-->dd MMM yyyy</Map>
+  <Map Src="segoe print" Desc="[lcm\media_desk_2\omdproject.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="AF6AB07C4221ABCCB95C643EE2D879A8">
+    <!--_locComment_text=";[lcm\media_desk_2\omdproject.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->segoe print</Map>
+  <Map Src="segoe ui, 10, quality:cleartype" Desc="[lcm\desktop_1a\aero.mst.mui.lcm]Loc={Locked=@EU@} {Placeholder=', Quality:ClearType'}RCCX={StringCategory='Font Name'}This is a FONT" LCID="1033" _locID="7F49F3A50654CCB1AB89A65750C6143D">
+    <!--_locComment_text=";[lcm\desktop_1a\aero.mst.mui.lcm]Loc={Locked=@EU@} {Placeholder=', Quality:ClearType'}RCCX={StringCategory='Font Name'}This is a FONT;LCID=1033"-->segoe ui, 10, quality:cleartype</Map>
+  <Map Src="administrator" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Administrator'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='22'}" _locID="1F96A43714CAD3679222C0579093D882">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Administrator'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='22'}"-->Administrator</Map>
+  <Map Src="(none)" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='(None)'}Desktop Wallpaper string dependency" _locID="E742DEE26E305614980792DF6DAC143F">
+    <!--_locComment_text=";[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='(None)'}Desktop Wallpaper string dependency"-->(Kein)</Map>
+  <Map Src="ms sans serif" ID="Font Name" Desc="[lcm\security_2\cryptui.dll.mui.lcm]Loc={Adaptation='MS Sans Serif','Font Name'}" _locID="E6A40EBC0F6EDB542A383CAB9B03F2F8">
+    <!--_locComment_text="Font Name;[lcm\security_2\cryptui.dll.mui.lcm]Loc={Adaptation='MS Sans Serif','Font Name'}"-->ms sans serif</Map>
+  <Map Src="ms sans serif" Desc="[lcm\multimedia_1\wmploc.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'} Shim Skin FontFace (bug 120621)RCCX=Font control for the shim skin" LCID="1033" _locID="BA72BF24CFE651D2AC367568FCEC0ABA">
+    <!--_locComment_text=";[lcm\multimedia_1\wmploc.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'} Shim Skin FontFace (bug 120621)RCCX=Font control for the shim skin;LCID=1033"-->ms sans serif</Map>
+  <Map Src="170" Desc="[lcm\management_srv\dcpromoui.dll.mui.lcm]LcxAdmin={Adaptation}{StringCategory='Number'}" _locID="AEC215CDF08D5C5B0A78BD96A7B952A1">
+    <!--_locComment_text=";[lcm\management_srv\dcpromoui.dll.mui.lcm]LcxAdmin={Adaptation}{StringCategory='Number'}"-->170</Map>
+  <Map Src="group policy creator owners" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Group Policy Creator Owners'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="072EBA7D379C9E84AC612768DD6D8950">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Group Policy Creator Owners'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Richtlinien-Ersteller-Besitzer</Map>
+  <Map Src="local settings\application data" ID="WinXPPhysicalFolder" Desc="[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='Local Settings\Application Data','WinXPPhysicalFolder'}Needs to match with XP physical folder name." _locID="01789F8AABE9178A7EFD7084938ADB2B">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='Local Settings\Application Data','WinXPPhysicalFolder'}Needs to match with XP physical folder name."-->Lokale Einstellungen\Anwendungsdaten</Map>
+  <Map Src="georgia" Desc="[lcm\media_desk_2\omdproject.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="C2EB36C5346ABE5E4C0A9B5A7A58E864">
+    <!--_locComment_text=";[lcm\media_desk_2\omdproject.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->georgia</Map>
+  <Map Src="desktop" ID="WinXPPhysicalFolder" Desc="[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Desktop','WinXPPhysicalFolder'} Need to match with XP physical folder name" _locID="8111109AA27C1E6924FB035DBB258D06">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Desktop','WinXPPhysicalFolder'} Need to match with XP physical folder name"-->Desktop</Map>
+  <Map Src="desktop" Desc="[lcm\media_desk_2\iedkcs32.dll.mui.lcm]LcxAdmin={Map='Desktop'}Folder" _locID="70C74ED495C7F3186C2179F712DFC994">
+    <!--_locComment_text=";[lcm\media_desk_2\iedkcs32.dll.mui.lcm]LcxAdmin={Map='Desktop'}Folder"-->Desktop</Map>
+  <Map Src="everyone" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='Everyone'}Account" _locID="4116A2D648D99F838B5908E1F1A81E5A">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='Everyone'}Account"-->Jeder</Map>
+  <Map Src="ms shell dlg,8,0" Desc="[lcm\desktop_1b\hhctrl.ocx.mui.lcm]LcxAdmin={StringCategory='Font Name'} FontLoc={Locked=@EU@}" LCID="1033" _locID="0B5727389ECCF5A5B869C06818E38601">
+    <!--_locComment_text=";[lcm\desktop_1b\hhctrl.ocx.mui.lcm]LcxAdmin={StringCategory='Font Name'} FontLoc={Locked=@EU@};LCID=1033"-->ms shell dlg,8,0</Map>
+  <Map Src="links" ID="WinXPPhysicalFolder" Desc="[lcm\media_desk_2\iedkcs32.dll.mui.lcm]LcxAdmin={Adaptation=s+0..e-0,'WinXPPhysicalFolder'}" _locID="31E0B8E96477E208FAA9F6F98864188C">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\media_desk_2\iedkcs32.dll.mui.lcm]LcxAdmin={Adaptation=s+0..e-0,'WinXPPhysicalFolder'}"-->Links</Map>
+  <Map Src="high contrast #1" Desc="[lcm\desktop_1a\themeui.dll.mui.lcm]RCCX={Map='High Contrast #1'}Scheme, needs to match with WinXP" _locID="34AC373C0D07D740F4E87BD5D3D12B42">
+    <!--_locComment_text=";[lcm\desktop_1a\themeui.dll.mui.lcm]RCCX={Map='High Contrast #1'}Scheme, needs to match with WinXP"-->Kontrast Nr. 1</Map>
+  <Map Src="accessories\accessibility" ID="WinXPPhysicalFolder" Desc="[lcm\media_desk_dev_3\shmig.dll.mui.lcm]Loc={Map='Accessories\Accessibility','WinXPPhysicalFolder'}; Needs to match with the folder name on XP" _locID="909A52EBD891CCE69A99D533722A20E7">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\media_desk_dev_3\shmig.dll.mui.lcm]Loc={Map='Accessories\Accessibility','WinXPPhysicalFolder'}; Needs to match with the folder name on XP"-->Zubehör\Eingabehilfen</Map>
+  <Map Src="constantia" Desc="[lcm\media_desk_2\omdproject.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="DD8D8E1F2CE12A3EE14BEFD756B2A93C">
+    <!--_locComment_text=";[lcm\media_desk_2\omdproject.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->constantia</Map>
+  <Map Src="gungsuh" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font name" LCID="1033" _locID="4EA2D884733F32D35701C088D6312AD0">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font name;LCID=1033"-->gungsuh</Map>
+  <Map Src="terminal server user" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='TERMINAL SERVER USER'}Account" _locID="B9BF6C84192348424F13D1F1D1EDAE78">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='TERMINAL SERVER USER'}Account"-->TERMINALSERVERBENUTZER</Map>
+  <Map Src="&quot;trebuchet ms&quot;, &quot;verdana&quot; , &quot;arial&quot;" Desc="[lcm\desktop_1a\ieframe.dll.mui.lcm]" LCID="1033" _locID="98569A3F2F886D87F7FD01F6F6597C98">
+    <!--_locComment_text=";[lcm\desktop_1a\ieframe.dll.mui.lcm];LCID=1033"-->"trebuchet ms", "verdana" , "arial"</Map>
+  <Map Src="gulim" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font name" LCID="1033" _locID="30BE06F2AA57D7988F79F0F048D1C19A">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font name;LCID=1033"-->gulim</Map>
+  <Map Src="games" ID="WinXPPhysicalFolder" Desc="[lcm\media_desk_dev_3\shmig.dll.mui.lcm]Loc={Map='Games','WinXPPhysicalFolder'}; Needs to match with the folder name on XP" _locID="03678A2210555490113A30BB9BC6D70E">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\media_desk_dev_3\shmig.dll.mui.lcm]Loc={Map='Games','WinXPPhysicalFolder'}; Needs to match with the folder name on XP"-->Spiele</Map>
+  <Map Src="input" Desc="[lcm\media_desk_dev_3\mciqtz32.dll.mui.lcm]LcxAdmin={Adaptation}As per Dev, if these strings were never localized before, they need to remain in English, otherwize they need to be localized  consistently" _locID="719C6FFBCAA6B14D200B9D6B65964774">
+    <!--_locComment_text=";[lcm\media_desk_dev_3\mciqtz32.dll.mui.lcm]LcxAdmin={Adaptation}As per Dev, if these strings were never localized before, they need to remain in English, otherwize they need to be localized  consistently"-->input</Map>
+  <Map Src="enterprise admins" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Enterprise Admins'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="56E96A14E8F324C04EA37C4C295F3603">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Enterprise Admins'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Organisations-Admins</Map>
+  <Map Src="accessories\entertainment" ID="WinXPPhysicalFolder" Desc="[lcm\media_desk_dev_3\shmig.dll.mui.lcm]Loc={Map='Accessories\Entertainment','WinXPPhysicalFolder'}; Needs to match with the folder name on XP" _locID="E66B47D7FF385E6F99374DF6A0A6234C">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\media_desk_dev_3\shmig.dll.mui.lcm]Loc={Map='Accessories\Entertainment','WinXPPhysicalFolder'}; Needs to match with the folder name on XP"-->Zubehör\Unterhaltungsmedien</Map>
+  <Map Src="windows authorization access group" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Windows Authorization Access Group'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="2E13D891EB79BEA02AF643EF070D5230">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Windows Authorization Access Group'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Windows-Autorisierungszugriffsgruppe</Map>
+  <Map Src="dotum" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font name" LCID="1033" _locID="DCE9A0C6008644745AD6DF944F8F74F2">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font name;LCID=1033"-->dotum</Map>
+  <Map Src="account operators" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Account Operators'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="01FB7DCD7044687D3A3F5CE524CBE69A">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Account Operators'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Konten-Operatoren</Map>
+  <Map Src="my music" ID="WinXPPhysicalFolder" Desc="[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='My Music','WinXPPhysicalFolder'} Need to match with XP physical folder name" _locID="5F96054376137D27FB39D226A2EFC550">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='My Music','WinXPPhysicalFolder'} Need to match with XP physical folder name"-->Eigene Musik</Map>
+  <Map Src="my music" Desc="[lcm\multimedia_1\wmploc.dll.mui.lcm]Loc={Map='My Music'}Map: Need to match with the folder name 'My Music'  with the appropriate translation from the OS if available. Leave in English otherwise. MUST start with a \ (bug # 92241). Check extra instructions in 'WMP90 Folder Names Instructions.doc'" _locID="510764A065B4A8B669213975EB5673E3">
+    <!--_locComment_text=";[lcm\multimedia_1\wmploc.dll.mui.lcm]Loc={Map='My Music'}Map: Need to match with the folder name 'My Music'  with the appropriate translation from the OS if available. Leave in English otherwise. MUST start with a \ (bug # 92241). Check extra instructions in 'WMP90 Folder Names Instructions.doc'"-->Eigene Musik</Map>
+  <Map Src="network" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='NETWORK'}Account" _locID="C6DB8245AB83BE042B55CB8CE241383F">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='NETWORK'}Account"-->NETZWERK</Map>
+  <Map Src="my pictures" ID="WinXPPhysicalFolder" Desc="[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='My Pictures','WinXPPhysicalFolder'} Need to match with XP physical folder name" _locID="BBFEA9E56F1B7DBC27EF65227CAEDF42">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='My Pictures','WinXPPhysicalFolder'} Need to match with XP physical folder name"-->Eigene Bilder</Map>
+  <Map Src="computer" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Computer'}Folder: IDS_MYCOMPUTER" _locID="A133C0243B77CC7DB17ACE382B34EED2">
+    <!--_locComment_text=";[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Computer'}Folder: IDS_MYCOMPUTER"-->Computer</Map>
+  <Map Src="h':'mm tt" ID="Time Format" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Adaptation='h\':\'mm tt', 'Time Format'}" _locID="C99B14295904EC28F86C7858BBB4E6D0">
+    <!--_locComment_text="Time Format;[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Adaptation='h\':\'mm tt', 'Time Format'}"-->h':'mm tt</Map>
+  <Map Src="tablet pc" ID="WinXPPhysicalFolder" Desc="[lcm\media_desk_dev_3\shmig.dll.mui.lcm]Loc={Map='Tablet PC','WinXPPhysicalFolder'}; Needs to match with the folder name on XP" _locID="E65DC32FDADA5964B1A30555F07631B5">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\media_desk_dev_3\shmig.dll.mui.lcm]Loc={Map='Tablet PC','WinXPPhysicalFolder'}; Needs to match with the folder name on XP"-->tablet pc</Map>
+  <Map Src="icon" Desc="[lcm\media_desk_dev_3\pmcsnap.dll.mui.lcm]Loc={Locked}" LCID="1033" _locID="F00ABFD1E884F6A7AB603FFECD3C510C">
+    <!--_locComment_text=";[lcm\media_desk_dev_3\pmcsnap.dll.mui.lcm]Loc={Locked};LCID=1033"-->icon</Map>
+  <Map Src="application data" ID="WinXPPhysicalFolder" Desc="[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Application Data','WinXPPhysicalFolder'} Need to match with XP physical folder name" _locID="6F6533B7E587B01A9BD4C1A2DC50E938">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Application Data','WinXPPhysicalFolder'} Need to match with XP physical folder name"-->Anwendungsdaten</Map>
+  <Map Src="application data" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Application Data'}Folder" _locID="10E0AA1F682D5CC775F5CA95DCD5A3D8">
+    <!--_locComment_text=";[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Application Data'}Folder"-->Anwendungsdaten</Map>
+  <Map Src="windows standard" Desc="[lcm\desktop_1a\themeui.dll.mui.lcm]RCCX={Map='Windows Standard'}Scheme, needs to match with WinXP" _locID="2DAEFB39559ED09AACED4ED2A739A847">
+    <!--_locComment_text=";[lcm\desktop_1a\themeui.dll.mui.lcm]RCCX={Map='Windows Standard'}Scheme, needs to match with WinXP"-->Windows-Standard</Map>
+  <Map Src="windows standard" ID="Legacy" Desc="[lcm\desktop_1a\themeui.dll.mui.lcm]RCCX={Map='Windows Standard','Legacy'} needs to match the previous version" _locID="EBBDDC983CD47451606F5D64FCB8AA61">
+    <!--_locComment_text="Legacy;[lcm\desktop_1a\themeui.dll.mui.lcm]RCCX={Map='Windows Standard','Legacy'} needs to match the previous version"-->Windows-Standard</Map>
+  <Map Src="creator group server" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='CREATOR GROUP SERVER'}Account" _locID="C4757B8843E56692996025E53AD565F3">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='CREATOR GROUP SERVER'}Account"-->ERSTELLER-GRUPPEN-SERVER</Map>
+  <Map Src="system" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='SYSTEM'}Account" _locID="AE9F313ACFC3C9F8CCAF27BB44769DD8">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='SYSTEM'}Account"-->System</Map>
+  <Map Src="system" ID="WinXPPhysicalFolder" Desc="[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='System','WinXPPhysicalFolder'} Need to match with XP physical folder name (Program Files\Common Files\System)" _locID="982791E7870A8B625097FFAD983E201C">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='System','WinXPPhysicalFolder'} Need to match with XP physical folder name (Program Files\Common Files\System)"-->System</Map>
+  <Map Src="system" ID="Account name" Desc="[lcm\management_3\managed\miguicontrols.resources.dll.lcm]LcxAdmin={Map='SYSTEM','Account name'}" _locID="EB84C668486658D14C0D9B74E49D1B88">
+    <!--_locComment_text="Account name;[lcm\management_3\managed\miguicontrols.resources.dll.lcm]LcxAdmin={Map='SYSTEM','Account name'}"-->System</Map>
+  <Map Src="system" ID="AppletName" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={StrBegins='SYSDM.CPL,'}{Map='System','AppletName'}Dependency with system control panel applet" _locID="9D69475735D5A4E0DC784F23038E529A">
+    <!--_locComment_text="AppletName;[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={StrBegins='SYSDM.CPL,'}{Map='System','AppletName'}Dependency with system control panel applet"-->System</Map>
+  <Map Src="hysmyeongjo m hw" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font name" LCID="1033" _locID="EEC3B29DA5575A6596A3C14E79E77342">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font name;LCID=1033"-->hysmyeongjo m hw</Map>
+  <Map Src="%dh %dm %ds" ID="Time Format" Desc="[lcm\desktop_1b\wpccpl.dll.mui.lcm]LcxAdmin={Adaptation='%dh %dm %ds', 'Time Format'}" _locID="8DD29C478FC448A0E36577A31740F856">
+    <!--_locComment_text="Time Format;[lcm\desktop_1b\wpccpl.dll.mui.lcm]LcxAdmin={Adaptation='%dh %dm %ds', 'Time Format'}"-->%dh %dm %ds</Map>
+  <Map Src="printhood" ID="WinXPPhysicalFolder" Desc="[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='PrintHood','WinXPPhysicalFolder'} Need to match with XP physical folder name" _locID="9528778289EC03B057CB041240703D80">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='PrintHood','WinXPPhysicalFolder'} Need to match with XP physical folder name"-->Druckumgebung</Map>
+  <Map Src="12;normal;none;segoe ui" Desc="[lcm\desktop_1a\authui.dll.mui.lcm]Loc={Locked=@EU@} {StringCategory='Font Name'}RCCX={StringCategory='Font Name'}This is a FONT" LCID="1033" _locID="ED0775C5176EAA48EE06C7192A5F8E27">
+    <!--_locComment_text=";[lcm\desktop_1a\authui.dll.mui.lcm]Loc={Locked=@EU@} {StringCategory='Font Name'}RCCX={StringCategory='Font Name'}This is a FONT;LCID=1033"-->12;normal;none;segoe ui</Map>
+  <Map Src="guest" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Guest'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='22'}" _locID="065672D8695574394677A791B0D31272">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Guest'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='22'}"-->Gast</Map>
+  <Map Src="distributed com users" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Distributed COM Users'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="17231A6CD6D2F2E9ABF757C24D8D51E9">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Distributed COM Users'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Distributed COM-Benutzer</Map>
+  <Map Src="caption" Desc="[lcm\Dev_Net_Mgmt_2\mmc.exe.mui.lcm]Loc={Locked}" LCID="1033" _locID="3D3DCC4C588A04285502D7005EBF3262">
+    <!--_locComment_text=";[lcm\Dev_Net_Mgmt_2\mmc.exe.mui.lcm]Loc={Locked};LCID=1033"-->caption</Map>
+  <Map Src="11" ID="FontSize" Desc="[lcm\net_media_dev_srv\wms\WMSMonitorRES.dll.mui.lcm]Loc={Adaptation='11', 'FontSize'} Now Playing" _locID="A1D664CA29877B2D4F3689EF568514E8">
+    <!--_locComment_text="FontSize;[lcm\net_media_dev_srv\wms\WMSMonitorRES.dll.mui.lcm]Loc={Adaptation='11', 'FontSize'} Now Playing"-->11</Map>
+  <Map Src="lucida console" Desc="[lcm\dev_net_1\printui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc={Locked=@EU@}" LCID="1033" _locID="41439D10196C4529622D1490290AA043">
+    <!--_locComment_text=";[lcm\dev_net_1\printui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc={Locked=@EU@};LCID=1033"-->lucida console</Map>
+  <Map Src="sans serif" ID="Font Name" Desc="[lcm\desktop_1a\ieframe.dll.mui.lcm]Loc={Adaptation='Verdana','Font Name'}{Adaptation='{Adaptation='Arial','Font Name'}
+','Font Name'}{Adaptation='Sans Serif','Font Name'} {Locked=@EU@}" _locID="2F437C5DB57B7FB51299BE7A79A0B3BE">
+    <!--_locComment_text="Font Name;[lcm\desktop_1a\ieframe.dll.mui.lcm]Loc={Adaptation='Verdana','Font Name'}{Adaptation='{Adaptation='Arial','Font Name'}
+','Font Name'}{Adaptation='Sans Serif','Font Name'} {Locked=@EU@}"-->sans serif</Map>
+  <Map Src="event log readers" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Event Log Readers'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="0D1F1F83276CBB361AAC3BEC084340AC">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Event Log Readers'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Ereignisprotokollleser</Map>
+  <Map Src="sendto" ID="WinXPPhysicalFolder" Desc="[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='SendTo','WinXPPhysicalFolder'}Needs to match with XP physical folder name." _locID="21D20EE6B14E4439D40CA05E12CFF1E2">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='SendTo','WinXPPhysicalFolder'}Needs to match with XP physical folder name."-->sendto</Map>
+  <Map Src="avantgarde" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="1C8A2D5CB3CF8B78E3463A7BF9984B7C">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->avantgarde</Map>
+  <Map Src="mm/dd/yyyy" Desc="[lcm\net_media_dev_srv\managed\npsui.resources.dll.lcm]Loc={Adaptation='MM/dd/yyyy'}" _locID="E09C1840BCFB3B069007D54E2CC0C1E4">
+    <!--_locComment_text=";[lcm\net_media_dev_srv\managed\npsui.resources.dll.lcm]Loc={Adaptation='MM/dd/yyyy'}"-->dd.mm.yyyy</Map>
+  <Map Src="recent" ID="WinXPPhysicalFolder" Desc="[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='Recent','WinXPPhysicalFolder'}Needs to match with XP physical folder name." _locID="D13FB73E7CB3BD314667265B0E91D1FB">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='Recent','WinXPPhysicalFolder'}Needs to match with XP physical folder name."-->recent</Map>
+  <Map Src="stkaiti" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="4AC3859D0644CF577A9CC2B187A8D9AE">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->stkaiti</Map>
+  <Map Src="segoe media center semibold" Desc="[lcm\media_desk_2\ehres.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="BAF9035890C07C99301C9631C2315C15">
+    <!--_locComment_text=";[lcm\media_desk_2\ehres.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->segoe media center semibold</Map>
+  <Map Src="ms shell dlg 2" ID="FontName" Desc="[lcm\net_media_dev_srv\wms\WMSMonitorRES.dll.mui.lcm]Loc={Adaptation='MS Shell Dlg 2','FontName'} for the Tab control" _locID="36AB761AA254533BC74F421F200BD9A2">
+    <!--_locComment_text="FontName;[lcm\net_media_dev_srv\wms\WMSMonitorRES.dll.mui.lcm]Loc={Adaptation='MS Shell Dlg 2','FontName'} for the Tab control"-->ms shell dlg 2</Map>
+  <Map Src="ms shell dlg 2" Desc="[lcm\Core_2\dmdskres.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="A1019756478E035741EEAF130CB79DE9">
+    <!--_locComment_text=";[lcm\Core_2\dmdskres.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->ms shell dlg 2</Map>
+  <Map Src="view channels.scf" Desc="[lcm\media_desk_2\iedkcs32.dll.mui.lcm]LcxAdmin={Adaptation}Code dependency for backward compatibility. Needs to be translated the same way as in previous OS releases." _locID="D8365D949A29F55AFE8A474E805DA70A">
+    <!--_locComment_text=";[lcm\media_desk_2\iedkcs32.dll.mui.lcm]LcxAdmin={Adaptation}Code dependency for backward compatibility. Needs to be translated the same way as in previous OS releases."-->Channels anzeigen.scf</Map>
+  <Map Src="my playlists" Desc="[lcm\multimedia_1\wmploc.dll.mui.lcm]LcxAdmin={Map='My Playlists'} Folder Name" _locID="25A873D7E9869A086AB9F15823121929">
+    <!--_locComment_text=";[lcm\multimedia_1\wmploc.dll.mui.lcm]LcxAdmin={Map='My Playlists'} Folder Name"-->Eigene Wiedergabelisten</Map>
+  <Map Src="courier new" Desc="[lcm\management_3\mscfiles_ls\EventViewer_EventDetails.xsl.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="FEED74B16F2AD481B108C067AF4EE092">
+    <!--_locComment_text=";[lcm\management_3\mscfiles_ls\EventViewer_EventDetails.xsl.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->courier new</Map>
+  <Map Src="na" Desc="[lcm\desktop_1b\gadgets\stickynotes\js\notes.js.lcm]LcxAdmin=You can set up to 10 preferred fonts by setting each L_FONT_[1-10]_TEXT to a local font.  Set any extra L_FONT_[1-10]_TEXT to an empty string or 'NA' if they are to be unused.Loc={Locked=@EU@} {StringCategory='Font Name'}" LCID="1033" _locID="AC43B7D7AD0F8D23B9717A079057CB43">
+    <!--_locComment_text=";[lcm\desktop_1b\gadgets\stickynotes\js\notes.js.lcm]LcxAdmin=You can set up to 10 preferred fonts by setting each L_FONT_[1-10]_TEXT to a local font.  Set any extra L_FONT_[1-10]_TEXT to an empty string or 'NA' if they are to be unused.Loc={Locked=@EU@} {StringCategory='Font Name'};LCID=1033"-->na</Map>
+  <Map Src="{tahoma, 8 pt}" Desc="[lcm\desktop_1a\themeui.dll.mui.lcm]Loc={Locked=@EU@}RCCX={StringCategory='Font Name'}The .theme file points here so we customize the font per OS if needed." LCID="1033" _locID="E91A91DE52A645B4CC80D669697A3A63">
+    <!--_locComment_text=";[lcm\desktop_1a\themeui.dll.mui.lcm]Loc={Locked=@EU@}RCCX={StringCategory='Font Name'}The .theme file points here so we customize the font per OS if needed.;LCID=1033"-->{tahoma, 8 pt}</Map>
+  <Map Src="workgroup" Desc="[lcm\Core_3a\wpeutil.dll.mui.lcm]LcxAdmin={Map='WORKGROUP'}DisplayOnly" _locID="0E4A1085F9F5BD13215724D9E77B4D4B">
+    <!--_locComment_text=";[lcm\Core_3a\wpeutil.dll.mui.lcm]LcxAdmin={Map='WORKGROUP'}DisplayOnly"-->Arbeitsgruppe</Map>
+  <Map Src="accessories\system tools" ID="WinXPPhysicalFolder" Desc="[lcm\media_desk_dev_3\shmig.dll.mui.lcm]Loc={Map='Accessories\System Tools','WinXPPhysicalFolder'}; Needs to match with the folder name on XP" _locID="0ACFC53DB093FFF63C46C53504BE42AE">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\media_desk_dev_3\shmig.dll.mui.lcm]Loc={Map='Accessories\System Tools','WinXPPhysicalFolder'}; Needs to match with the folder name on XP"-->Zubehör\Systemprogramme</Map>
+  <Map Src="local settings\history" ID="WinXPPhysicalFolder" Desc="[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='Local Settings\History','WinXPPhysicalFolder'}Needs to match with XP physical folder name." _locID="96B1FA6B54FB4085C9547823F609ABC4">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='Local Settings\History','WinXPPhysicalFolder'}Needs to match with XP physical folder name."-->Lokale Einstellungen\Verlauf</Map>
+  <Map Src="mmmm',' yyyy" ID="Date Format" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Adaptation='MMMM\',\' yyyy', 'Date Format'}" _locID="E852E19733E3A090864B4B51671440FB">
+    <!--_locComment_text="Date Format;[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Adaptation='MMMM\',\' yyyy', 'Date Format'}"-->mmmm',' yyyy</Map>
+  <Map Src="ready" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Ready'}Bug#101642 --- This string shoule be consistent with that in printers.htt of webvw.dll" _locID="3CED2B404337C28FA6883F0813BDC453">
+    <!--_locComment_text=";[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Ready'}Bug#101642 - - - This string shoule be consistent with that in printers.htt of webvw.dll"-->Bereit</Map>
+  <Map Src="bookman old style" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="DA2C02C2AF19899A11DED63FBE168856">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->bookman old style</Map>
+  <Map Src="8pt;;;segoe ui;cleartype" Desc="[lcm\desktop_1a\msoobe.exe.mui.lcm]Loc={Locked=@EU@} {StringCategory='Font Name'}" LCID="1033" _locID="4804CA26F796B2E8535F90AE7CA60800">
+    <!--_locComment_text=";[lcm\desktop_1a\msoobe.exe.mui.lcm]Loc={Locked=@EU@} {StringCategory='Font Name'};LCID=1033"-->8pt;;;segoe ui;cleartype</Map>
+  <Map Src="hygungso b hw" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font name" LCID="1033" _locID="B6B79C092A9E3C60CB6DD61E4FD0276C">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font name;LCID=1033"-->hygungso b hw</Map>
+  <Map Src="verdana" Desc="[lcm\security_srv\certmmc.dll.mui.lcm]LcxAdmin={Adaptation}Font" _locID="28E87DAD4539475BE3EB84621C3E055E">
+    <!--_locComment_text=";[lcm\security_srv\certmmc.dll.mui.lcm]LcxAdmin={Adaptation}Font"-->verdana</Map>
+  <Map Src="verdana" Desc="[lcm\Security_3\gprsop.dll.mui.lcm]GoldMine={MaxLength=31}(e:\nt\vista_rtm\ds\grouppolicy\server\gpmcapi\gprsop\rsopwizard.cpp,1089)LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="07BB68E9E35A0BC860BB6AE8CF3B91BA">
+    <!--_locComment_text=";[lcm\Security_3\gprsop.dll.mui.lcm]GoldMine={MaxLength=31}(e:\nt\vista_rtm\ds\grouppolicy\server\gpmcapi\gprsop\rsopwizard.cpp,1089)LcxAdmin={StringCategory='Font Name'};LCID=1033"-->verdana</Map>
+  <Map Src="verdana" ID="Font Name" Desc="[lcm\security_2\gpedit.dll.mui.lcm]Loc={Adaptation='Verdana','Font Name'}" _locID="2BB81F00410B738A6BD71F73AC354BDF">
+    <!--_locComment_text="Font Name;[lcm\security_2\gpedit.dll.mui.lcm]Loc={Adaptation='Verdana','Font Name'}"-->verdana</Map>
+  <Map Src="verdana" ID="FontName" Desc="[lcm\net_media_dev_srv\mstsmmc.dll.mui.lcm]Loc={Adaptation='Verdana','FontName'}" _locID="3110921AC4D55363FE7C43454D0B811A">
+    <!--_locComment_text="FontName;[lcm\net_media_dev_srv\mstsmmc.dll.mui.lcm]Loc={Adaptation='Verdana','FontName'}"-->verdana</Map>
+  <Map Src="ryumin l-kl" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="585C70382F5EA8DF7254276D55CD6A30">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->ryumin l-kl</Map>
+  <Map Src="segoe print, segoe script, segoe ui" Desc="[lcm\desktop_1b\gadgets\stickynotes\css\notes.css.lcm]Loc={StringCategory='Font Name'} {Locked=@EU@}" LCID="1033" _locID="56B45025FD4240C1381D9B3BA7494749">
+    <!--_locComment_text=";[lcm\desktop_1b\gadgets\stickynotes\css\notes.css.lcm]Loc={StringCategory='Font Name'} {Locked=@EU@};LCID=1033"-->segoe print, segoe script, segoe ui</Map>
+  <Map Src="tahoma" Desc="[lcm\multimedia_1\wmploc.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Font NameRCCX=NOTE TO LOCALIZATION - if you change the font face below (Tahoma), please change the other fonts as well. The other fonts (all currently set to 'Arial' for the app in pre-vista, 'Segoe UI' post-vista) are used in the app for the items indicated -----------------------------------------------------" LCID="1033" _locID="8C4B23B3D43F6640813B71D2BDC1E93C">
+    <!--_locComment_text=";[lcm\multimedia_1\wmploc.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Font NameRCCX=NOTE TO LOCALIZATION - if you change the font face below (Tahoma), please change the other fonts as well. The other fonts (all currently set to 'Arial' for the app in pre-vista, 'Segoe UI' post-vista) are used in the app for the items indicated - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -;LCID=1033"-->tahoma</Map>
+  <Map Src="tahoma" ID="Font Name" Desc="[lcm\desktop_1a\ieframe.dll.mui.lcm]Loc={Adaptation='Tahoma', 'Font Name'} {Adaptation='MS Shell Dlg', 'Font Name'}" _locID="E22D9DF044C686D0C4119621B0C9560C">
+    <!--_locComment_text="Font Name;[lcm\desktop_1a\ieframe.dll.mui.lcm]Loc={Adaptation='Tahoma', 'Font Name'} {Adaptation='MS Shell Dlg', 'Font Name'}"-->tahoma</Map>
+  <Map Src="my documents\my videos" ID="WinXPPhysicalFolder" Desc="[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='My Documents\My Videos','WinXPPhysicalFolder'}Needs to match with XP physical folder name." _locID="BCC77BBE1058549EACF4DFBAE07D60E5">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='My Documents\My Videos','WinXPPhysicalFolder'}Needs to match with XP physical folder name."-->Eigene Dateien\Eigene Videos</Map>
+  <Map Src="domain admins" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Domain Admins'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="0FDD80FB3EA59C37075681D8F00434B6">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Domain Admins'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Domänen-Admins</Map>
+  <Map Src="comic sans ms" Desc="[lcm\media_desk_2\omdproject.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="96934C77E19FA61FF9EC5C7C1CB4114B">
+    <!--_locComment_text=";[lcm\media_desk_2\omdproject.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->comic sans ms</Map>
+  <Map Src="file" Desc="[lcm\media_desk_dev_3\mciqtz32.dll.mui.lcm]LcxAdmin={Adaptation}As per Dev, if these strings were never localized before, they need to remain in English, otherwize they need to be localized  consistently" _locID="68380689AFFC355260AD1FAECB10F816">
+    <!--_locComment_text=";[lcm\media_desk_dev_3\mciqtz32.dll.mui.lcm]LcxAdmin={Adaptation}As per Dev, if these strings were never localized before, they need to remain in English, otherwize they need to be localized  consistently"-->file</Map>
+  <Map Src="my documents" ID="WinXPPhysicalFolder" Desc="[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='My Documents','WinXPPhysicalFolder'} Need to match with XP physical folder name" _locID="3D8203B200641FA03C1996124FB26478">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='My Documents','WinXPPhysicalFolder'} Need to match with XP physical folder name"-->Eigene Dateien</Map>
+  <Map Src="mmmm d" ID="Date Format" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Adaptation='MMMM d', 'Date Format'}" _locID="E029976BF2CD37217715CB71C5C2AC82">
+    <!--_locComment_text="Date Format;[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Adaptation='MMMM d', 'Date Format'}"-->mmmm d</Map>
+  <Map Src="%dm %ds" ID="Time Format" Desc="[lcm\desktop_1b\wpccpl.dll.mui.lcm]LcxAdmin={Adaptation='%dm %ds', 'Time Format'}" _locID="14D1B74C46ACD5FD3BF460462FB8C7B3">
+    <!--_locComment_text="Time Format;[lcm\desktop_1b\wpccpl.dll.mui.lcm]LcxAdmin={Adaptation='%dm %ds', 'Time Format'}"-->%dm %ds</Map>
+  <Map Src="stfangsong" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="1CC1D8DA6AE6D1268C9EC29F61DF04F5">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->stfangsong</Map>
+  <Map Src="performance monitor users" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Performance Monitor Users'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="E1A178200C1C56963353F0535DF541A7">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Performance Monitor Users'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Systemmonitorbenutzer</Map>
+  <Map Src="left" Desc="[lcm\Management_4\htable.xsl.lcm]LcxAdmin={Adaptation}Alignment" _locID="0C377522CBD0E5F75E602C4E348A2E8F">
+    <!--_locComment_text=";[lcm\Management_4\htable.xsl.lcm]LcxAdmin={Adaptation}Alignment"-->left</Map>
+  <Map Src="this organization" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='This Organization'}Account" _locID="F23340473A96318839FFA645C7EE97AC">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='This Organization'}Account"-->Diese Organisation</Map>
+  <Map Src="performance log users" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Performance Log Users'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="460402F46A2A8BF71B9BBC3492EAF380">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Performance Log Users'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Leistungsprotokollbenutzer</Map>
+  <Map Src="8pt" ID="Font Size" Desc="[lcm\desktop_1a\ieframe.dll.mui.lcm]Loc={Adaptation='8pt', 'Font Size'} {Locked=@EU@}" _locID="8263871ADD075A827FEE15ED949BBF24">
+    <!--_locComment_text="Font Size;[lcm\desktop_1a\ieframe.dll.mui.lcm]Loc={Adaptation='8pt', 'Font Size'} {Locked=@EU@}"-->8pt</Map>
+  <Map Src="8pt" ID="Font Name" Desc="[lcm\desktop_1a\mshtmler.dll.mui.lcm]Loc={Locked=@EU@} {Adaptation='8pt', 'Font Name'}" _locID="A2A46213C8CB9E5AB1E6D01B67BC686F">
+    <!--_locComment_text="Font Name;[lcm\desktop_1a\mshtmler.dll.mui.lcm]Loc={Locked=@EU@} {Adaptation='8pt', 'Font Name'}"-->8pt</Map>
+  <Map Src="accessories\tablet pc" ID="WinXPPhysicalFolder" Desc="[lcm\media_desk_dev_3\shmig.dll.mui.lcm]Loc={Map='Accessories\Tablet PC','WinXPPhysicalFolder'}; Needs to match with the folder name on XP" _locID="5206E854F320DF247A330EAC5E07F153">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\media_desk_dev_3\shmig.dll.mui.lcm]Loc={Map='Accessories\Tablet PC','WinXPPhysicalFolder'}; Needs to match with the folder name on XP"-->Zubehör\tablet pc</Map>
+  <Map Src="maintenance" ID="WinXPPhysicalFolder" Desc="[lcm\media_desk_dev_3\shmig.dll.mui.lcm]Loc={Map='Maintenance','WinXPPhysicalFolder'}; Needs to match with the folder name on XP" _locID="EA26C03C9621A0C86159FF10930882B5">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\media_desk_dev_3\shmig.dll.mui.lcm]Loc={Map='Maintenance','WinXPPhysicalFolder'}; Needs to match with the folder name on XP"-->Wartung</Map>
+  <Map Src="segoe ui, segoe, tahoma, arial, microsoft sans serif" Desc="[lcm\desktop_1a\perfcentercpl.dll.mui.lcm]Loc={Adaptation='Segoe UI', 'Font Name'} {Adaptation='Segoe', 'Font Name'} {Adaptation='Tahoma', 'Font Name'} {Adaptation='Arial', 'Font Name'} {Adaptation='Microsoft Sans Serif', 'Font Name'} {Locked=@EU@}" LCID="1033" _locID="47A60AE060A865FB27C95F92206C56D2">
+    <!--_locComment_text=";[lcm\desktop_1a\perfcentercpl.dll.mui.lcm]Loc={Adaptation='Segoe UI', 'Font Name'} {Adaptation='Segoe', 'Font Name'} {Adaptation='Tahoma', 'Font Name'} {Adaptation='Arial', 'Font Name'} {Adaptation='Microsoft Sans Serif', 'Font Name'} {Locked=@EU@};LCID=1033"-->segoe ui, segoe, tahoma, arial, microsoft sans serif</Map>
+  <Map Src="marlett" Desc="[lcm\management_srv\dcpromoui.dll.mui.lcm]LcxAdmin={Adaptation}{StringCategory='Font Name'}" LCID="1033" _locID="259D57ED56C719A2F4FBC866F0D42ECE">
+    <!--_locComment_text=";[lcm\management_srv\dcpromoui.dll.mui.lcm]LcxAdmin={Adaptation}{StringCategory='Font Name'};LCID=1033"-->marlett</Map>
+  <Map Src="high contrast white" Desc="[lcm\desktop_1a\themeui.dll.mui.lcm]RCCX={Map='High Contrast White'}Scheme, needs to match with WinXP" _locID="111239D841111D43B86F6940C2309AF0">
+    <!--_locComment_text=";[lcm\desktop_1a\themeui.dll.mui.lcm]RCCX={Map='High Contrast White'}Scheme, needs to match with WinXP"-->Kontrast Weiß</Map>
+  <Map Src="my videos" ID="WinXPPhysicalFolder" Desc="[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='My Videos','WinXPPhysicalFolder'} Need to match with XP physical folder name" _locID="35408B688E1960453CB2578CDDC36039">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='My Videos','WinXPPhysicalFolder'} Need to match with XP physical folder name"-->Eigene Videos</Map>
+  <Map Src="&quot;segoe ui&quot;, &quot;verdana&quot; , &quot;arial&quot;" Desc="[lcm\desktop_1a\ieframe.dll.mui.lcm]Loc={Adaptation='Segoe UI','Font Name'} {Adaptation='verdana','Font Name'} {Adaptation='Arial','Font Name'}" LCID="1033" _locID="84D22A4578B19D236CA3CB901950F2FE">
+    <!--_locComment_text=";[lcm\desktop_1a\ieframe.dll.mui.lcm]Loc={Adaptation='Segoe UI','Font Name'} {Adaptation='verdana','Font Name'} {Adaptation='Arial','Font Name'};LCID=1033"-->"segoe ui", "verdana" , "arial"</Map>
+  <Map Src="start menu\programs" ID="WinXPPhysicalFolder" Desc="[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='Start Menu\Programs','WinXPPhysicalFolder'}Needs to match with XP physical folder name." _locID="2043D50899611E7C51F071749BAA184A">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='Start Menu\Programs','WinXPPhysicalFolder'}Needs to match with XP physical folder name."-->Startmenü\Programme</Map>
+  <Map Src="franklin gothic medium" Desc="[lcm\Core_2\acprgwiz.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="7835A0BB1C250E5B67CA0B1E527F65A7">
+    <!--_locComment_text=";[lcm\Core_2\acprgwiz.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->franklin gothic medium</Map>
+  <Map Src="75" Desc="[lcm\management_srv\dsadmin.dll.mui.lcm]LcxAdmin={Adaptation}?" _locID="CF6960660C2FB6686EDEEB1A44EB397B">
+    <!--_locComment_text=";[lcm\management_srv\dsadmin.dll.mui.lcm]LcxAdmin={Adaptation}?"-->75</Map>
+  <Map Src="entertainment" ID="Windows9X" Desc="[lcm\multimedia_1\unregmp2.exe.mui.lcm]LcxAdmin={Map='Accessories', 'Windows9X'} {Map='Entertainment', 'Windows9X'} Folder names" _locID="01A7CCBACB058A81FCDE8E2FD242F1B5">
+    <!--_locComment_text="Windows9X;[lcm\multimedia_1\unregmp2.exe.mui.lcm]LcxAdmin={Map='Accessories', 'Windows9X'} {Map='Entertainment', 'Windows9X'} Folder names"-->Unterhaltungsmedien</Map>
+  <Map Src="entertainment" ID="WindowsNT" Desc="[lcm\multimedia_1\unregmp2.exe.mui.lcm]LCXADMIN={Map='Accessories', 'WindowsNT'} {Map='Entertainment', 'WindowsNT'} Folder names" _locID="4D37364F3FD5130E00C8261F0A5328D3">
+    <!--_locComment_text="WindowsNT;[lcm\multimedia_1\unregmp2.exe.mui.lcm]LCXADMIN={Map='Accessories', 'WindowsNT'} {Map='Entertainment', 'WindowsNT'} Folder names"-->Unterhaltungsmedien</Map>
+  <Map Src="14pt" ID="Font size" Desc="[lcm\Core_2\acprgwiz.dll.mui.lcm]LcxAdmin={Adaptation='14pt','Font size'}Font size" _locID="E8BE076575271757C4779128BB723D76">
+    <!--_locComment_text="Font size;[lcm\Core_2\acprgwiz.dll.mui.lcm]LcxAdmin={Adaptation='14pt','Font size'}Font size"-->14pt</Map>
+  <Map Src="cert publishers" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Cert Publishers'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="3C4805EDCC1DA0CD8F50CCDF32D2D342">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Cert Publishers'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Zertifikatherausgeber</Map>
+  <Map Src="mmmm" ID="Time Format" Desc="[lcm\multimedia_1\photolibraryresources.dll.mui.lcm]LcxAdmin={Adaptation='MMMM', 'Time Format'}" _locID="40F94E8A7D4EB6EA8E83DF5E752E9327">
+    <!--_locComment_text="Time Format;[lcm\multimedia_1\photolibraryresources.dll.mui.lcm]LcxAdmin={Adaptation='MMMM', 'Time Format'}"-->mmmm</Map>
+  <Map Src="other organization" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='Other Organization'}Account" _locID="F96BDA2BB715B8915A0B226F250EBC23">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='Other Organization'}Account"-->Andere Organisation</Map>
+  <Map Src="symbol" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="CCBAADF48D1142FF0DF3E4E6FC25F861">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->symbol</Map>
+  <Map Src="'segoe ui', arial" Desc="[lcm\Core_3a\wdc.dll.mui.lcm]" LCID="1033" _locID="E99DEA41A5DCA3038F0C74ADFFB86E78">
+    <!--_locComment_text=";[lcm\Core_3a\wdc.dll.mui.lcm];LCID=1033"-->'segoe ui', arial</Map>
+  <Map Src="domain users" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Domain Users'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="346988F3DE2CACA00B79DD122E36A14D">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Domain Users'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Domänen-Benutzer</Map>
+  <Map Src="authenticated users" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='Authenticated Users'}Account" _locID="681F5BAAAA2B467003C4BD16A6848E44">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='Authenticated Users'}Account"-->Authentifizierte Benutzer</Map>
+  <Map Src="gungsuhche" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="481DF0CEE68490CAF6D2260126B9C887">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->gungsuhche</Map>
+  <Map Src="times new roman" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="6B3752B20BE25468E9E703E4E132FDB5">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->times new roman</Map>
+  <Map Src="10" Desc="[lcm\security_srv\certmmc.dll.mui.lcm]LcxAdmin={Adaptation}Font size" _locID="C60DBFA60EC26C969AE381DF11F27DE1">
+    <!--_locComment_text=";[lcm\security_srv\certmmc.dll.mui.lcm]LcxAdmin={Adaptation}Font size"-->10</Map>
+  <Map Src="schannel authentication" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='SChannel Authentication'}Account" _locID="7AE6D6886AE174C86107B8576758AF08">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='SChannel Authentication'}Account"-->SChannel-Authentifizierung</Map>
+  <Map Src="read-only domain controllers" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Read-only Domain Controllers'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="66540136DE16FAA4C8EE2E5BF2CE7E2D">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Read-only Domain Controllers'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Domänencontroller ohne Schreibzugriff</Map>
+  <Map Src="batangche" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="AD7FE575DD3E8BE36F8E034548F6CE59">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->batangche</Map>
+  <Map Src="bookman" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="774B80603201426AC1F04141C5B3A2DA">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->bookman</Map>
+  <Map Src="power users" Desc="[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Power Users'} Account {InvalidChars='\'/\\[]:|&lt;&gt;+=;?,*'} {MaxLength='258'}" _locID="55A2F025E4222AB0B086A51F7B1325EE">
+    <!--_locComment_text=";[lcm\Security_3\samsrv.dll.mui.lcm]LcxAdmin={Map='Power Users'} Account {InvalidChars='\'/\\[]:|<>+=;?,*'} {MaxLength='258'}"-->Hauptbenutzer</Map>
+  <Map Src="default-first-site-name" Desc="[lcm\management_srv\dcpromocmd.dll.mui.lcm]LcxAdmin={Adaptation}Cannot contain spaces or periods. Should be less then 63 bytes" _locID="F1DB12391B681D484B31A3DF37B922E0">
+    <!--_locComment_text=";[lcm\management_srv\dcpromocmd.dll.mui.lcm]LcxAdmin={Adaptation}Cannot contain spaces or periods. Should be less then 63 bytes"-->Standardname-des-ersten-Standorts</Map>
+  <Map Src="segoe script" Desc="[lcm\media_desk_2\omdproject.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="50BAA67AE255A874EB95A4D9655C73BE">
+    <!--_locComment_text=";[lcm\media_desk_2\omdproject.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->segoe script</Map>
+  <Map Src="palatino" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="916F1034CE11876FCD5F5DCC59621E77">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->palatino</Map>
+  <Map Src="century schoolbook" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="531215BD07B8B1688B52E4AB99BB9F18">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->century schoolbook</Map>
+  <Map Src="local settings" ID="WinXPPhysicalFolder" Desc="[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Local Settings','WinXPPhysicalFolder'} Need to match with XP physical folder name" _locID="0D7BFACA279529AA2E65CF6E258A86AF">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Local Settings','WinXPPhysicalFolder'} Need to match with XP physical folder name"-->Lokale Einstellungen</Map>
+  <Map Src="local settings" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Local Settings'}Folder" _locID="FC06E17906528B661CB8C8765F8149BA">
+    <!--_locComment_text=";[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Local Settings'}Folder"-->Lokale Einstellungen</Map>
+  <Map Src="creator group" Desc="[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='CREATOR GROUP'}Account" _locID="2B1CCACC237266C366D43C6DDEB74EDC">
+    <!--_locComment_text=";[lcm\Security_3\lsasrv.dll.mui.lcm]LcxAdmin={Map='CREATOR GROUP'}Account"-->ERSTELLERGRUPPE</Map>
+  <Map Src="ms mincho" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}RCCX=Jpn" LCID="1033" _locID="9C578414A2D9273FD8341D3E98C69F6F">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}RCCX=Jpn;LCID=1033"-->ms mincho</Map>
+  <Map Src="040904e4" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={PlaceHolder='StringFileInfo'}{Map='040904E4'}Locale: LCID" _locID="3F4760FD1AFEA5A2CAE297A1BCB51DA2">
+    <!--_locComment_text=";[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={PlaceHolder='StringFileInfo'}{Map='040904E4'}Locale: LCID"-->040704e4</Map>
+  <Map Src="hygothic m hw" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font name" LCID="1033" _locID="304035C449D605CB632D15AE27A2B7B4">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}Loc=Font name;LCID=1033"-->hygothic m hw</Map>
+  <Map Src="templates" ID="WinXPPhysicalFolder" Desc="[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Templates','WinXPPhysicalFolder'} Need to match with XP physical folder name" _locID="20B0AF5FBE18B8079DE085D0B3F301E0">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Templates','WinXPPhysicalFolder'} Need to match with XP physical folder name"-->Vorlagen</Map>
+  <Map Src="high contrast black" Desc="[lcm\desktop_1a\themeui.dll.mui.lcm]RCCX={Map='High Contrast Black'}Scheme, needs to match with WinXP" _locID="345C785A739E2D34C4C4458702AA3C43">
+    <!--_locComment_text=";[lcm\desktop_1a\themeui.dll.mui.lcm]RCCX={Map='High Contrast Black'}Scheme, needs to match with WinXP"-->Kontrast Schwarz</Map>
+  <Map Src="monotype corsiva" Desc="[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'}" LCID="1033" _locID="D539344CFE0A7E3D5E31419B9D696ABC">
+    <!--_locComment_text=";[lcm\locked_3\ps5ui.dll.mui.lcm]LcxAdmin={StringCategory='Font Name'};LCID=1033"-->monotype corsiva</Map>
+  <Map Src="program files" ID="WinXPPhysicalFolder" Desc="[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Program Files','WinXPPhysicalFolder'} Need to match with XP physical folder name" _locID="05947AD129C01DC43DB2E7B6EDF221F5">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Security_3\userenv.dll.mui.lcm]RCCX={Map='Program Files','WinXPPhysicalFolder'} Need to match with XP physical folder name"-->Programme</Map>
+  <Map Src="program files" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Program Files'}Folder" _locID="0CFBB47777B8E0E5B1D6C28042E9E8B6">
+    <!--_locComment_text=";[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='Program Files'}Folder"-->Programme</Map>
+  <Map Src="my files" Desc="[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='My Files'}Folder" _locID="42FF4A7048C68C6994EC7133C6C170E7">
+    <!--_locComment_text=";[lcm\desktop_1a\shell32.dll.mui.lcm]LcxAdmin={Map='My Files'}Folder"-->Eigene Dateien</Map>
+  <Map Src="212" Desc="[lcm\management_srv\dcpromoui.dll.mui.lcm]LcxAdmin={Adaptation}{StringCategory='Number'}" _locID="AEE0F732BCE996750349263AFE499F65">
+    <!--_locComment_text=";[lcm\management_srv\dcpromoui.dll.mui.lcm]LcxAdmin={Adaptation}{StringCategory='Number'}"-->212</Map>
+  <Map Src="start menu\programs\startup" ID="WinXPPhysicalFolder" Desc="[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='Start Menu\Programs\Startup','WinXPPhysicalFolder'}Needs to match with XP physical folder name." _locID="19659E560CE544518462BC029EB29F4F">
+    <!--_locComment_text="WinXPPhysicalFolder;[lcm\Core_2\migwiz\migres.dll.mui.lcm]Loc={Map='Start Menu\Programs\Startup','WinXPPhysicalFolder'}Needs to match with XP physical folder name."-->Startmenü\Programme\Autostart</Map>
+</LocRuleMapDef>

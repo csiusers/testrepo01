@@ -1,0 +1,566 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS_SETTINGS_FILE>
+    <optionSet id="LSOptions">
+        <optionSet id="Defaults" displayName="Option Defaults">
+            <optionSet id="Espresso" displayName="Espresso" />
+            <optionSet id="Parsers" displayName="Parsers" />
+        </optionSet>
+        <optionSet id="User" displayName="User Overrides">
+            <optionSet id="Espresso" displayName="Espresso" />
+            <optionSet id="Parsers" displayName="Parsers" />
+        </optionSet>
+        <optionSet id="Project" displayName="Project Overrides">
+            <optionSet id="Espresso" displayName="Espresso">
+                <optionSet id="TranslationPlatform" displayName="Translation Platform" helpText="Settings for the Translation Platform">
+                    <optionSet id="Pseudo Translation Settings" displayName="Pseudo Translation Settings" helpText="Use these settings to control the pseudo localization process.">
+                        <optionSet id="Binary pseudo localization" displayName="Binary pseudo localization" helpText="Use these settings to control pseudo localization of binaries.">
+                            <option id="\PseudoLoc\BinaryPseudoLoc\DlgHorizontalStretch" displayName="Percentage to stretch dialogs horizontally" helpText="Enter the percentage to stretch dialogs horizontally. This should be greater than zero.">
+                                <int defaultValue="40" currentValue="0" />
+                            </option>
+                            <option id="\PseudoLoc\BinaryPseudoLoc\DlgFontSize" displayName="Dialog font size" helpText="Enter the font size to use in dialogs.">
+                                <int defaultValue="8" currentValue="0" />
+                            </option>
+                            <option id="\PseudoLoc\BinaryPseudoLoc\DlgFontName" displayName="Dialog font" helpText="Enter the font to use in dialogs.">
+                                <string defaultValue="" currentValue="" />
+                            </option>
+                            <option id="\PseudoLoc\BinaryPseudoLoc\PseudoLocBinaryOnly" displayName="Pseudo localize items that do not have strings" helpText="To pseudo localize items that do not have strings, select On. Otherwise, since these items do not have a string category to identify them for pseudo localization, they will not be pseudo localized.">
+                                <boolean defaultValue="0" currentValue="1" />
+                            </option>
+                        </optionSet>
+                        <optionSet id="Delimiter and String Extension Settings" displayName="Delimiter and String Extension Settings" helpText="Use these settings to specify delimiters and extensions.">
+                            <option id="\PseudoTranslation\Delimiters and Extensions\Start Delimiter" displayName="First character delimiter" helpText="Enter the character(s) that marks the beginning of pseudo localized strings.">
+                                <string defaultValue="[" currentValue="" />
+                            </option>
+                            <option id="\PseudoTranslation\Delimiters and Extensions\End Delimiter" displayName="Last character delimiter" helpText="Enter the character(s) that marks the end of pseudo localized strings.">
+                                <string defaultValue="]" currentValue="" />
+                            </option>
+                            <option id="\PseudoTranslation\Delimiters and Extensions\Extension String" displayName="String to add to extend pseudo localized strings" helpText="Enter the string to use to extend the pseudo localized strings.">
+                                <string defaultValue=" !!!" currentValue="" />
+                            </option>
+                        </optionSet>
+                        <optionSet id="Prepend Settings" displayName="Prepend Settings" helpText="Use these settings to prepend strings during pseudo localization. Prepending adds characters to the begining of a string to approximate the string size after localization.">
+                            <option id="\PseudoTranslation\Prepend\Prepend Resource ID" displayName="Prepend resource ID" helpText="To prepend the string with the Resource ID, select Full for the whole ID or Short for only the numeric portion of the ID. To prepend the string with a unique Hash ID for the resource, select Hash ID.">
+                                <pick defaultValue="0" currentValue="0">
+                                    <defaultList>
+                                        <item string="None" itemID="0" />
+                                        <item string="Full" itemID="1" />
+                                        <item string="Short" itemID="2" />
+                                        <item string="Hash ID" itemID="3" />
+                                    </defaultList>
+                                    <currentList>
+                                        <item string="None" itemID="0" />
+                                        <item string="Full" itemID="1" />
+                                        <item string="Short" itemID="2" />
+                                        <item string="Hash ID" itemID="3" />
+                                    </currentList>
+                                </pick>
+                            </option>
+                            <option id="\PseudoTranslation\Prepend\Prepend String" displayName="Prepend Strings" helpText="Select On to prepend strings. Strings are prepended in this order: file name, resource ID, and string category.">
+                                <boolean defaultValue="1" currentValue="1" />
+                            </option>
+                            <option id="\PseudoTranslation\Prepend\Prepend File Name" displayName="Prepend file name" helpText="Select On to prepend the resource file name as part of pseudo localization.">
+                                <boolean defaultValue="0" currentValue="0" />
+                            </option>
+                            <option id="\PseudoTranslation\Prepend\Number of Characters to Prepend" displayName="Number of characters to prepend" helpText="Enter the number of characters (between 0 and 20) to add to the beginning of the string using the scripts selected in the codepage setting. This setting is only used when the replacement method is set to Combo replacement or Prepend random replacement.">
+                                <int defaultValue="5" currentValue="5" />
+                            </option>
+                            <option id="\PseudoTranslation\Prepend\Prepend String Category" displayName="Prepend string category" helpText="Select On to prepend the string category as part of pseudo localization.">
+                                <boolean defaultValue="0" currentValue="0" />
+                            </option>
+                            <option id="\PseudoTranslation\Prepend\Hash ID End Delimiter" displayName="End character delimiter for hashed resource ID" helpText="Enter the character(s) that marks the end of a hashed resource ID.">
+                                <string defaultValue="]" currentValue="]" />
+                            </option>
+                            <option id="\PseudoTranslation\Prepend\Hash ID Start Delimiter" displayName="Start character delimiter for hashed resource ID" helpText="Enter the character(s) that marks the beginning of a hashed resource ID.">
+                                <string defaultValue="[" currentValue="[" />
+                            </option>
+                        </optionSet>
+                        <optionSet id="String Growth Limitation Settings" displayName="String Growth Limitation Settings" helpText="Use these settings to limit string growth during pseudo localization. Both will be used to determine string size.">
+                            <option id="\PseudoTranslation\String Limitations\Relative String Enlargement" displayName="Percentage to stretch strings (Default)" helpText="Enter the percentage (between 0 and 100) each string can grow during pseudo localization. This value will be used for the pseudo localization categories which are not specified in the &quot;Percentage to stretch strings (Overrides)&quot; list.">
+                                <int defaultValue="40" currentValue="0" />
+                            </option>
+                            <option id="\PseudoTranslation\String Limitations\Absolute String Enlargement" displayName="Number of characters to add to strings" helpText="Enter the number of characters (between 0 and 100) to add to each string during pseudo localization.">
+                                <int defaultValue="2" currentValue="0" />
+                            </option>
+                        </optionSet>
+                        <optionSet id="String Separator Options" displayName="String Separator Options" helpText="Use these settings to control how string separators are localized.">
+                            <option id="\PseudoTranslation\String Separator\Separator" displayName="Use these as string separators" helpText="List the string separators that should be used to split the original string into substring during pseudo localization, one per line.">
+                                <stringList>
+                                    <defaultList>
+                                        <item string="\n" itemID="0" />
+                                        <item string="\r" itemID="1" />
+                                        <item string="\0" itemID="2" />
+                                        <item string="%0" itemID="3" />
+                                    </defaultList>
+                                    <currentList>
+                                        <item string="\n" itemID="0" />
+                                        <item string="\r" itemID="1" />
+                                        <item string="\0" itemID="2" />
+                                        <item string="\\n" itemID="3" />
+                                        <item string="\\t" itemID="4" />
+                                        <item string="%0" itemID="5" />
+                                        <item string="%0\r\n" itemID="6" />
+                                        <item string="%0\n" itemID="7" />
+                                        <item string="%0\r" itemID="8" />
+                                        <item string="\t" itemID="9" />
+                                        <item string="&lt;br/&gt;" itemID="10" />
+                                        <item string="&lt;BR/&gt;" itemID="11" />
+                                        <item string="&lt;br&gt;" itemID="12" />
+                                        <item string="&lt;BR&gt;" itemID="13" />
+                                        <item string="&lt;p/&gt;" itemID="14" />
+                                        <item string="&lt;P/&gt;" itemID="15" />
+                                        <item string="&lt;p&gt;" itemID="16" />
+                                        <item string="&lt;P&gt;" itemID="17" />
+                                    </currentList>
+                                </stringList>
+                            </option>
+                            <option id="\PseudoTranslation\String Separator\Enabled" displayName="Use the specified string separators" helpText="Select On to split the original string into substrings based on the specified string separators and lock the string separators from being pseudo localized.">
+                                <boolean defaultValue="1" currentValue="1" />
+                            </option>
+                        </optionSet>
+                        <optionSet id="Character and Keyboard Shortcut Replacement Settings" displayName="Character and Keyboard Shortcut Replacement Settings" helpText="Use these settings to change keyboard shortcuts and character replacement options.">
+                            <option id="\PseudoTranslation\Replacement Settings\Map Value To Use" displayName="Map value to use" helpText="Select how a map value is to be selected from the list of possible mapping values for a string.">
+                                <pick defaultValue="1" currentValue="0">
+                                    <defaultList>
+                                        <item string="First value in list" itemID="0" />
+                                        <item string="Random value from list" itemID="1" />
+                                        <item string="Same as source" itemID="2" />
+                                    </defaultList>
+                                    <currentList>
+                                        <item string="First value in list" itemID="0" />
+                                        <item string="Random value from list" itemID="1" />
+                                        <item string="Same as source" itemID="2" />
+                                    </currentList>
+                                </pick>
+                            </option>
+                            <option id="\PseudoTranslation\Replacement Settings\Replacement Method" displayName="Replacement method" helpText="Select which replacement method to use during pseudo localization. &#xD;&#xA;                                Default - Substitute characters based on the target language.&#xD;&#xA;                                None - Do not replace characters.&#xD;&#xA;                                Matching - Substitute each character with something similar.&#xD;&#xA;                                Random - Change characters at random.&#xD;&#xA;                                Prepending random - Prepend random characters.&#xD;&#xA;                                Combo - Use Matching and Prepending random methods for character replacement.">
+                                <pick defaultValue="0" currentValue="2">
+                                    <defaultList>
+                                        <item string="Default" itemID="0" />
+                                        <item string="None" itemID="1" />
+                                        <item string="Matching replacement" itemID="2" />
+                                        <item string="Random replacement" itemID="3" />
+                                        <item string="Prepending random characters" itemID="4" />
+                                        <item string="Combo replacement" itemID="5" />
+                                    </defaultList>
+                                    <currentList>
+                                        <item string="Default" itemID="0" />
+                                        <item string="None" itemID="1" />
+                                        <item string="Matching Replacement" itemID="2" />
+                                        <item string="Random Replacement" itemID="3" />
+                                        <item string="Prepending Random Characters" itemID="4" />
+                                        <item string="Combo Replacement" itemID="5" />
+                                    </currentList>
+                                </pick>
+                            </option>
+                            <option id="\PseudoTranslation\Replacement Settings\Script Selection" displayName="Script to use when replacing characters" helpText="Select the script to use to replace characters during pseudo localization.">
+                                <pick defaultValue="7" currentValue="22">
+                                    <defaultList allowAdditions="-1">
+                                        <item string="0-ASCII" itemID="0" />
+                                        <item string="1-ASCIItoDBCS" itemID="1" />
+                                        <item string="2-Unicode" itemID="2" />
+                                        <item string="3-Unicode2" itemID="3" />
+                                        <item string="4-Hindi" itemID="4" />
+                                        <item string="1250-Central European" itemID="5" />
+                                        <item string="1251-Cyrillic" itemID="6" />
+                                        <item string="1252-Western European" itemID="7" />
+                                        <item string="1253-Greek" itemID="8" />
+                                        <item string="1254-Turkish" itemID="9" />
+                                        <item string="1255-Hebrew" itemID="10" />
+                                        <item string="1256-Arabic" itemID="11" />
+                                        <item string="1257-Baltic" itemID="12" />
+                                        <item string="1258-Vietnam" itemID="13" />
+                                        <item string="874-Thai" itemID="14" />
+                                        <item string="932-Japanese" itemID="15" />
+                                        <item string="936-Simplified Chinese" itemID="16" />
+                                        <item string="949-Korean" itemID="17" />
+                                        <item string="950-Traditional Chinese" itemID="18" />
+                                        <item string="437-DOS:US" itemID="19" />
+                                        <item string="737-DOS:Greek" itemID="20" />
+                                        <item string="775-DOS:Baltic" itemID="21" />
+                                        <item string="850-DOS:Western European" itemID="22" />
+                                        <item string="852-DOS:Central European" itemID="23" />
+                                        <item string="857-DOS:Turkish" itemID="24" />
+                                        <item string="866-DOS:Cyrillic" itemID="25" />
+                                        <item string="10000-Mac:Roman" itemID="26" />
+                                        <item string="10006-Mac:Greek" itemID="27" />
+                                        <item string="10007-Mac:Cyrillic" itemID="28" />
+                                        <item string="10029-Mac:Central European" itemID="29" />
+                                        <item string="10081-Mac:Turkish" itemID="30" />
+                                    </defaultList>
+                                    <currentList allowAdditions="-1">
+                                        <item string="0-ASCII" itemID="0" />
+                                        <item string="1-ASCIItoDBCS" itemID="1" />
+                                        <item string="2-Unicode" itemID="2" />
+                                        <item string="3-Unicode2" itemID="3" />
+                                        <item string="4-Hindi" itemID="4" />
+                                        <item string="1250-Central European" itemID="5" />
+                                        <item string="1251-Cyrillic" itemID="6" />
+                                        <item string="1252-Western European" itemID="7" />
+                                        <item string="1253-Greek" itemID="8" />
+                                        <item string="1254-Turkish" itemID="9" />
+                                        <item string="1255-Hebrew" itemID="10" />
+                                        <item string="1256-Arabic" itemID="11" />
+                                        <item string="1257-Baltic" itemID="12" />
+                                        <item string="1258-Vietnam" itemID="13" />
+                                        <item string="874-Thai" itemID="14" />
+                                        <item string="932-Japanese" itemID="15" />
+                                        <item string="936-Simplified Chinese" itemID="16" />
+                                        <item string="949-Korean" itemID="17" />
+                                        <item string="950-Traditional Chinese" itemID="18" />
+                                        <item string="437-DOS:US" itemID="19" />
+                                        <item string="737-DOS:Greek" itemID="20" />
+                                        <item string="775-DOS:Baltic" itemID="21" />
+                                        <item string="850-DOS:Western European" itemID="22" />
+                                        <item string="852-DOS:Central European" itemID="23" />
+                                        <item string="857-DOS:Turkish" itemID="24" />
+                                        <item string="866-DOS:Cyrillic" itemID="25" />
+                                        <item string="10000-Mac:Roman" itemID="26" />
+                                        <item string="10006-Mac:Greek" itemID="27" />
+                                        <item string="10007-Mac:Cyrillic" itemID="28" />
+                                        <item string="10029-Mac:Central European" itemID="29" />
+                                        <item string="10081-Mac:Turkish" itemID="30" />
+                                    </currentList>
+                                </pick>
+                            </option>
+                        </optionSet>
+                        <option id="\PseudoTranslation\CustomReplacement" displayName="Use custom replacement XML file" helpText="Enter the location and file name for a custom replacement definition for pseudo localization. Use a custom replacement definition file to control how characters are replaced during pseudo localization.">
+                            <string defaultValue="" currentValue="" />
+                        </option>
+                        <option id="\PseudoTranslation\StringCategoryMapping" displayName="Map string categories to pseudo categories" helpText="Specify the mapping of string categories to pseudo localization categories in the following format: &quot;StrCat=PseudoCat&quot;. Enter each mapping on a separate line.">
+                            <stringList>
+                                <defaultList />
+                                <currentList>
+                                    <item string="Page Title=StringTable" itemID="0" />
+                                    <item string="Description=StringTable" itemID="1" />
+                                    <item string="Alternative Text=StringTable" itemID="2" />
+                                </currentList>
+                            </stringList>
+                        </option>
+                        <option id="\PseudoLoc\PseudoLocalizeUpdated" displayName="Pseudo localize Updated strings" helpText="Select On to pseudo localize strings changed during an update.">
+                            <boolean defaultValue="0" currentValue="1" />
+                        </option>
+                    </optionSet>
+                    <optionSet id="Localization Directive (LocRule) Settings" displayName="Localization Directive (LocRule) Settings" helpText="Use these settings to control how Localization Directives are handled for specific resources.">
+                        <optionSet id="Adaptation Rule" displayName="Adaptation Rule" helpText="Use the Adaptation rule settings to identify and correctly localize strings based on content in the map file. Do not change these settings without the help of the LocStudio team.">
+                            <optionSet id="Font Settings" displayName="Font Settings" helpText="Use these settings to locate strings with a string category of FontName and correctly localize the strings using content in the Map file with the ID of Fonts.">
+                                <option id="\LocRuleAgent\AdaptationRule\AdaptationRule01\Enabled" displayName="Enabled" helpText="To validate strings per this rule, select On. To stop validation with this rule, select Off.">
+                                    <boolean defaultValue="1" currentValue="0" />
+                                </option>
+                            </optionSet>
+                        </optionSet>
+                        <optionSet id="Placeholder Rule" displayName="Placeholder Rule" helpText="Use these settings to mark placeholder text that must exist in the target when it exits in the source. Do not change these settings without help from the LocStudio team.">
+                            <optionSet id="Win32 Message Table Settings" displayName="Win32 Message Table Settings" helpText="Use these settings to set up placeholders when using message table settings with the Win32 parser.">
+                                <option id="\LocRuleAgent\PlaceholderRule\PlaceholderRule02\AlwaysPlaceEscapeChars" displayName="Always Place Escape Chars" helpText="Select On to place an invalid character constraint even if no placeholder is found, and to be notified when escape characters are not used.">
+                                    <boolean defaultValue="1" currentValue="0" />
+                                </option>
+                                <option id="\LocRuleAgent\PlaceholderRule\PlaceholderRule02\RegEx" displayName="RegEx" helpText="If you are creating a new version of a rule using a placeholder, enter a regular expression to identify information or characters in the string. Otherwise, do not change this setting.">
+                                    <string defaultValue="%[0-9][0-9]?(![-+0 #]?\d*\.?\d*(h|l|I|I32|I64)?[\dcCdiouxXeEfgGnpsS]!)?" currentValue="%(([1-9][0-9]?(!([-+]?#?(\d+|\*)?\.?(\d+|\*)?(h|l|I|w|I32|I64)?[cCdiouxXGnpsS])!)?)|0|n| |\.|!|r|t)" />
+                                </option>
+                            </optionSet>
+                            <optionSet id="PrintF Variable Settings" displayName="PrintF Variable Settings" helpText="Use these settings to set up placeholders when using PrintF variables with the Win32 parser.">
+                                <option id="\LocRuleAgent\PlaceholderRule\PlaceholderRule01\AlwaysPlaceEscapeChars" displayName="Always Place Escape Chars" helpText="Select On to place an invalid character constraint even if no placeholder is found, and to be notified when escape characters are not used.">
+                                    <boolean defaultValue="1" currentValue="0" />
+                                </option>
+                                <option id="\LocRuleAgent\PlaceholderRule\PlaceholderRule01\RegEx" displayName="RegEx" helpText="If you are creating a new version of a rule using a placeholder, enter a regular expression to identify information or characters in the string. Otherwise, do not change this setting.">
+                                    <string defaultValue="%[-+]?[0-9]*\.?[0-9]*(h|l|I|I32|I64)?[cCdiouxXeEfgGnpsS]" currentValue="%([-+]?#?\d*\.?\d*(h|l|I|w|I32|I64)?[cCdiouxXeEfgGnpsS])" />
+                                </option>
+                            </optionSet>
+                            <optionSet id="Placeholder Rule Placeholder 08" displayName="Placeholder Rule Placeholder 08" helpText="Use these settings to create additional instances of the Placeholder rule.">
+                                <option id="\LocRuleAgent\PlaceholderRule\PlaceholderRule08\EscapeChars" displayName="EscapeChars" helpText="Enter characters that are not valid and their escape sequences.">
+                                    <stringList>
+                                        <defaultList />
+                                        <currentList>
+                                            <item string="\ = \\" itemID="0" />
+                                            <item string="&quot; = \&quot;" itemID="1" />
+                                        </currentList>
+                                    </stringList>
+                                </option>
+                                <option id="\LocRuleAgent\PlaceholderRule\PlaceholderRule08\Enabled" displayName="Enabled" helpText="To validate strings per this rule, select On. To stop validation with this rule, select Off.">
+                                    <boolean defaultValue="0" currentValue="1" />
+                                </option>
+                                <option id="\LocRuleAgent\PlaceholderRule\PlaceholderRule08\DocumentType" displayName="Document Type" helpText="Enter the parser IDs this rule will affect. If left blank, files parsed by any parser are affected by this rule.">
+                                    <stringList>
+                                        <defaultList />
+                                        <currentList>
+                                            <item string="230" itemID="0" />
+                                        </currentList>
+                                    </stringList>
+                                </option>
+                            </optionSet>
+                            <optionSet id="Placeholder Rule Placeholder 09" displayName="Placeholder Rule Placeholder 09" helpText="Use these settings to create additional instances of the Placeholder rule.">
+                                <option id="\LocRuleAgent\PlaceholderRule\PlaceholderRule09\RegEx" displayName="RegEx" helpText="If you are creating a new version of a rule using a placeholder, enter a regular expression to identify information or characters in the string. Otherwise, do not change this setting.">
+                                    <string defaultValue="" currentValue="%[0-9](![a-z]+!)?" />
+                                </option>
+                                <option id="\LocRuleAgent\PlaceholderRule\PlaceholderRule09\Enabled" displayName="Enabled" helpText="To validate strings per this rule, select On. To stop validation with this rule, select Off.">
+                                    <boolean defaultValue="0" currentValue="1" />
+                                </option>
+                                <option id="\LocRuleAgent\PlaceholderRule\PlaceholderRule09\DocumentType" displayName="Document Type" helpText="Enter the parser IDs this rule will affect. If left blank, files parsed by any parser are affected by this rule.">
+                                    <stringList>
+                                        <defaultList />
+                                        <currentList>
+                                            <item string="4" itemID="0" />
+                                        </currentList>
+                                    </stringList>
+                                </option>
+                            </optionSet>
+                            <optionSet id="Placeholder Rule Placeholder 07" displayName="Placeholder Rule Placeholder 07" helpText="Use these settings to create additional instances of the Placeholder rule.">
+                                <option id="\LocRuleAgent\PlaceholderRule\PlaceholderRule07\FileExtension" displayName="File Extension" helpText="Enter the file extensions of the file types this rule will affect. If left blank, all file types are affected by this rule.">
+                                    <stringList>
+                                        <defaultList />
+                                        <currentList>
+                                            <item string=".plaxml" itemID="0" />
+                                        </currentList>
+                                    </stringList>
+                                </option>
+                                <option id="\LocRuleAgent\PlaceholderRule\PlaceholderRule07\PlaceholderType" displayName="Placeholder Type" helpText="Select the type of enforcement on the placeholder. To enforce the same number of placeholders in the source and target, select Traditional. To enforce the same order and number of placeholders, select Positional. To enforce the same positions, but not the number of placeholders, select Indexed.">
+                                    <pick defaultValue="2" currentValue="0">
+                                        <defaultList>
+                                            <item string="Traditional" itemID="0" />
+                                            <item string="Positional" itemID="1" />
+                                            <item string="Indexed" itemID="2" />
+                                        </defaultList>
+                                        <currentList>
+                                            <item string="Traditional" itemID="0" />
+                                            <item string="Positional" itemID="1" />
+                                            <item string="Indexed" itemID="2" />
+                                        </currentList>
+                                    </pick>
+                                </option>
+                                <option id="\LocRuleAgent\PlaceholderRule\PlaceholderRule07\RegEx" displayName="RegEx" helpText="If you are creating a new version of a rule using a placeholder, enter a regular expression to identify information or characters in the string. Otherwise, do not change this setting.">
+                                    <string defaultValue="" currentValue="{[^}]*}" />
+                                </option>
+                                <option id="\LocRuleAgent\PlaceholderRule\PlaceholderRule07\Enabled" displayName="Enabled" helpText="To validate strings per this rule, select On. To stop validation with this rule, select Off.">
+                                    <boolean defaultValue="0" currentValue="1" />
+                                </option>
+                            </optionSet>
+                        </optionSet>
+                        <optionSet id="Special Characters Rule" displayName="Special Characters Rule" helpText="Use these settings to prevent special characters from being in the target when they are not in the source. Do not change these settings without help from the LocStudio team.">
+                            <optionSet id="Match Null Settings" displayName="Match Null Settings" helpText="Use these settings to locate resources that contain null characters in the source, but do not contain an equal number of null characters in the target.">
+                                <option id="\LocRuleAgent\SpecialCharsRule\SpecialCharsRule02\Enabled" displayName="Enabled" helpText="To validate strings per this rule, select On. To stop validation with this rule, select Off.">
+                                    <boolean defaultValue="0" currentValue="1" />
+                                </option>
+                                <option id="\LocRuleAgent\SpecialCharsRule\SpecialCharsRule02\DocumentType" displayName="Document Type" helpText="Enter the parser IDs this rule will affect. If left blank, files parsed by any parser are affected by this rule.">
+                                    <stringList>
+                                        <defaultList />
+                                        <currentList>
+                                            <item string="4" itemID="0" />
+                                        </currentList>
+                                    </stringList>
+                                </option>
+                            </optionSet>
+                            <optionSet id="Match Carriage Return Settings" displayName="Match Carriage Return Settings" helpText="Use these settings to locate resources that contain carriage returns in the source, but do not contain an equal number of carriage returns in the target.">
+                                <option id="\LocRuleAgent\SpecialCharsRule\SpecialCharsRule04\Enabled" displayName="Enabled" helpText="To validate strings per this rule, select On. To stop validation with this rule, select Off.">
+                                    <boolean defaultValue="0" currentValue="1" />
+                                </option>
+                                <option id="\LocRuleAgent\SpecialCharsRule\SpecialCharsRule04\DocumentType" displayName="Document Type" helpText="Enter the parser IDs this rule will affect. If left blank, files parsed by any parser are affected by this rule.">
+                                    <stringList>
+                                        <defaultList />
+                                        <currentList>
+                                            <item string="4" itemID="0" />
+                                        </currentList>
+                                    </stringList>
+                                </option>
+                            </optionSet>
+                            <optionSet id="Match Line Feed Settings" displayName="Match Line Feed Settings" helpText="Use these settings to locate resources that contain line feeds in the source, but do not contain an equal number of line feeds in the target.">
+                                <option id="\LocRuleAgent\SpecialCharsRule\SpecialCharsRule03\Enabled" displayName="Enabled" helpText="To validate strings per this rule, select On. To stop validation with this rule, select Off.">
+                                    <boolean defaultValue="0" currentValue="1" />
+                                </option>
+                                <option id="\LocRuleAgent\SpecialCharsRule\SpecialCharsRule03\DocumentType" displayName="Document Type" helpText="Enter the parser IDs this rule will affect. If left blank, files parsed by any parser are affected by this rule.">
+                                    <stringList>
+                                        <defaultList />
+                                        <currentList>
+                                            <item string="4" itemID="0" />
+                                        </currentList>
+                                    </stringList>
+                                </option>
+                            </optionSet>
+                        </optionSet>
+                        <optionSet id="HTML and XML Tag Rule" displayName="HTML and XML Tag Rule" helpText="Use these settings to detect and appropriately translate HTML and XML tags. Do not change these settings without help from the LocStudio team.">
+                            <optionSet id="Escaped Tags Settings" displayName="Escaped Tags Settings" helpText="Use these settings to detect valid HTML and XML tags that are escaped.">
+                                <option id="\LocRuleAgent\HtmlTagRule\HtmlTagRule03\Enabled" displayName="Enabled" helpText="To validate strings per this rule, select On. To stop validation with this rule, select Off.">
+                                    <boolean defaultValue="0" currentValue="1" />
+                                </option>
+                            </optionSet>
+                            <optionSet id="Non-escaped HTML and XML Tag Settings" displayName="Non-escaped HTML and XML Tag Settings" helpText="Use these settings to detect valid HTML and XML tags that are not escaped.">
+                                <option id="\LocRuleAgent\HtmlTagRule\HtmlTagRule02\Enabled" displayName="Enabled" helpText="To validate strings per this rule, select On. To stop validation with this rule, select Off.">
+                                    <boolean defaultValue="0" currentValue="1" />
+                                </option>
+                            </optionSet>
+                            <optionSet id="Legacy HTML and XML Tag Settings" displayName="Legacy HTML and XML Tag Settings" helpText="Use these settings to detect any text that appears to be an HTML or XML tag. Possible tags do not have to be valid to match this rule's criteria.">
+                                <option id="\LocRuleAgent\HtmlTagRule\HtmlTagRule01\StringCategory" displayName="String Category" helpText="Enter the string categories this rule will affect. If left blank, all string categories are affected by this rule.">
+                                    <stringList>
+                                        <defaultList>
+                                            <item string="HTML Text" itemID="0" />
+                                            <item string="HTX" itemID="1" />
+                                            <item string="HTML Title" itemID="2" />
+                                            <item string="HTT" itemID="3" />
+                                            <item string="AppData" itemID="4" />
+                                            <item string="APD" itemID="5" />
+                                        </defaultList>
+                                        <currentList>
+                                            <item string="HTML Text" itemID="0" />
+                                            <item string="HTX" itemID="1" />
+                                            <item string="HTML Title" itemID="2" />
+                                            <item string="HTT" itemID="3" />
+                                        </currentList>
+                                    </stringList>
+                                </option>
+                                <option id="\LocRuleAgent\HtmlTagRule\HtmlTagRule01\Enabled" displayName="Enabled" helpText="To validate strings per this rule, select On. To stop validation with this rule, select Off.">
+                                    <boolean defaultValue="0" currentValue="1" />
+                                </option>
+                            </optionSet>
+                            <optionSet id="HTML and XML Tag Rule Placeholder 09" displayName="HTML and XML Tag Rule Placeholder 09" helpText="Use these settings to create additional instances of the HTML and XML Tag rule.">
+                                <option id="\LocRuleAgent\HtmlTagRule\HtmlTagRule09\FileExtension" displayName="File Extension" helpText="Enter the file extensions of the file types this rule will affect. If left blank, all file types are affected by this rule.">
+                                    <stringList>
+                                        <defaultList />
+                                        <currentList>
+                                            <item string=".asp" itemID="0" />
+                                        </currentList>
+                                    </stringList>
+                                </option>
+                                <option id="\LocRuleAgent\HtmlTagRule\HtmlTagRule09\StringCategory" displayName="String Category" helpText="Enter the string categories this rule will affect. If left blank, all string categories are affected by this rule.">
+                                    <stringList>
+                                        <defaultList />
+                                        <currentList>
+                                            <item string="HTML Text" itemID="0" />
+                                            <item string="HTX" itemID="1" />
+                                            <item string="HTML Title" itemID="2" />
+                                            <item string="HTT" itemID="3" />
+                                        </currentList>
+                                    </stringList>
+                                </option>
+                                <option id="\LocRuleAgent\HtmlTagRule\HtmlTagRule09\RegEx" displayName="Regular Expression" helpText="If you are creating a new version of a rule using a placeholder, enter a regular expression to identify information or characters in the string. Otherwise, do not change this setting.">
+                                    <string defaultValue="" currentValue="&lt;([^&lt;&gt;%]||&lt;%|%&gt;)+&gt;" />
+                                </option>
+                                <option id="\LocRuleAgent\HtmlTagRule\HtmlTagRule09\Enabled" displayName="Enabled" helpText="To validate strings per this rule, select On. To stop validation with this rule, select Off.">
+                                    <boolean defaultValue="0" currentValue="1" />
+                                </option>
+                                <option id="\LocRuleAgent\HtmlTagRule\HtmlTagRule09\Description" displayName="Description" helpText="If you are creating a new version of a rule using a placeholder, enter a short description of your new rule. Otherwise, do not change this setting.">
+                                    <string defaultValue="Setting to allow the addition of more HTML and XML Tag rule" currentValue="This matches ASP code chunks embedded in HTML tags, which may choke the default regex." />
+                                </option>
+                            </optionSet>
+                            <optionSet id="HTML and XML Tag Rule Placeholder 10" displayName="HTML and XML Tag Rule Placeholder 10" helpText="Use these settings to create additional instances of the HTML and XML Tag rule.">
+                                <option id="\LocRuleAgent\HtmlTagRule\HtmlTagRule10\StringCategory" displayName="String Category" helpText="Enter the string categories this rule will affect. If left blank, all string categories are affected by this rule.">
+                                    <stringList>
+                                        <defaultList />
+                                        <currentList>
+                                            <item string="HTML Text" itemID="0" />
+                                            <item string="HTX" itemID="1" />
+                                            <item string="HTML Title" itemID="2" />
+                                            <item string="HTT" itemID="3" />
+                                            <item string="AppData" itemID="4" />
+                                            <item string="APD" itemID="5" />
+                                        </currentList>
+                                    </stringList>
+                                </option>
+                                <option id="\LocRuleAgent\HtmlTagRule\HtmlTagRule10\RegEx" displayName="Regular Expression" helpText="If you are creating a new version of a rule using a placeholder, enter a regular expression to identify information or characters in the string. Otherwise, do not change this setting.">
+                                    <string defaultValue="" currentValue="&amp;[a-zA-Z0-9]+;" />
+                                </option>
+                                <option id="\LocRuleAgent\HtmlTagRule\HtmlTagRule10\Enabled" displayName="Enabled" helpText="To validate strings per this rule, select On. To stop validation with this rule, select Off.">
+                                    <boolean defaultValue="0" currentValue="1" />
+                                </option>
+                                <option id="\LocRuleAgent\HtmlTagRule\HtmlTagRule10\Description" displayName="Description" helpText="If you are creating a new version of a rule using a placeholder, enter a short description of your new rule. Otherwise, do not change this setting.">
+                                    <string defaultValue="Setting to allow the addition of more HTML and XML Tag rule" currentValue="Detection of XML type of entities" />
+                                </option>
+                            </optionSet>
+                        </optionSet>
+                        <optionSet id="Software Markups Rule" displayName="Software Markups Rule" helpText="Use these settings to determine how and when software markups, such as accelerators and terminators, are localized. Do not change these settings without help from the LocStudio team.">
+                            <optionSet id="Terminator and Accelerator Settings" displayName="Terminator and Accelerator Settings" helpText="Use these settings to determine how and when accelerators and terminators are localized.">
+                                <option id="\LocRuleAgent\SoftwareMarkupsRule\SoftwareMarkupsRule01\Enabled" displayName="Enabled" helpText="To validate strings per this rule, select On. To stop validation with this rule, select Off.">
+                                    <boolean defaultValue="1" currentValue="0" />
+                                </option>
+                                <option id="\LocRuleAgent\SoftwareMarkupsRule\SoftwareMarkupsRule01\Terminators" displayName="Terminators" helpText="Enter valid terminators.">
+                                    <stringList>
+                                        <defaultList>
+                                            <item string="..." itemID="0" />
+                                            <item string="…" itemID="1" />
+                                            <item string=":" itemID="2" />
+                                            <item string="-&gt;" itemID="3" />
+                                            <item string="&gt;&gt;" itemID="4" />
+                                            <item string="&gt;" itemID="5" />
+                                            <item string="-" itemID="6" />
+                                        </defaultList>
+                                        <currentList>
+                                            <item string=" " itemID="0" />
+                                        </currentList>
+                                    </stringList>
+                                </option>
+                            </optionSet>
+                        </optionSet>
+                        <optionSet id="Lock Substring Rule" displayName="Lock Substring Rule" helpText="Use these settings to determine how and when part of the text in a string is locked. Do not change these settings without the help of the LocStudio team.">
+                            <optionSet id="Lock Substring Rule Placeholder 09" displayName="Lock Substring Rule Placeholder 09" helpText="Use these settings to create additional instances of the Lock Substring rule.">
+                                <option id="\LocRuleAgent\LockSubstringRule\LockSubstringRule09\RegEx" displayName="RegEx" helpText="If you are creating a new version of a rule using a placeholder, enter a regular expression to identify information or characters in the string. Otherwise, do not change this setting.">
+                                    <string defaultValue="" currentValue="%0" />
+                                </option>
+                                <option id="\LocRuleAgent\LockSubstringRule\LockSubstringRule09\Enabled" displayName="Enabled" helpText="To validate strings per this rule, select On. To stop validation with this rule, select Off.">
+                                    <boolean defaultValue="0" currentValue="1" />
+                                </option>
+                            </optionSet>
+                            <optionSet id="Lock Substring Rule Placeholder 08" displayName="Lock Substring Rule Placeholder 08" helpText="Use these settings to create additional instances of the Lock Substring rule.">
+                                <option id="\LocRuleAgent\LockSubstringRule\LockSubstringRule08\RegEx" displayName="RegEx" helpText="If you are creating a new version of a rule using a placeholder, enter a regular expression to identify information or characters in the string. Otherwise, do not change this setting.">
+                                    <string defaultValue="" currentValue="&lt;(\!?(?'Lead'[%\?\-])[\S\s]*?\k'Lead'&gt;|(/?%?\d?/?)(?i:\d+[a-z]\d*|A|BODY|BUTTON|BR|B|CENTER|\!DOCTYPE|DIV|DT|DD|FRAMESET|FRAME|FONT|H\d|HR|HEAD|HTML|IMG|I|INPUT|LI|LEFT|META|NOBR|OBJECT|OL|PRE|P|RIGHT|SPAN|SCRIPT|STYLE|STRONG|TABLE|TD|THEAD|TH|TITLE|TR|UL|U|V|XSL)/?(&gt;|[:\s]+[^&gt;]*&gt;))" />
+                                </option>
+                                <option id="\LocRuleAgent\LockSubstringRule\LockSubstringRule08\Enabled" displayName="Enabled" helpText="To validate strings per this rule, select On. To stop validation with this rule, select Off.">
+                                    <boolean defaultValue="0" currentValue="1" />
+                                </option>
+                            </optionSet>
+                        </optionSet>
+                        <option id="\LocRuleAgent\MapFile" displayName="MapDef file name" helpText="Enter the name and location of the MapDef file. In previous versions of LocStudio this file was known as the pretranslation map file.">
+                            <string defaultValue="" currentValue="%SDXROOT%\loc\cs-CZ\settings\locstudio\map.xml" />
+                        </option>
+                    </optionSet>
+                    <optionSet id="Localization Verification (LocVer) Settings" displayName="Localization Verification (LocVer) Settings" helpText="Use these settings to control how Localization Verification (LocVer) is handled.">
+                        <optionSet id="General Settings" displayName="General Settings" helpText="These settings allow you to control general LocVer settings.">
+                            <option id="\TPLocVer\General\SkipUpdated" displayName="Skip Updated Items" helpText="If on, items with localization status set to updated will not be processed.">
+                                <boolean defaultValue="0" currentValue="1" />
+                            </option>
+                        </optionSet>
+                        <optionSet id="Set Values Settings" displayName="Set Values Settings" helpText="Use these settings to allow or restrict LocVer from setting field values.">
+                            <option id="\TPLocVer\SetValues\RemoveUserTrans" displayName="Remove User Trans Lock" helpText="If set to 'On' allows LocVer to remove User Trans Lock. If set to 'Off' stops LocVer from removing User Trans Lock. If set to 'Warn' enforces LocVer to issue a warning instead of removing User Trans Lock.">
+                                <pick defaultValue="1" currentValue="1">
+                                    <defaultList>
+                                        <item string="On" itemID="0" />
+                                        <item string="Off" itemID="1" />
+                                        <item string="Warn" itemID="2" />
+                                    </defaultList>
+                                    <currentList>
+                                        <item string="On" itemID="0" />
+                                        <item string="Off" itemID="1" />
+                                        <item string="Warn" itemID="2" />
+                                    </currentList>
+                                </pick>
+                            </option>
+                        </optionSet>
+                        <optionSet id="Message Settings" displayName="Message Settings" helpText="Settings for messages reported by LocVer.">
+                            <option id="\LocVer\Messages\Ignore" displayName="Ignore Messages" helpText="Ignore any messages with the same ID as listed in this setting.">
+                                <stringList>
+                                    <defaultList />
+                                    <currentList>
+                                        <item string="3020" itemID="0" />
+                                        <item string="3021" itemID="1" />
+                                        <item string="3024" itemID="2" />
+                                        <item string="3026" itemID="3" />
+                                        <item string="2001" itemID="4" />
+                                        <item string="2002" itemID="5" />
+                                        <item string="2003" itemID="6" />
+                                        <item string="2005" itemID="7" />
+                                        <item string="2007" itemID="8" />
+                                        <item string="2032" itemID="9" />
+                                        <item string="2021" itemID="10" />
+                                        <item string="3490" itemID="11" />
+                                    </currentList>
+                                </stringList>
+                            </option>
+                        </optionSet>
+                        <optionSet id="Macro Settings" displayName="Macro Settings" helpText="Settings for macros used by LocVer.">
+                            <option id="\LocVer\Macros\Macro File" displayName="Macro File" helpText="Configuration file containing macros for LocVer.">
+                                <string defaultValue="" currentValue="NTDEV_LocVerMacros.xml" />
+                            </option>
+                        </optionSet>
+                    </optionSet>
+                </optionSet>
+            </optionSet>
+            <optionSet id="Parsers" displayName="Parsers" />
+        </optionSet>
+    </optionSet>
+</LS_SETTINGS_FILE>

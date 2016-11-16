@@ -1,0 +1,666 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS_SETTINGS_FILE>
+    <optionSet id="LSOptions">
+        <optionSet id="Defaults" displayName="Option Defaults">
+            <optionSet id="Espresso" displayName="Espresso">
+                <optionSet id="ExtensionOptions" displayName="Extensions" helpText="Options for installed extensions.">
+                    <optionSet id="Localization Verification Extension" displayName="Localization Verification Extension" helpText="Options for Localization Verification Extension">
+                        <optionSet id="General Settings" displayName="General Settings" helpText="General settings for Localization Verification Extension">
+                            <option id="lv45CustomDLLs" displayName="Custom Rule DLLs" helpText="Specify which DLLs containing rules should be used by LocVer.">
+                                <stringList>
+                                    <defaultList>
+                                        <item string="verify.dll" itemID="0" />
+                                    </defaultList>
+                                </stringList>
+                            </option>
+                        </optionSet>
+                    </optionSet>
+                </optionSet>
+            </optionSet>
+            <optionSet id="Parsers" displayName="Parsers" />
+        </optionSet>
+        <optionSet id="User" displayName="User Overrides">
+            <optionSet id="Espresso" displayName="Espresso" />
+            <optionSet id="Parsers" displayName="Parsers" />
+        </optionSet>
+        <optionSet id="Project" displayName="Project Overrides">
+            <optionSet id="Espresso" displayName="Espresso">
+                <optionSet id="FileOperations" displayName="General" helpText="Settings which apply to File operations such as Update, Generate, and editing resources.">
+                    <option id="UseSourceForUpdated" displayName="Use source data on generate" helpText="If this option is turned on, for any items that are not set to Localized, the data from the source file will be used instead of the data in the LocStudio Software database during Generate.">
+                        <boolean defaultValue="0" currentValue="1" />
+                    </option>
+                </optionSet>
+            </optionSet>
+            <optionSet id="Parsers" displayName="Parsers">
+                <optionSet id="Parser 4" displayName="INI: Configuration Settings" helpText="Application and system configuration settings (.ini)">
+                    <option id="GenerateFullLanguageId" displayName="Generate language section using full language-id" helpText="Generates the language section using the full language-id (LANGID) of the target language instead of using just the primary language-id of the target language.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="KeepSourceInPerfCounterFiles" displayName="Keep source resources in performance counter files" helpText="Determines whether source resources remain or get owerwritten in the generated performance counter files. Turn off this option if you want only trarget language resources present in the generated file.">
+                        <boolean defaultValue="1" currentValue="0" />
+                    </option>
+                </optionSet>
+                <optionSet id="Parser 1" displayName="Macintosh Options" helpText="Macintosh files (typically *.mac)">
+                    <option id="Copyfont" displayName="Copy font information to target" helpText="Turn this option on to maintain the source font values in dialogs. If the source doesn't have a font specified, the target won't either. If the source has a font specified, the target will have the same font.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="MAC_FONTSIZE" displayName="Font Size" helpText="Size of the font used to edit native Macintosh dialogs">
+                        <int defaultValue="8" currentValue="8" />
+                    </option>
+                    <option id="MAC_FONTNAME" displayName="Font Name" helpText="Name of the font used to edit native Macintosh dialogs">
+                        <string defaultValue="Arial" currentValue="Arial" />
+                    </option>
+                </optionSet>
+                <optionSet id="Parser 10" displayName="DOS 7" helpText="Windows 9x MS-DOS prompt files (.bin, .cnf, .com, .exe, .sys)">
+                    <option id="StringPassthrough" displayName="Copy locked strings to target" helpText="Turn this option on to copy locked strings directly to the target file without performing Code Page conversions.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                </optionSet>
+                <optionSet id="Parser 104" displayName="SQL: parser for the sql file" helpText="SQL: parser for the sql file">
+                    <option id="DisableWatermarking" displayName="Disable comments" helpText="Determines whether localization comments are added during a generate.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                </optionSet>
+                <optionSet id="Parser 12" displayName="VxD" helpText="Windows VxD format files (.386, .pdr, .vxd)">
+                    <option id="StringPassthrough" displayName="Copy locked strings to target" helpText="Turn this option on to copy locked strings directly to the target file without performing Code Page conversions.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                </optionSet>
+                <optionSet id="Parser 16" displayName="RPL Boot" helpText="The Windows 95 file named RPLBOOT.SYS.">
+                    <option id="StringPassthrough" displayName="Copy locked strings to target" helpText="Turn this option on to copy locked strings directly to the target file without performing Code Page conversions.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                </optionSet>
+                <optionSet id="Parser 210" displayName="POMXML Parser options" helpText="View file locXML.xml for details.">
+                    <option id="FileEncoding" displayName="Generated XML File Encoding Type" helpText="Choose the Encoding Type for the Generated Files. Note: Internet Explorer 3.0x does not support Unicode or UTF-8.">
+                        <pick defaultValue="0" currentValue="0">
+                            <defaultList>
+                                <item string="Use Source File Encoding" itemID="0" />
+                                <item string="ANSI" itemID="1" />
+                                <item string="UTF-8" itemID="2" />
+                                <item string="Unicode" itemID="3" />
+                            </defaultList>
+                            <currentList>
+                                <item string="Use Source File Encoding" itemID="0" />
+                                <item string="ANSI" itemID="1" />
+                                <item string="UTF-8" itemID="2" />
+                                <item string="Unicode" itemID="3" />
+                            </currentList>
+                        </pick>
+                    </option>
+                    <option id="validateOnParse" displayName="Validate on parse" helpText="With this option turned off, xml file will not be validated upon loading.">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="stripLocTags" displayName="Remove loc ID/comments on generate" helpText="With this option turned on, localization IDs/comments will be removed from generated target files.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="IncTermNoResId" displayName="Include Terms that have no Resource Identifier" helpText="With this option turned off, only those terms with user defined resource id will be exposed.">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="ExposeSpaces" displayName="Expose Leading and Trailing Spaces" helpText="This option expose leading and trailing spaces of a resource string to LocStudio. See release notes for more details.">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="settingFile" displayName="Loc Setting File" helpText="With this option, users specify their own loc setting file.">
+                        <string defaultValue="locxml.xml" currentValue="NTDEV_locXML.xml" />
+                    </option>
+                </optionSet>
+                <optionSet id="Parser 211" displayName="Managed Resource Parser" helpText="Managed Resource Formats (*.dll *.exe *.resources *.resx)">
+                    <option id="GENERATE_CULTURE_NEUTRAL" displayName="Generate culture-neutral target" helpText="If this option is on, the parser will generate target files in the culture-neutral variant of the target language.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="UPDATE_TARGET_BINARIES" displayName="Update target binary data" helpText="If this option is on, the parser will overwrite target binary data with source binary data during update.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="IGNORE_COMMENTLESS_STRINGS" displayName="Ignore strings without comments" helpText="If this option is on, the parser will ignore resource strings that don't have RESX comments.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="DONT_CHANGE_TARGET_FILENAME" displayName="Do not append .resources in the target filename on generate" helpText="Normally the parser changes the target file name, e.g. if the source file name is sourcename.sourceext then the target file name will be sourcename.resources.sourceext.  If this option is ON, the parser will not change names of target files on generate.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="INCLUDE_RESX_FILE_INTO_TARGET" displayName="Include Dev Comments in the target satellite assembly on Generate" helpText="By default, Dev Comments are not included in the target satellite assemblies. To include these comments, select &quot;On&quot;.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="INCLUDE_STRINGS_INTO_TARGET" displayName="Include these string types when generating target files" helpText="Sets additional string types included in the target file. Localized strings are always included. To include updated strings, select Localized and updated. To include updated strings and string that are not localized, select All (excluding locked strings) or All (including locked strings).">
+                        <pick defaultValue="0" currentValue="3">
+                            <defaultList>
+                                <item string="Localized" itemID="0" />
+                                <item string="Localized and updated" itemID="1" />
+                                <item string="All (excluding locked strings)" itemID="2" />
+                                <item string="All (including locked strings)" itemID="3" />
+                            </defaultList>
+                            <currentList>
+                                <item string="Localized" itemID="0" />
+                                <item string="Localized and updated" itemID="1" />
+                                <item string="All (excluding locked strings)" itemID="2" />
+                                <item string="All (including locked strings)" itemID="3" />
+                            </currentList>
+                        </pick>
+                    </option>
+                    <option id="DONT_INCLUDE_CULTURE_IN_RESOURCE" displayName="Do not include culture name in the target .resources files" helpText="If this option is on, the culture name will not be included in the generated .resources file name.">
+                        <boolean defaultValue="0" currentValue="1" />
+                    </option>
+                </optionSet>
+                <optionSet id="Parser 22" displayName="POMHTML Parser options" helpText="POMHTML Parser options for Localization Studio.">
+                    <option id="SetLocaleInfo" displayName="Set Locale information when Generating" helpText="Set Locale information in the Generated file. This setting has no effect unless file already contains Locale information.">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="SetCharsetInfo" displayName="Set or add Charset information when Generating" helpText="Add Charset information to the Generated file. This is in the format &lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=windows-1252&quot;&gt;. This is based on the Project Target Langauge. If the dir attribute value in the HTML tag i.e. &lt;HTML dir=&quot;ltr&quot;&gt; is not localizable or is missing, its value will be set automatically on Generate if the reading order of the target language is different from the source language.">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="IncTermNoResId" displayName="Include Terms which have no Resource Identifier" helpText="Include Terms which have no Resource Identifier. Terms without Resource Identifiers cannot be Updated or Uploaded if they change. .">
+                        <boolean defaultValue="0" currentValue="1" />
+                    </option>
+                    <option id="GenerateInstructions" displayName="Update Instructions" helpText="With this option turned off the instruction field will be left blank for new items, and it will be left untouched for updated items.">
+                        <boolean defaultValue="1" currentValue="0" />
+                    </option>
+                    <option id="FileEncoding" displayName="Generated File Encoding Type" helpText="Choose the Encoding Type for the Generated Files. Note: Internet Explorer 3.0x does not support Unicode or UTF-8.">
+                        <pick defaultValue="0" currentValue="0">
+                            <defaultList>
+                                <item string="Use Source File Encoding" itemID="0" />
+                                <item string="ANSI" itemID="1" />
+                                <item string="UTF-8" itemID="2" />
+                                <item string="Unicode" itemID="3" />
+                            </defaultList>
+                            <currentList>
+                                <item string="Use Source File Encoding" itemID="0" />
+                                <item string="ANSI" itemID="1" />
+                                <item string="UTF-8" itemID="2" />
+                                <item string="Unicode" itemID="3" />
+                            </currentList>
+                        </pick>
+                    </option>
+                    <option id="LoomConfiguration" displayName="LOOM Configuration to use" helpText="Choose from the list of LOOM configurations.">
+                        <pick defaultValue="0" currentValue="1">
+                            <defaultList>
+                                <item string="Factory Settings" itemID="0" />
+                                <item string="NTDEV" itemID="1" />
+                            </defaultList>
+                            <currentList>
+                                <item string="Factory Settings" itemID="0" />
+                                <item string="NTDEV" itemID="1" />
+                            </currentList>
+                        </pick>
+                    </option>
+                    <option id="KeepLeadingSpace" displayName="Expose Leading Spaces" helpText="This option exposes leading spaces in localizable resource strings in LocStudio.  Note: Changing this flag between two updates of the same EDB will mark resources with leading spaces as updated, even if the source file is unchanged.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="KeepTrailingSpace" displayName="Expose Trailing Spaces" helpText="This option exposes trailing spaces in localizable resource strings in LocStudio.  Note: Changing this flag between two updates of the same EDB will mark resources with trailing spaces as updated, even if the source file is unchanged.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="CompatibleResourceNodes" displayName="Legacy POMHTML/HEAT Compatible Resources" helpText="This option controls whether the parser creates legacy POMHTML/HEAT compatible resources on Update. Switch this option On if you want to import data from another EDB containing resources created by the a previous version of the POMHTML or HEAT parsers.">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="UsePOMXMLParser" displayName="Use POMXML parser for XML content" helpText="This option controls whether the parser processes XML content natively or passes it to the POMXML parser for processing. Switch to Off if you want native XML content processing by LOOM. Switch this option On if you have a project containing XML which was updated with a previous version of POMHTML.">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="RemoveSourceComments" displayName="Remove Local Binding and Localization Comments" helpText="This option controls whether the parser removes Local Binding and Localization comments when Generating a file. Switch this option On if you want this information removed from the Generated file. Switch to Off to leave this information in the Generated file.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="CaretsAreHotkeyMarkers" displayName="(NetUI XML) Caret is used to mark hotkey position" helpText="This option controls whether carets are used to mark hotkey positions in NetUI XML files (top level tag is NetUI). Switch this option On if you want carets to mark hotkeys. Switch to Off if you want carets to remain unprocessed. Carets always remain unprocessed in non NetUI XML files.">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="FilterNonLocTermMessages" displayName="No validation messages for non localizable terms" helpText="This option controls whether validation messages will be output for non localizable terms. Switch this option to Off if you do not want to see validation messages for non localizable terms. Switch to On if you want to see validation messages for non localizable terms.">
+                        <boolean defaultValue="0" currentValue="1" />
+                    </option>
+                    <option id="ConvertNBSPToCharRef" displayName="Convert non breaking space characters to &amp;#160;" helpText="This option controls whether on Update non breaking space characters in regular HTML or XML content will be converted to their character reference equivalents, i.e. &amp;&amp;#160;. Switch this option to Off if you do not want any conversion. Switch to On if you want to make NBSP characters more visible while editing in LocStudio.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                </optionSet>
+                <optionSet id="Parser 3" displayName="Win32 Options" helpText="Win32 format files (.exe, .dll, ...)">
+                    <option id="Submit_VERSIONINFO" displayName="Submit FileVersion and ProductVersion resources" helpText="If this option is enabled, the parser will submit FileVersion and ProductVersion strings">
+                        <boolean defaultValue="1" currentValue="0" />
+                    </option>
+                    <option id="Preserve_Menu_Ids" displayName="Extended Menu Ids" helpText="If this option is set, the Id of extended menu separators will be preserved.  When the option is not set, extended menu separator ids will be forced to 0 (zero).">
+                        <boolean defaultValue="0" currentValue="1" />
+                    </option>
+                    <option id="Dont_extend_Dlgs" displayName="Don't Extend Dlgs" helpText="If this option is set, then dialogs will not be extended in the Generated file unless the dialog in the source file is already extended.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="Append_On_Gen" displayName="Append resources during Generate" helpText="Turn this option on to append the localized resources to the file.  The source language resources will remain. Note that this option has no effect for .RES files.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="USE_CHAR_SET" displayName="Use Character Set" helpText="If this is on, the Font Character Set value is used in the dialogs.  The dialogs will also be extended unless the 'Don't Extend Dlgs' option is on.">
+                        <boolean defaultValue="0" currentValue="1" />
+                    </option>
+                    <option id="Copyfont" displayName="Copy font information to target" helpText="Turn this option on to maintain the source font values in dialogs.  If the source doesn't have a font specified, the target won't either.  If the source has a font specified, the target will have the same font.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="Remove_Auxiliary_Office_Resources" displayName="Remove Auxiliary Office Resources" helpText="Delete auxiliary SDM and Office string table resources from generated files.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="Add_Runtime_Resource_Identifiers" displayName="Add runtime dialog resource identifier" helpText="This adds an extra hidden control to the dialog that contains the resource identifier and module. Tools such as RCA and RICH can use this to obtain accurate resource information at runtime. It does not impact the application in any way.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="Strip_DS_SHELLFONT" displayName="Strip DS_SHELLFONT" helpText="This strips the DS_SHELLFONT style from the generated dialogs.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="Strip_Trailing_Zero" displayName="Strip trailing zero from string table strings" helpText="Strips any trailing zero from string table strings during update, and then appends the trailing zero during generate.">
+                        <boolean defaultValue="0" currentValue="1" />
+                    </option>
+                    <option id="SUPPRESS_WARNINGS_NEUTRAL" displayName="Suppress Language Neutral warnings." helpText="When enabled, this option supresses the warning emitted when a mismatch occurs between the resource and Source or Target Languages, if one of the languages is Language Neutral.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="TREAT_LOCALIZABLE_STYLES_AS_NONLOCALIZABLE" displayName="Always pass on updated styles from source to target" helpText="Set this option to 'On' to always pass on updated styles and extended styles of Win32 controls, and updated 'Style' and 'ExStyle' values of Custom Controls, from source to target. Updates to localizable BiDi styles only change the Binary Loc Status to Updated, but the styles are not passed on to the target.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="VersionCP" displayName="Version CodePage" helpText="This options controls how the CodePage value in the Version resource is written">
+                        <pick defaultValue="0" currentValue="0">
+                            <defaultList>
+                                <item string="Follow Source" itemID="0" />
+                                <item string="Force ANSI" itemID="1" />
+                                <item string="Force Unicode" itemID="2" />
+                            </defaultList>
+                            <currentList>
+                                <item string="Follow Source" itemID="0" />
+                                <item string="Force ANSI" itemID="1" />
+                                <item string="Force Unicode" itemID="2" />
+                            </currentList>
+                        </pick>
+                    </option>
+                    <option id="CHAR_SET" displayName="Font Character Set" helpText="Character set of the font used in extended dialogs.  This character set will be placed in the generated file if the 'Use Character Set' option is on.">
+                        <pick defaultValue="0" currentValue="0">
+                            <defaultList>
+                                <item string="ANSI - 0" itemID="0" />
+                                <item string="DEFAULT - 1" itemID="1" />
+                                <item string="SYMBOL - 2" itemID="2" />
+                                <item string="SHIFTJIS - 128" itemID="3" />
+                                <item string="HANGEUL - 129" itemID="4" />
+                                <item string="GB2312 - 134" itemID="5" />
+                                <item string="CHINESEBIG5 - 136" itemID="6" />
+                                <item string="OEM - 255" itemID="7" />
+                                <item string="JOHAB - 130" itemID="8" />
+                                <item string="HEBREW - 177" itemID="9" />
+                                <item string="ARABIC - 178" itemID="10" />
+                                <item string="GREEK - 161" itemID="11" />
+                                <item string="TURKISH - 162" itemID="12" />
+                                <item string="VIETNAMESE - 163" itemID="13" />
+                                <item string="THAI - 222" itemID="14" />
+                                <item string="EASTEUROPE - 238" itemID="15" />
+                                <item string="RUSSIAN - 204" itemID="16" />
+                                <item string="MAC - 77" itemID="17" />
+                                <item string="BALTIC - 186" itemID="18" />
+                            </defaultList>
+                            <currentList>
+                                <item string="ANSI - 0" itemID="0" />
+                                <item string="DEFAULT - 1" itemID="1" />
+                                <item string="SYMBOL - 2" itemID="2" />
+                                <item string="SHIFTJIS - 128" itemID="3" />
+                                <item string="HANGEUL - 129" itemID="4" />
+                                <item string="GB2312 - 134" itemID="5" />
+                                <item string="CHINESEBIG5 - 136" itemID="6" />
+                                <item string="OEM - 255" itemID="7" />
+                                <item string="JOHAB - 130" itemID="8" />
+                                <item string="HEBREW - 177" itemID="9" />
+                                <item string="ARABIC - 178" itemID="10" />
+                                <item string="GREEK - 161" itemID="11" />
+                                <item string="TURKISH - 162" itemID="12" />
+                                <item string="VIETNAMESE - 163" itemID="13" />
+                                <item string="THAI - 222" itemID="14" />
+                                <item string="EASTEUROPE - 238" itemID="15" />
+                                <item string="RUSSIAN - 204" itemID="16" />
+                                <item string="MAC - 77" itemID="17" />
+                                <item string="BALTIC - 186" itemID="18" />
+                            </currentList>
+                        </pick>
+                    </option>
+                    <option id="MBCS_CP_TYPE" displayName="MBCS Code Page type." helpText="Controls the Code Page used to write out MBCS resources such as Message Tables.">
+                        <pick defaultValue="1" currentValue="1">
+                            <defaultList>
+                                <item string="Calculated" itemID="0" />
+                                <item string="Ansi" itemID="1" />
+                                <item string="OEM" itemID="2" />
+                            </defaultList>
+                            <currentList>
+                                <item string="Calculated" itemID="0" />
+                                <item string="Ansi" itemID="1" />
+                                <item string="OEM" itemID="2" />
+                            </currentList>
+                        </pick>
+                    </option>
+                    <option id="KeepTargetImages" displayName="Generate Target Images" helpText="If enabled, Bitmaps, Icons, and Cursors from the Source Binary are not copied to the Target Binary if they are not Localized.">
+                        <pick defaultValue="0" currentValue="2">
+                            <defaultList>
+                                <item string="Always" itemID="0" />
+                                <item string="If Localized or Updated" itemID="1" />
+                                <item string="If Different from Source" itemID="2" />
+                            </defaultList>
+                            <currentList>
+                                <item string="Always" itemID="0" />
+                                <item string="If Localized or Updated" itemID="1" />
+                                <item string="If Different from Source" itemID="2" />
+                            </currentList>
+                        </pick>
+                    </option>
+                    <option id="BinaryInstruction" displayName="Binary Instruction" helpText="The instruction specified will apply to all Bitmaps, Icons, and Cursors.">
+                        <string defaultValue="" currentValue="{Binary:Locked}" />
+                    </option>
+                </optionSet>
+                <optionSet id="Parser 3, Sub-parser 1" displayName="SDM Dialog Options" helpText="SDM dialog resources (Win32 sub-parser).">
+                    <optionSet id="Standard Control Text" displayName="Standard Control Text" helpText="Text for the standard controls.  The text for the standard controls can not be localized.  You can change these options to see the controls in the target language.">
+                        <option id="SDM_OK" displayName="OK Text" helpText="Text to be shown in standard OK buttons. Note: An Update is required to see the effect of this change.">
+                            <string defaultValue="OK" currentValue="OK" />
+                        </option>
+                        <option id="SDM_CANCEL" displayName="Cancel Text" helpText="Text to be shown in standard Cancel buttons. Note: An Update is required to see the effect of this change.">
+                            <string defaultValue="Cancel" currentValue="Cancel" />
+                        </option>
+                    </optionSet>
+                    <optionSet id="Dialog Conversion" displayName="Dialog Conversion" helpText="Options to control how LocStudio converts SDM dialogs during editing.">
+                        <option id="SDM_CONV_COORDS" displayName="Convert Coordinates" helpText="If ON all SDM coordinates will be converted to Windows Dialog Units for editing and for Copy Across Files.">
+                            <boolean defaultValue="0" currentValue="0" />
+                        </option>
+                        <option id="SDM_DXSDM" displayName="SDM Unit Width" helpText="Value the application supplies the SDM runtime for dialog conversion">
+                            <int defaultValue="6" currentValue="6" />
+                        </option>
+                        <option id="SDM_DYSDM" displayName="SDM Unit Height" helpText="Value the application supplies the SDM runtime for dialog conversion">
+                            <int defaultValue="13" currentValue="13" />
+                        </option>
+                        <option id="SDM_DXDLU" displayName="Dialog Unit Width" helpText="Value used for conversions from SDM units to dialog units.  This should be the dialog unit for the font used by the application.">
+                            <int defaultValue="6" currentValue="6" />
+                        </option>
+                        <option id="SDM_DYDLU" displayName="Dialog Unit Height" helpText="Value used for conversions from SDM units to dialog units.  This should be the dialog unit for the font used by the application.">
+                            <int defaultValue="13" currentValue="13" />
+                        </option>
+                    </optionSet>
+                    <optionSet id="Editing Font" displayName="Editing Font" helpText="Characteristics of the font used to edit SDM dialogs.">
+                        <option id="SDM_FONT_CHAR" displayName="Font Character Set" helpText="Character set of the font used to edit SDM dialogs">
+                            <pick defaultValue="0" currentValue="0">
+                                <defaultList>
+                                    <item string="ANSI - 0" itemID="0" />
+                                    <item string="DEFAULT - 1" itemID="1" />
+                                    <item string="SYMBOL - 2" itemID="2" />
+                                    <item string="SHIFTJIS - 128" itemID="3" />
+                                    <item string="HANGEUL - 129" itemID="4" />
+                                    <item string="GB2312 - 134" itemID="5" />
+                                    <item string="CHINESEBIG5 - 136" itemID="6" />
+                                    <item string="OEM - 255" itemID="7" />
+                                    <item string="JOHAB - 130" itemID="8" />
+                                    <item string="HEBREW - 177" itemID="9" />
+                                    <item string="ARABIC - 178" itemID="10" />
+                                    <item string="GREEK - 161" itemID="11" />
+                                    <item string="TURKISH - 162" itemID="12" />
+                                    <item string="VIETNAMESE - 163" itemID="13" />
+                                    <item string="THAI - 222" itemID="14" />
+                                    <item string="EASTEUROPE - 238" itemID="15" />
+                                    <item string="RUSSIAN - 204" itemID="16" />
+                                    <item string="MAC - 77" itemID="17" />
+                                    <item string="BALTIC - 186" itemID="18" />
+                                </defaultList>
+                                <currentList>
+                                    <item string="ANSI - 0" itemID="0" />
+                                    <item string="DEFAULT - 1" itemID="1" />
+                                    <item string="SYMBOL - 2" itemID="2" />
+                                    <item string="SHIFTJIS - 128" itemID="3" />
+                                    <item string="HANGEUL - 129" itemID="4" />
+                                    <item string="GB2312 - 134" itemID="5" />
+                                    <item string="CHINESEBIG5 - 136" itemID="6" />
+                                    <item string="OEM - 255" itemID="7" />
+                                    <item string="JOHAB - 130" itemID="8" />
+                                    <item string="HEBREW - 177" itemID="9" />
+                                    <item string="ARABIC - 178" itemID="10" />
+                                    <item string="GREEK - 161" itemID="11" />
+                                    <item string="TURKISH - 162" itemID="12" />
+                                    <item string="VIETNAMESE - 163" itemID="13" />
+                                    <item string="THAI - 222" itemID="14" />
+                                    <item string="EASTEUROPE - 238" itemID="15" />
+                                    <item string="RUSSIAN - 204" itemID="16" />
+                                    <item string="MAC - 77" itemID="17" />
+                                    <item string="BALTIC - 186" itemID="18" />
+                                </currentList>
+                            </pick>
+                        </option>
+                        <option id="SDM_FONTSIZE" displayName="Font Size" helpText="Size of the font used to edit SDM dialogs">
+                            <int defaultValue="8" currentValue="8" />
+                        </option>
+                        <option id="SDM_FONTNAME" displayName="Font Name" helpText="Name of the font used to edit SDM dialogs">
+                            <string defaultValue="Tahoma" currentValue="Tahoma" />
+                        </option>
+                    </optionSet>
+                    <option id="SDM_MINID" displayName="Minimize Ids" helpText="Minimize the auxiliary SDM ID resource entries.  With this option set, the Generated file can not be used in an Update or Upload operation.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="SDM_MINID_MSG" displayName="Msg on Minimize" helpText="Adds a message to the output if IDs are being minimized">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                </optionSet>
+                <optionSet id="Parser 3, Sub-parser 2" displayName="Office String Table Options" helpText="Office string tables (Win32 sub-parser).">
+                    <option id="O96_MINID" displayName="Minimize Ids" helpText="Minimize the Office String Table (217) resource entries.  With this option on the generated file may not be updated or uploaded.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="O96_MINID_MSG" displayName="Msg on Minimize" helpText="Adds a message to the output if IDs are being minimized">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="O96_READBLANK" displayName="Read blank Instruction" helpText="Reads in instructions even if they are blank.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="Enable parsing resource 217" displayName="Enable parsing Office String Table (217)" helpText="Enable parsing Office String Table (217).">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="Enable parsing resource 218" displayName="Enable parsing Office Huffman Table (218)" helpText="Enable parsing Office Huffman Table (218).">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="Enable parsing resource 997" displayName="Enable parsing Word CDSKEYs (997)" helpText="Enable parsing Word CDSKEYs (997).">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="Enable parsing resource 998" displayName="Enable parsing Office LZ compressed Bitmap (998)" helpText="Enable parsing Office LZ compressed Bitmap (998).">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="Enable parsing resource 999" displayName="Enable parsing Office Toolbar (999)" helpText="Enable parsing Office Toolbar (999).">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                </optionSet>
+                <optionSet id="Parser 3, Sub-parser 7" displayName="HEAT Options" helpText="HEAT Parser options for Localization Studio. Contact bgitsupport@microsoft.com if you have any questions.">
+                    <option id="SetCharsetInfo" displayName="Set or add Charset information when Generating" helpText="Add Charset information to the Generated file. For HTML files this is in the format &lt;META HTTP-EQUIV=&quot;Content-Type&quot; CONTENT=&quot;text/html; charset=windows-1252&quot;&gt;. This is based on the Project Target Langauge. Note: This cannot be set if the file contains no &lt;HEAD&gt; or &lt;BODY&gt; section. If the dir attribute value in the HTML tag i.e. &lt;HTML dir=&quot;ltr&quot;&gt; is not localizable or is missing, its value will be set automatically on Generate if the reading order of the target language is different from the source language.">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="SetLocaleInfo" displayName="Set Locale information when Generating" helpText="Set Locale information in the Generated file. This setting has no effect unless file already contains Locale information.">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="IncTermNoResId" displayName="Include Terms which have no Resource Identifier" helpText="Include Terms which have no Resource Identifier. Terms without Resource Identifiers cannot be Updated or Uploaded if they change. See the LOOM Specification for details on how to add Resource Identifiers to all elements in HTML files.">
+                        <boolean defaultValue="0" currentValue="1" />
+                    </option>
+                    <option id="HeatGenInstr" displayName="Update Instructions" helpText="With this option turned off the instruction field will be left blank for new items, and it will be left untouched for updated items.">
+                        <boolean defaultValue="1" currentValue="0" />
+                    </option>
+                    <option id="validateOnParse" displayName="(LocXML parser only) XML validate on parse" helpText="This option turns on/off MSXML parser validateOnParse property when using the LocXML parser.">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="XMLStripLocTags" displayName="(LocXML parser only) Stripping Loc Tags when Generate" helpText="This option lets LocXML sub parser strip localization tags at the time of generate. ">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="XMLExposeSpaces" displayName="(LocXML parser only) Expose Leading/Trailing Spaces in XML" helpText="This option expose leading and trailing spaces in XML resources to LocStudio when using the LocXML parser.">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="IncXMLTermNoResId" displayName="(LocXML parser only) Include XML Terms which have no Resource Identifier" helpText="Include XML terms which have no Resource Identifier when using the LocXML parser. XML terms without Resource Identifiers cannot be Updated or Uploaded if they change. ">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="KeepLeadingSpace" displayName="Expose Leading Spaces" helpText="This option exposes leading spaces in localizable resource strings in LocStudio.  Note: Changing this flag between two updates of the same EDB will mark resources with leading spaces as updated, even if the source file is unchanged.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="KeepTrailingSpace" displayName="Expose Trailing Spaces" helpText="This option exposes trailing spaces in localizable resource strings in LocStudio.  Note: Changing this flag between two updates of the same EDB will mark resources with trailing spaces as updated, even if the source file is unchanged.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="UseExportedHtml" displayName="Use Exported HTML/XML Files" helpText="Set this option if you want HTML/XML embedded in executables to be exported when Generating and imported when Uploading. These are written to a \HTML\filename.ext  or \XML\filename.ext subfolder in the Target Folder.">
+                        <boolean defaultValue="1" currentValue="0" />
+                    </option>
+                    <option id="CompatibleResourceNodes" displayName="Legacy POMHTML/HEAT Compatible Resources" helpText="This option controls whether the parser creates legacy POMHTML/HEAT compatible resources on Update. Switch this option On if you want to import data from another EDB containing resources created by the a previous version of the POMHTML or HEAT parsers.">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="UseLOCXMLParser" displayName="Use LocXML parser for XML content" helpText="This option controls whether the parser processes XML content natively or passes it to the LocXML parser for processing. Switch to Off if you want native XML content processing by LOOM. Switch this option On if you have a project containing XML which was updated with a previous version of HEAT">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="RemoveSourceComments" displayName="Remove Local Binding and Localization Comments" helpText="This option controls whether the parser removes Local Binding and Localization comments when Generating a file. Switch this option On if you want this information removed from the Generated file. Switch to Off to leave this information in the Generated file.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="ConvertNonANSIToNCR" displayName="Convert non ANSI characters (&gt;127) to NCR when Generating" helpText="This option controls whether the parser converts ANSI characters &gt; 127 to the NCR equivalent e.g. Euro symbol &quot;€&quot; to &quot;&amp;&amp;#8364;&quot; on Generate. Switch this option On if you want this conversion when Generating ANSI encoded files. Switch to Off to Generate the file using the original characters. This setting has no effect for UTF-8 or Unicode encoded files.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="FilterNonLocTermMessages" displayName="No validation messages for non localizable terms" helpText="This option controls whether validation messages will be output for non localizable terms. Switch this option to Off if you do not want to see validation messages for non localizable terms. Switch to On if you want to see validation messages for non localizable terms.">
+                        <boolean defaultValue="0" currentValue="1" />
+                    </option>
+                    <option id="FileEncoding" displayName="Generated File Encoding Type" helpText="Choose the Encoding Type for the Generated Files. Note: Internet Explorer 3.0x does not support Unicode or UTF-8.">
+                        <pick defaultValue="0" currentValue="0">
+                            <defaultList>
+                                <item string="Use Source File Encoding" itemID="0" />
+                                <item string="ANSI" itemID="1" />
+                                <item string="UTF-8" itemID="2" />
+                                <item string="Unicode" itemID="3" />
+                            </defaultList>
+                            <currentList>
+                                <item string="Use Source File Encoding" itemID="0" />
+                                <item string="ANSI" itemID="1" />
+                                <item string="UTF-8" itemID="2" />
+                                <item string="Unicode" itemID="3" />
+                            </currentList>
+                        </pick>
+                    </option>
+                    <option id="XMLSettingFile" displayName="(LocXML parser only) XML Setting File" helpText="Select project or user based loc setting file for XML when using the LocXML parser.">
+                        <string defaultValue="LocXML.xml" currentValue="NTDEV_locXML.xml" />
+                    </option>
+                    <option id="LoomConfiguration" displayName="LOOM Configuration to use" helpText="Choose from the list of LOOM configurations. These can be configured in the Registry HKEY_LOCAL_MACHINE\Software\Microsoft\Weaver\ LOOM. Note: Factory Settings cannot be edited!">
+                        <pick defaultValue="0" currentValue="1">
+                            <defaultList>
+                                <item string="Factory Settings" itemID="0" />
+                                <item string="NTDEV" itemID="1" />
+                            </defaultList>
+                            <currentList>
+                                <item string="Factory Settings" itemID="0" />
+                                <item string="NTDEV" itemID="1" />
+                            </currentList>
+                        </pick>
+                    </option>
+                </optionSet>
+                <optionSet id="Parser 5" displayName="Win16 Options" helpText="Windows 3.x format files (.exe, .dll, ...)">
+                    <option id="StringPassthrough" displayName="Copy locked strings to target" helpText="Copies locked strings directly to the target file without perfroming Code Page conversions.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="IECustom" displayName="Support IE custom resources" helpText="Adds support for embedded HTML as resource type 2110 and embedded INF files as type 'REGINST'">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="UseExportedHtml" displayName="Use Exported HTML Files" helpText="Set this option if you want HTML embedded in executables to be exported when Generating and imported when Uploading. These are written to a \HTML\filename.ext subfolder in the Target Folder.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="GenerateExtendedStyles" displayName="Generate Extended Styles" helpText="Set this option if you want the parser to allow you to save and generate new extended style bits.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="VersionCP" displayName="Version CodePage" helpText="This options controls how the CodePage value in the Version resource is written">
+                        <pick defaultValue="0" currentValue="0">
+                            <defaultList>
+                                <item string="Follow Source" itemID="0" />
+                                <item string="Force ANSI" itemID="1" />
+                                <item string="Force Unicode" itemID="2" />
+                            </defaultList>
+                            <currentList>
+                                <item string="Follow Source" itemID="0" />
+                                <item string="Force ANSI" itemID="1" />
+                                <item string="Force Unicode" itemID="2" />
+                            </currentList>
+                        </pick>
+                    </option>
+                </optionSet>
+                <optionSet id="Parser 7" displayName="INF: Setup Information" helpText="The [Strings] section in setup information files (.adm, .inf, .cdf)">
+                    <option id="SupportLineContinuation" displayName="Support line continuation character" helpText="Determines whether the line continuation character ('\') is supported during file update.">
+                        <boolean defaultValue="0" currentValue="1" />
+                    </option>
+                    <option id="IgnoreUnpairedQuotes" displayName="Ignore unpaired quotes" helpText="Determines whether an error is displayed when unpaired quotes are contained in a string.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="ImportSourceInstructions" displayName="Import source file instructions" helpText="Determines whether source file instructions (comments) are imported into the instructions field of the EDB. If instructions are imported, the previous contents of the instructions field may be overwritten.">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="LocCommentSearch" displayName="Localization Comment Search" helpText="When enabled, comments lines will be searched for localization instructions.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="AppendLCIDToStringsSection" displayName="Append Hex LCID to [strings] section name" helpText="When enabled, appends the LCID of the target language to the [strings] section name in the generated file. For e.g.: [strings.0409].">
+                        <boolean defaultValue="0" currentValue="1" />
+                    </option>
+                    <option id="GenerateInstructionsUsing" displayName="Generate instructions using" helpText="Determines whether the generate process appends the source file instruction or the text in the instructions field as the comment in the target file.">
+                        <pick defaultValue="0" currentValue="1">
+                            <defaultList>
+                                <item string="Instructions Field" itemID="0" />
+                                <item string="Original Source" itemID="1" />
+                            </defaultList>
+                            <currentList>
+                                <item string="Instructions Field" itemID="0" />
+                                <item string="Original Source" itemID="1" />
+                            </currentList>
+                        </pick>
+                    </option>
+                    <option id="InstructionsSeparator" displayName="Instructions separator" helpText="Determines whether the generate process uses tabs (HT), spaces (SP), or the original separating text from the source file when appending a comment in the target file.">
+                        <pick defaultValue="0" currentValue="2">
+                            <defaultList>
+                                <item string="Tab" itemID="0" />
+                                <item string="Spaces" itemID="1" />
+                                <item string="Original Text" itemID="2" />
+                            </defaultList>
+                            <currentList>
+                                <item string="Tab" itemID="0" />
+                                <item string="Spaces" itemID="1" />
+                                <item string="Original Text" itemID="2" />
+                            </currentList>
+                        </pick>
+                    </option>
+                    <option id="LocalizationOn" displayName="Localization On Switch" helpText="When this string is found embedded in a comment, subsequent strings will not be &quot;Dev Source Locked&quot;. (Comment Searching must be enabled)">
+                        <stringList>
+                            <defaultList>
+                                <item string="Loc-On" itemID="0" />
+                                <item string="Locali" itemID="1" />
+                            </defaultList>
+                            <currentList>
+                                <item string="Loc-On" itemID="0" />
+                                <item string="Locali" itemID="1" />
+                            </currentList>
+                        </stringList>
+                    </option>
+                    <option id="LocalizationOff" displayName="Localization Off Switch" helpText="When this string is found embedded in a comment, subsequent strings will be &quot;Dev Source Locked&quot;. (Comment Searching must be enabled)">
+                        <stringList>
+                            <defaultList>
+                                <item string="Loc-Off" itemID="0" />
+                                <item string="Non-Locali" itemID="1" />
+                                <item string="Non Locali" itemID="2" />
+                            </defaultList>
+                            <currentList>
+                                <item string="Loc-Off" itemID="0" />
+                                <item string="Non-Locali" itemID="1" />
+                                <item string="Non Locali" itemID="2" />
+                            </currentList>
+                        </stringList>
+                    </option>
+                </optionSet>
+                <optionSet id="Parser 83" displayName="MSI Parser" helpText="Windows Installer databases (*.msi, *.mip, *.msm)">
+                    <option id="DisableSRGParser" displayName="Use SRG parser to localize Registry values" helpText="If this option is set to True, the MSI parser calls the SRG parser to localize registry values. Registry keys and names can not be changed. The data is displayed in the Registry Editor tree format.">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="CommentSyntaxError" displayName="Display warnings about localization comment syntax" helpText="Set this option to True to report syntax errors in the Localization or Comment table. The &quot;Import localization comments ...&quot; option must also be set to True.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="ExportBinaryData" displayName="Export Binary and Icon table data to external files" helpText="Set this option to True to export data in the Binary and Icon tables to external files. The files are created in a subfolder of this EDB's source folder. Add the files to this EDB to localize them.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="ExportComments" displayName="Import localization comments from the source file" helpText="Set this option to True to import comments from the Localization or Comment table into the Instructions field of the EDB. Setting the option to False may increase Update speed significantly.">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="DropCommentTable" displayName="Delete Localization/Comment table on Generate" helpText="Set this option to True to delete the Localization or Comment table when the target file is generated.">
+                        <boolean defaultValue="1" currentValue="1" />
+                    </option>
+                    <option id="ExtractModuleGUID" displayName="Remove module GUIDs from resource IDs" helpText="This option only applies to MSI and MIP files. If the value is Yes, merge module GUIDs are removed from primary keys before creating resource IDs. Resource IDs will not change even if module GUIDs change. But removing GUIDs may increase Update time or cause duplicate resource IDs.">
+                        <boolean defaultValue="0" currentValue="0" />
+                    </option>
+                    <option id="EncodeTargetFile" displayName="Target file encoding" helpText="This option determines the code page type of the target file. You can choose to use the same type as the source file, or you can explicitly choose ANSI or UTF-8.">
+                        <pick defaultValue="0" currentValue="0">
+                            <defaultList>
+                                <item string="Same as source file" itemID="0" />
+                                <item string="ANSI" itemID="1" />
+                                <item string="UTF-8" itemID="2" />
+                            </defaultList>
+                            <currentList>
+                                <item string="Same as source file" itemID="0" />
+                                <item string="ANSI" itemID="1" />
+                                <item string="UTF-8" itemID="2" />
+                            </currentList>
+                        </pick>
+                    </option>
+                </optionSet>
+            </optionSet>
+        </optionSet>
+    </optionSet>
+</LS_SETTINGS_FILE>

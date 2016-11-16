@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LCX SchemaVersion="6.0" Name="d:\CDM02\CDM_SFE\HybridOaaSMain\bin\Loc\en-USReleaseStage\OaaS\_PublishedWebsites\Orchestrator.WebService.ResourceProvider\bin\Orchestrator.ResourceProvider.dll" PsrId="211" FileType="1" SrcCul="en-US" TgtCul="de-DE" xmlns="http://schemas.microsoft.com/locstudio/2006/6/lcx">
+  <Props>
+    <Str Name="CustomName1" Val="Custom 1" />
+    <Str Name="CustomName2" Val="Custom 2" />
+    <Str Name="CustomName3" Val="Custom 3" />
+    <Str Name="CustomName4" Val="Custom 4" />
+    <Str Name="CustomName5" Val="Custom 5" />
+    <Str Name="CustomName6" Val="IQA" />
+    <Str Name="LegoVersion" Val="2" />
+  </Props>
+  <OwnedComments>
+    <Cmt Name="Dev" />
+    <Cmt Name="LcxAdmin" />
+    <Cmt Name="Note" />
+    <Cmt Name="Rccx" />
+  </OwnedComments>
+  <Item ItemId=";Managed Resources" ItemType="0" PsrId="211" Leaf="true">
+    <Disp Icon="Expand" Expand="true" Disp="true" LocTbl="false" />
+    <Modified By="l.seidel" DateTime="2014-09-23T13:16:30Z" />
+  </Item>
+  <Item ItemId=";Orchestrator.ResourceProvider.Resources.resources" ItemType="0" PsrId="211" Leaf="false">
+    <Disp Icon="Str" Expand="true" Disp="true" LocTbl="false" Path=" \ ;Managed Resources \ 0 \ 0" />
+    <Modified By="l.seidel" DateTime="2014-09-23T13:16:30Z" />
+    <Item ItemId=";Strings" ItemType="0" PsrId="211" Leaf="false">
+      <Disp Icon="Str" LocTbl="false" />
+      <Modified By="l.seidel" DateTime="2014-09-23T13:16:30Z" />
+      <Item ItemId=";CloudServiceNotFound" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST CloudService not found. Name {0}.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST CloudService nicht gefunden. Name {0}.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="l.seidel" DateTime="2014-09-24T12:16:13Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";FailedToStartRunbook" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Runbook cannot be started. Runbook name {0}.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Runbook kann nicht gestartet werden. Runbookname {0}.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="l.seidel" DateTime="2014-09-24T12:16:13Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";SubscriptionNotFound" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST Subcription not found. Id {0}.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test Test TEST TEST Abonnement nicht gefunden. ID {0}.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="l.seidel" DateTime="2014-09-24T12:16:13Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+    </Item>
+  </Item>
+  <Item ItemId=";Version" ItemType="0" PsrId="211" Leaf="false">
+    <Disp Icon="Ver" Disp="true" LocTbl="false" Path=" \ ;Version \ 8 \ 0" />
+    <Modified By="l.seidel" DateTime="2014-09-23T13:16:30Z" />
+    <Item ItemId=";AssemblyVersion" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test Test TEST TEST 7.2.0.0]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="l.seidel" DateTime="2014-09-24T12:16:13Z" />
+    </Item>
+    <Item ItemId=";CompanyName" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Test Test TEST TEST Microsoft Corporation]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+          <Val><![CDATA[Test Test TEST TEST Microsoft Corporation]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="l.seidel" DateTime="2014-09-24T12:16:13Z" />
+      <Props>
+        <Str Name="Custom3" Val="Repeated_Translated" />
+      </Props>
+    </Item>
+    <Item ItemId=";FileDescription" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Test Test TEST TEST Orhcestrator.Management.Cloud]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+          <Val><![CDATA[Test Test TEST TEST Orchestrator.Management.Cloud]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="l.seidel" DateTime="2014-09-24T12:16:13Z" />
+      <Props>
+        <Str Name="Custom2" Val="LQA_20140919" />
+      </Props>
+    </Item>
+    <Item ItemId=";FileVersion" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test Test TEST TEST 7.2.6944.0]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="l.seidel" DateTime="2014-09-24T12:16:13Z" />
+    </Item>
+    <Item ItemId=";InternalName" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test Test TEST TEST Orchestrator.ResourceProvider.dll]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="l.seidel" DateTime="2014-09-24T12:16:13Z" />
+    </Item>
+    <Item ItemId=";LegalCopyright" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Test Test TEST TEST © 2015 Microsoft. All rights reserved.]]></Val>
+        <Tgt Cat="Text" Stat="Update" Orig="New">
+          <Val><![CDATA[Test Test TEST TEST  ]]></Val>
+        </Tgt>
+        <Prev Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST  ]]></Val>
+        </Prev>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="l.seidel" DateTime="2014-09-24T12:16:13Z" />
+      <Props>
+        <Str Name="Custom2" Val="HO 12/15/2015 12:00:00 AM" />
+        <Str Name="Custom3" Val="Repeated_Translated" />
+      </Props>
+    </Item>
+    <Item ItemId=";LegalTrademarks" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Test Test TEST TEST Microsoft® is a registered trademark of Microsoft Corporation.]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Props>
+        <Str Name="Custom2" Val="HO 12/15/2015 12:00:00 AM" />
+      </Props>
+    </Item>
+    <Item ItemId=";OriginalFilename" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test Test TEST TEST Orchestrator.ResourceProvider.dll]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="l.seidel" DateTime="2014-09-24T12:16:13Z" />
+    </Item>
+    <Item ItemId=";ProductName" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Test Test TEST TEST Hybrid Service Management Automation]]></Val>
+        <Tgt Cat="Text" Stat="Update" Orig="New">
+          <Val><![CDATA[Test Test TEST TEST OaaS]]></Val>
+        </Tgt>
+        <Prev Cat="Text">
+          <Val><![CDATA[Test Test TEST TEST OaaS]]></Val>
+        </Prev>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="l.seidel" DateTime="2014-09-24T12:16:13Z" />
+      <Props>
+        <Str Name="Custom2" Val="HO 12/15/2015 12:00:00 AM" />
+        <Str Name="Custom3" Val="Repeated_Translated" />
+      </Props>
+    </Item>
+    <Item ItemId=";ProductVersion" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test Test TEST TEST 7.2.6944.0]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="l.seidel" DateTime="2014-09-24T12:16:13Z" />
+    </Item>
+  </Item>
+  <Item ItemId=";Version" ItemType="8" PsrId="211" Leaf="true">
+    <Disp Icon="Expand" Expand="true" Disp="true" LocTbl="false" />
+    <Modified By="l.seidel" DateTime="2014-09-23T13:16:30Z" />
+  </Item>
+</LCX>

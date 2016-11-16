@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LCX SchemaVersion="6.0" Name="d:\CDM02\CDM_SFE\HybridOaaSMain\bin\Loc\en-USReleaseStage\OaaS\_PublishedWebsites\Orchestrator.WebService.ResourceProvider\bin\Orchestrator.WebService.HttpModules.dll" PsrId="211" FileType="1" SrcCul="en-US" TgtCul="cs-CZ" xmlns="http://schemas.microsoft.com/locstudio/2006/6/lcx">
+  <Props>
+    <Str Name="CustomName1" Val="Custom 1" />
+    <Str Name="CustomName2" Val="Custom 2" />
+    <Str Name="CustomName3" Val="Custom 3" />
+    <Str Name="CustomName4" Val="Custom 4" />
+    <Str Name="CustomName5" Val="Custom 5" />
+    <Str Name="CustomName6" Val="IQA" />
+  </Props>
+  <OwnedComments>
+    <Cmt Name="Dev" />
+    <Cmt Name="DUIData" />
+    <Cmt Name="GoldMine" />
+    <Cmt Name="Goldmine8" />
+    <Cmt Name="LcxAdmin" />
+    <Cmt Name="Loc" />
+    <Cmt Name="ManifestData" />
+    <Cmt Name="Mnemonic" />
+    <Cmt Name="Note" />
+    <Cmt Name="Rccx" />
+    <Cmt Name="UIType" />
+    <Cmt Name="UTSData" />
+    <Cmt Name="UTSUI" />
+    <Cmt Name="zLocLevel" />
+  </OwnedComments>
+  <Item ItemId=";Managed Resources" ItemType="0" PsrId="211" Leaf="true">
+    <Disp Icon="Expand" Expand="true" Disp="true" LocTbl="false" />
+    <Modified By="klece_000" DateTime="2014-09-22T08:49:31Z" />
+  </Item>
+  <Item ItemId=";Orchestrator.WebService.HttpModules.Resources.resources" ItemType="0" PsrId="211" Leaf="false">
+    <Disp Icon="Str" Expand="true" Disp="true" LocTbl="false" Path=" \ ;Managed Resources \ 0 \ 0" />
+    <Modified By="klece_000" DateTime="2014-09-22T08:49:31Z" />
+    <Item ItemId=";Strings" ItemType="0" PsrId="211" Leaf="false">
+      <Disp Icon="Str" LocTbl="false" />
+      <Modified By="klece_000" DateTime="2014-09-22T08:49:31Z" />
+      <Item ItemId=";AccountNotAvailable" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test TEST TEST Test Test Account is currently not available. SubscriptionId:{0}. AccountName: {1}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test TEST TEST Test Účet momentálně není dostupný. ID předplatného: {0}., název účtu: {1}.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";InvalidVersionSpecified" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test TEST TEST Test Invalid version specified in the api-version query string option. api-version: {0}.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test TEST TEST Test Jako parametr v řetězci dotazu api-version byla zadána neplatná verze. Verze rozhraní api: {0}.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";SupportedVersionsNotFoundInApplication" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test TEST TEST Test Supported versions are not found in HttpApplication. ]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test TEST TEST Test Ve třídě HttpApplication se nenašly podporované verze. ]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";VersionNotSpecified" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test TEST TEST Test The api-version query string option is required for this API.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test TEST TEST Test Pro toto rozhraní API se musí zadat parametr řetězce dotazu api-version.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+    </Item>
+  </Item>
+  <Item ItemId=";Version" ItemType="0" PsrId="211" Leaf="false">
+    <Disp Icon="Ver" Disp="true" LocTbl="false" Path=" \ ;Version \ 8 \ 0" />
+    <Modified By="klece_000" DateTime="2014-09-22T08:49:31Z" />
+    <Item ItemId=";AssemblyVersion" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test TEST TEST Test 7.2.0.0]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+    </Item>
+    <Item ItemId=";CompanyName" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Test TEST TEST Test Microsoft Corporation]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+          <Val><![CDATA[Test TEST TEST Test Microsoft Corporation]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+      <Props>
+        <Str Name="Custom3" Val="Repeated_Translated" />
+      </Props>
+    </Item>
+    <Item ItemId=";FileDescription" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Test TEST TEST Test Orchestrator.WebService.HttpModules]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+          <Val><![CDATA[Test TEST TEST Test Orchestrator.WebService.HttpModules]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+      <Props>
+        <Str Name="Custom2" Val="LQA_20140919" />
+      </Props>
+    </Item>
+    <Item ItemId=";FileVersion" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test TEST TEST Test 7.2.4038.0]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+    </Item>
+    <Item ItemId=";InternalName" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test TEST TEST Test Orchestrator.WebService.HttpModules.dll]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+    </Item>
+    <Item ItemId=";LegalCopyright" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Test TEST TEST Test  ]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+          <Val><![CDATA[Test TEST TEST Test  ]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+      <Props>
+        <Str Name="Custom3" Val="Repeated_Translated" />
+      </Props>
+    </Item>
+    <Item ItemId=";OriginalFilename" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test TEST TEST Test Orchestrator.WebService.HttpModules.dll]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+    </Item>
+    <Item ItemId=";ProductName" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Test TEST TEST Test OaaS]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+          <Val><![CDATA[Test TEST TEST Test OaaS]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+      <Props>
+        <Str Name="Custom3" Val="Repeated_Translated" />
+      </Props>
+    </Item>
+    <Item ItemId=";ProductVersion" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test TEST TEST Test 7.2.0.0]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
+    </Item>
+  </Item>
+  <Item ItemId=";Version" ItemType="8" PsrId="211" Leaf="true">
+    <Disp Icon="Expand" Expand="true" Disp="true" LocTbl="false" />
+    <Modified By="klece_000" DateTime="2014-09-22T08:49:31Z" />
+  </Item>
+</LCX>

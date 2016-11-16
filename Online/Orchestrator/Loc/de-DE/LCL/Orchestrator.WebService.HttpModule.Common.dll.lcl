@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LCX SchemaVersion="6.0" Name="LCL\Orchestrator.WebService.HttpModule.Common.dll" PsrId="211" FileType="1" SrcCul="en-US" TgtCul="de-DE" Desc="Commenting file created by LCXAdmin. For more information, please visit http://localizability/longhorn/LcxAdmin.asp" xmlns="http://schemas.microsoft.com/locstudio/2006/6/lcx">
+  <Props>
+    <Str Name="CustomName1" Val="Custom 1" />
+    <Str Name="CustomName2" Val="Custom 2" />
+    <Str Name="CustomName3" Val="Custom 3" />
+    <Str Name="CustomName4" Val="Custom 4" />
+    <Str Name="CustomName5" Val="Custom 5" />
+    <Str Name="CustomName6" Val="IQA" />
+    <Str Name="LegoVersion" Val="1" />
+  </Props>
+  <OwnedComments>
+    <Cmt Name="Dev" />
+    <Cmt Name="LcxAdmin" />
+    <Cmt Name="Note" />
+    <Cmt Name="Rccx" />
+  </OwnedComments>
+  <Item ItemId=";Managed Resources" ItemType="0" PsrId="211" Leaf="true">
+    <Disp Icon="Expand" Expand="true" Disp="true" LocTbl="false" />
+    <Modified By="sunggonm" DateTime="2013-06-17T18:12:55Z" />
+  </Item>
+  <Item ItemId=";Orchestrator.WebService.HttpModule.Common.OrchestratorHttpModuleResources.resources" ItemType="0" PsrId="211" Leaf="false">
+    <Disp Icon="Str" Expand="true" Disp="true" LocTbl="false" Path=" \ ;Managed Resources \ 0 \ 0" />
+    <Modified By="sunggonm" DateTime="2013-06-17T18:12:55Z" />
+    <Item ItemId=";Strings" ItemType="0" PsrId="211" Leaf="false">
+      <Disp Icon="Str" LocTbl="false" />
+      <Modified By="sunggonm" DateTime="2013-06-17T18:12:55Z" />
+      <Item ItemId=";AccountNameNotFoundInUrl" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test TEST TEST Test Could not find account name. Either account name  is not present or invalid or Url is malformed.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test TEST TEST Test Kontoname wurde nicht gefunden. Entweder ist der Kontoname nicht vorhanden oder ungültig, oder die URL ist falsch formatiert.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="l.seidel" DateTime="2014-09-24T12:16:14Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+          <Str Name="Custom3" Val="Repeated_Unlocked" />
+        </Props>
+      </Item>
+      <Item ItemId=";AccountNotFound" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test TEST TEST Test Could not find the account. SubscriptionId: {0}. AccountName: {1}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test TEST TEST Test Konto wurde nicht gefunden. SubscriptionId: {0}. AccountName: {1}]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="l.seidel" DateTime="2014-09-24T12:16:14Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+          <Str Name="Custom3" Val="Repeated_Unlocked" />
+        </Props>
+      </Item>
+      <Item ItemId=";EmptyPathOrQuery" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test TEST TEST Test Path and query is empty in request Uri]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test TEST TEST Test Der Pfad und die Abfrage im Anforderungs-URI sind leer.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="sonja" DateTime="2013-06-19T12:29:57Z" />
+        <Props>
+          <Str Name="Custom2" Val="HO15_SMA-SPF-Orch" />
+        </Props>
+      </Item>
+      <Item ItemId=";InvalidSubscriptionIdInClaims" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test TEST TEST Test Invalid Subscription Id format. Guid expected in claims.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test TEST TEST Test Ungültiges Format der Abonnement-ID. GUID in Ansprüchen erwartet.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="l.seidel" DateTime="2014-09-24T12:16:14Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";InvalidSubscriptionIdInUrl" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test TEST TEST Test Invalid Subscription Id format. Guid expected in Url.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test TEST TEST Test Ungültiges Format der Abonnement-ID. GUID in URL erwartet.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="l.seidel" DateTime="2014-09-24T12:16:14Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";InvalidUrl" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test TEST TEST Test Invalid Url. Url: {0}.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test TEST TEST Test Ungültige URL. URL: {0}.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="l.seidel" DateTime="2014-09-24T12:16:14Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+      <Item ItemId=";LoginFailed" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test TEST TEST Test Login failed.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="Auto" AutoAppr="N/A" Confidence="100">
+            <Val><![CDATA[Test TEST TEST Test Anmeldefehler]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="sunggonm" DateTime="2013-06-17T20:47:33Z" />
+      </Item>
+      <Item ItemId=";ProvideAuthHeader" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test TEST TEST Test Please provide Authorization headers with your request.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test TEST TEST Test Stellen Sie Autorisierungskopfzeilen mit Ihrer Anforderung bereit.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="sonja" DateTime="2013-06-19T12:29:57Z" />
+        <Props>
+          <Str Name="Custom2" Val="HO15_SMA-SPF-Orch" />
+        </Props>
+      </Item>
+      <Item ItemId=";SubscriptionIdDoesNotMatch" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Test TEST TEST Test Subscription id in Url doesn't match the subscription id in claims.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
+            <Val><![CDATA[Test TEST TEST Test Abonnement-ID in URL stimmt nicht mit der Abonnement-ID in Ansprüchen überein.]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Modified By="l.seidel" DateTime="2014-09-24T12:26:21Z" />
+        <Props>
+          <Str Name="Custom2" Val="LQA_20140919" />
+        </Props>
+      </Item>
+    </Item>
+  </Item>
+  <Item ItemId=";Version" ItemType="0" PsrId="211" Leaf="false">
+    <Disp Icon="Ver" Disp="true" LocTbl="false" Path=" \ ;Version \ 8 \ 0" />
+    <Modified By="sunggonm" DateTime="2013-06-17T18:12:55Z" />
+    <Item ItemId=";AssemblyVersion" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test TEST TEST Test 7.2.0.0]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="sunggonm" DateTime="2013-06-17T18:12:55Z" />
+    </Item>
+    <Item ItemId=";CompanyName" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+      <Str Cat="Text" UsrLk="true">
+        <Val><![CDATA[Test TEST TEST Test Microsoft Corporation]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="sunggonm" DateTime="2013-06-17T18:12:59Z" />
+      <Cmts>
+        <Cmt Name="LcxAdmin"><![CDATA[Test TEST TEST Test {Locked=!ru}]]></Cmt>
+      </Cmts>
+    </Item>
+    <Item ItemId=";FileDescription" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+      <Str Cat="Text" UsrLk="true">
+        <Val><![CDATA[Test TEST TEST Test Orchestrator.WebService.HttpModule.Helper]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="sunggonm" DateTime="2013-06-17T18:12:59Z" />
+      <Cmts>
+        <Cmt Name="LcxAdmin"><![CDATA[Test TEST TEST Test {Locked}]]></Cmt>
+      </Cmts>
+    </Item>
+    <Item ItemId=";FileVersion" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test TEST TEST Test 7.2.6944.0]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="sunggonm" DateTime="2013-06-17T18:12:55Z" />
+    </Item>
+    <Item ItemId=";InternalName" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test TEST TEST Test Orchestrator.WebService.HttpModule.Common.dll]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="sunggonm" DateTime="2013-06-17T18:12:55Z" />
+    </Item>
+    <Item ItemId=";LegalCopyright" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Test TEST TEST Test © 2015 Microsoft. All rights reserved.]]></Val>
+        <Tgt Cat="Text" Stat="Update" Orig="New">
+          <Val><![CDATA[Test TEST TEST Test  ]]></Val>
+        </Tgt>
+        <Prev Cat="Text">
+          <Val><![CDATA[Test TEST TEST Test  ]]></Val>
+        </Prev>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="sunggonm" DateTime="2013-06-17T20:47:33Z" />
+      <Props>
+        <Str Name="Custom2" Val="HO 12/15/2015 12:00:00 AM" />
+        <Str Name="Custom3" Val="Repeated_Translated" />
+      </Props>
+    </Item>
+    <Item ItemId=";LegalTrademarks" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Test TEST TEST Test Microsoft® is a registered trademark of Microsoft Corporation.]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Props>
+        <Str Name="Custom2" Val="HO 12/15/2015 12:00:00 AM" />
+      </Props>
+    </Item>
+    <Item ItemId=";OriginalFilename" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test TEST TEST Test Orchestrator.WebService.HttpModule.Common.dll]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="sunggonm" DateTime="2013-06-17T18:12:55Z" />
+    </Item>
+    <Item ItemId=";ProductName" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+      <Str Cat="Text" UsrLk="true">
+        <Val><![CDATA[Test TEST TEST Test Hybrid Service Management Automation]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="sunggonm" DateTime="2013-06-17T18:12:59Z" />
+      <Cmts>
+        <Cmt Name="LcxAdmin"><![CDATA[Test TEST TEST Test {Locked}]]></Cmt>
+      </Cmts>
+    </Item>
+    <Item ItemId=";ProductVersion" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Test TEST TEST Test 7.2.6944.0]]></Val>
+      </Str>
+      <Disp Icon="Str" />
+      <Modified By="sunggonm" DateTime="2013-06-17T18:12:55Z" />
+    </Item>
+  </Item>
+  <Item ItemId=";Version" ItemType="8" PsrId="211" Leaf="true">
+    <Disp Icon="Expand" Expand="true" Disp="true" LocTbl="false" />
+    <Modified By="sunggonm" DateTime="2013-06-17T18:12:55Z" />
+  </Item>
+</LCX>
