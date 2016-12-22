@@ -36,7 +36,7 @@
       <Modified By="klece_000" DateTime="2014-09-22T08:49:31Z" />
       <Item ItemId=";CloudServiceNotFound" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test TEST TEST Test CloudService not found. Name {0}.]]></Val>
+          <Val><![CDATA[Test CloudService not found. Name {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
             <Val><![CDATA[Test Test TEST TEST Test Cloudová služba se nenašla. Název: {0}.]]></Val>
           </Tgt>
