@@ -41,9 +41,9 @@
       </Item>
       <Item ItemId=";AccountNotFound" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST Test Could not find the account. SubscriptionId: {0}. AccountName: {1}]]></Val>
+          <Val><![CDATA[Test Could not find the account. SubscriptionId: {0}. AccountName: {1}]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test TEST TEST Test Konto wurde nicht gefunden. SubscriptionId: {0}. AccountName: {1}]]></Val>
+            <Val><![CDATA[Test Konto wurde nicht gefunden. SubscriptionId: {0}. AccountName: {1}]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
