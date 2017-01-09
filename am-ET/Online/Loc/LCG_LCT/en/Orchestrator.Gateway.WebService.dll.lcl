@@ -14,13 +14,13 @@
       <Disp Icon="Str" LocTbl="false" />
       <Item ItemId=";AccountNotFoundException" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Account is not found in AzureStore.]]></Val>
+          <Val><![CDATA[Test Account is not found in AzureStore.]]></Val>
         </Str>
         <Disp Icon="Str" />
       </Item>
       <Item ItemId=";CannotGetClientCert" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Cannot get client certification from cert store. Forwarding requests to scale unit requires authenticaion using this cert.]]></Val>
+          <Val><![CDATA[Test Cannot get client certification from cert store. Forwarding requests to scale unit requires authenticaion using this cert.]]></Val>
         </Str>
         <Disp Icon="Str" />
       </Item>
