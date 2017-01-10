@@ -40,9 +40,9 @@
       </Item>
       <Item ItemId=";InvalidVersionSpecified" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST Test Invalid version specified in the api-version query string option. api-version: {0}.]]></Val>
+          <Val><![CDATA[Test Invalid version specified in the api-version query string option. api-version: {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test TEST TEST Test Ungültige Version in der api-version-Abfragezeichenfolgenoption. api-version angegeben: {0}.]]></Val>
+            <Val><![CDATA[Test Ungültige Version in der api-version-Abfragezeichenfolgenoption. api-version angegeben: {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
