@@ -27,9 +27,9 @@
       <Modified By="l.seidel" DateTime="2014-09-23T13:16:30Z" />
       <Item ItemId=";AccountNotAvailable" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Account is currently not available. SubscriptionId:{0}. AccountName: {1}]]></Val>
+          <Val><![CDATA[Account is currently not available. SubscriptionId:{0}. AccountName: {1}]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Konto ist derzeit nicht verfügbar. SubscriptionId:{0}. AccountName: {1}]]></Val>
+            <Val><![CDATA[Konto ist derzeit nicht verfügbar. SubscriptionId:{0}. AccountName: {1}]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
