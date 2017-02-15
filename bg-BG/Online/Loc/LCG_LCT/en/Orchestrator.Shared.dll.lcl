@@ -14,7 +14,7 @@
       <Disp Icon="Str" LocTbl="false" />
       <Item ItemId=";AccountDataMissingMasterCertificateThumbprint" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test The account data has no specified master certificate thumbprint.]]></Val>
+          <Val><![CDATA[Test 2 The account data has no specified master certificate thumbprint.]]></Val>
         </Str>
         <Disp Icon="Str" />
       </Item>
