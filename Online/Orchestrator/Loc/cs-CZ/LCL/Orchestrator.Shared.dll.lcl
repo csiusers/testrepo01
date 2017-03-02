@@ -36,9 +36,9 @@
       <Modified By="sunggonm" DateTime="2013-03-18T21:10:01Z" />
       <Item ItemId=";AccountDataMissingMasterCertificateThumbprint" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test TEST TEST Test The account data has no specified master certificate thumbprint.]]></Val>
+          <Val><![CDATA[Test The account data has no specified master certificate thumbprint.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test TEST TEST Test Pro data účtu není zadaný žádný kryptografický otisk hlavního certifikátu.]]></Val>
+            <Val><![CDATA[Test Pro data účtu není zadaný žádný kryptografický otisk hlavního certifikátu.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
