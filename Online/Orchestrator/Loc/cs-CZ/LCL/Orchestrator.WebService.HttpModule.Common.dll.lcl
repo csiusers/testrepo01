@@ -36,9 +36,9 @@
       <Modified By="sunggonm" DateTime="2013-06-17T18:12:31Z" />
       <Item ItemId=";AccountNameNotFoundInUrl" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST Could not find account name. Either account name  is not present or invalid or Url is malformed.]]></Val>
+          <Val><![CDATA[Test Could not find account name. Either account name  is not present or invalid or Url is malformed.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test TEST TEST Název účtu se nenašel. Buď chybí název účtu, nebo je špatná adresa URL.]]></Val>
+            <Val><![CDATA[Test Název účtu se nenašel. Buď chybí název účtu, nebo je špatná adresa URL.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
