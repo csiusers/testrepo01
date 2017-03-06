@@ -27,9 +27,9 @@
       <Modified By="l.seidel" DateTime="2014-09-23T13:16:30Z" />
       <Item ItemId=";AccountNameNotFoundInUrl" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST Could not find account name. Either account name  is not present or invalid or Url is malformed.]]></Val>
+          <Val><![CDATA[Test Could not find account name. Either account name  is not present or invalid or Url is malformed.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test TEST TEST Kontoname wurde nicht gefunden. Entweder ist der Kontoname nicht vorhanden oder ungültig, oder die URL ist falsch formatiert.]]></Val>
+            <Val><![CDATA[Test Kontoname wurde nicht gefunden. Entweder ist der Kontoname nicht vorhanden oder ungültig, oder die URL ist falsch formatiert.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
