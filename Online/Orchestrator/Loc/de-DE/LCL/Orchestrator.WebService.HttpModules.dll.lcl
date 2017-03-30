@@ -27,9 +27,9 @@
       <Modified By="l.seidel" DateTime="2014-09-23T13:16:30Z" />
       <Item ItemId=";AccountNotAvailable" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Account is currently not available. SubscriptionId:{0}. AccountName: {1}]]></Val>
+          <Val><![CDATA[Test Test Account is currently not available. SubscriptionId:{0}. AccountName: {1}]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Konto ist derzeit nicht verfügbar. SubscriptionId:{0}. AccountName: {1}]]></Val>
+            <Val><![CDATA[Test Test Konto ist derzeit nicht verfügbar. SubscriptionId:{0}. AccountName: {1}]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -40,9 +40,9 @@
       </Item>
       <Item ItemId=";InvalidVersionSpecified" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Invalid version specified in the api-version query string option. api-version: {0}.]]></Val>
+          <Val><![CDATA[Test Test Invalid version specified in the api-version query string option. api-version: {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Ungültige Version in der api-version-Abfragezeichenfolgenoption. api-version angegeben: {0}.]]></Val>
+            <Val><![CDATA[Test Test Ungültige Version in der api-version-Abfragezeichenfolgenoption. api-version angegeben: {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -53,9 +53,9 @@
       </Item>
       <Item ItemId=";SupportedVersionsNotFoundInApplication" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST Test Supported versions are not found in HttpApplication. ]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Test Supported versions are not found in HttpApplication. ]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test TEST TEST Test In HttpApplication wurden keine unterstützten Versionen gefunden. ]]></Val>
+            <Val><![CDATA[Test Test Test TEST TEST Test In HttpApplication wurden keine unterstützten Versionen gefunden. ]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -66,9 +66,9 @@
       </Item>
       <Item ItemId=";VersionNotSpecified" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST Test The api-version query string option is required for this API.]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Test The api-version query string option is required for this API.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test TEST TEST Test Die api-version--Abfragezeichenfolgenoption ist für diese API erforderlich.]]></Val>
+            <Val><![CDATA[Test Test Test TEST TEST Test Die api-version--Abfragezeichenfolgenoption ist für diese API erforderlich.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -84,16 +84,16 @@
     <Modified By="l.seidel" DateTime="2014-09-23T13:16:30Z" />
     <Item ItemId=";AssemblyVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test TEST TEST Test 7.2.0.0]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Test 7.2.0.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="l.seidel" DateTime="2014-09-24T12:16:14Z" />
     </Item>
     <Item ItemId=";CompanyName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test TEST TEST Test Microsoft Corporation]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Test Microsoft Corporation]]></Val>
         <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-          <Val><![CDATA[Test TEST TEST Test Microsoft Corporation]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Test Microsoft Corporation]]></Val>
         </Tgt>
       </Str>
       <Disp Icon="Str" />
@@ -104,9 +104,9 @@
     </Item>
     <Item ItemId=";FileDescription" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test TEST TEST Test Orchestrator.WebService.HttpModules]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Test Orchestrator.WebService.HttpModules]]></Val>
         <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-          <Val><![CDATA[Test TEST TEST Test Orchestrator.WebService.HttpModules]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Test Orchestrator.WebService.HttpModules]]></Val>
         </Tgt>
       </Str>
       <Disp Icon="Str" />
@@ -117,26 +117,26 @@
     </Item>
     <Item ItemId=";FileVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test TEST TEST Test 7.2.6944.0]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Test 7.2.6944.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="l.seidel" DateTime="2014-09-24T12:16:14Z" />
     </Item>
     <Item ItemId=";InternalName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test TEST TEST Test Orchestrator.WebService.HttpModules.dll]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Test Orchestrator.WebService.HttpModules.dll]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="l.seidel" DateTime="2014-09-24T12:16:14Z" />
     </Item>
     <Item ItemId=";LegalCopyright" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test TEST TEST Test © 2015 Microsoft. All rights reserved.]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Test © 2015 Microsoft. All rights reserved.]]></Val>
         <Tgt Cat="Text" Stat="Update" Orig="New">
-          <Val><![CDATA[Test TEST TEST Test  ]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Test  ]]></Val>
         </Tgt>
         <Prev Cat="Text">
-          <Val><![CDATA[Test TEST TEST Test  ]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Test  ]]></Val>
         </Prev>
       </Str>
       <Disp Icon="Str" />
@@ -148,7 +148,7 @@
     </Item>
     <Item ItemId=";LegalTrademarks" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test TEST TEST Test Microsoft® is a registered trademark of Microsoft Corporation.]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Test Microsoft® is a registered trademark of Microsoft Corporation.]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Props>
@@ -157,19 +157,19 @@
     </Item>
     <Item ItemId=";OriginalFilename" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test TEST TEST Test Orchestrator.WebService.HttpModules.dll]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Test Orchestrator.WebService.HttpModules.dll]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="l.seidel" DateTime="2014-09-24T12:16:14Z" />
     </Item>
     <Item ItemId=";ProductName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test TEST TEST Test Hybrid Service Management Automation]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Test Hybrid Service Management Automation]]></Val>
         <Tgt Cat="Text" Stat="Update" Orig="New">
-          <Val><![CDATA[Test TEST TEST Test OaaS]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Test OaaS]]></Val>
         </Tgt>
         <Prev Cat="Text">
-          <Val><![CDATA[Test TEST TEST Test OaaS]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Test OaaS]]></Val>
         </Prev>
       </Str>
       <Disp Icon="Str" />
@@ -181,7 +181,7 @@
     </Item>
     <Item ItemId=";ProductVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test TEST TEST Test 7.2.6944.0]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Test 7.2.6944.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="l.seidel" DateTime="2014-09-24T12:16:14Z" />

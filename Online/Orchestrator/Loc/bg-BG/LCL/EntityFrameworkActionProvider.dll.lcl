@@ -14,7 +14,7 @@
       <Disp Icon="Str" LocTbl="false" />
       <Item ItemId=";ActionNotFound" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST Test Action not found.]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Test Action not found.]]></Val>
         </Str>
         <Disp Icon="Str" />
         <Props>
@@ -23,7 +23,7 @@
       </Item>
       <Item ItemId=";AvailabilityCheckExpectedToHaveSignature" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST AvailabilityCheck method was expected to have this signature 'bool {0}.({1})']]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST AvailabilityCheck method was expected to have this signature 'bool {0}.({1})']]></Val>
         </Str>
         <Disp Icon="Str" />
         <Props>
@@ -32,7 +32,7 @@
       </Item>
       <Item ItemId=";AvailabilityCheckMethodMustReturnBoolean" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST AvailabilityCheck method ({0}.) MUST return bool.]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST AvailabilityCheck method ({0}.) MUST return bool.]]></Val>
         </Str>
         <Disp Icon="Str" />
         <Props>
@@ -41,7 +41,7 @@
       </Item>
       <Item ItemId=";AvailabilityMethodNotFound" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST Availability Method {0}. was not found on type {1}]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Availability Method {0}. was not found on type {1}]]></Val>
         </Str>
         <Disp Icon="Str" />
         <Props>
@@ -50,7 +50,7 @@
       </Item>
       <Item ItemId=";EntityTypeCollNotToBeUsedAsNonBindingParam" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST Entity Type Collections ({0}.) MUST not be used as non-binding parameters.]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Entity Type Collections ({0}.) MUST not be used as non-binding parameters.]]></Val>
         </Str>
         <Disp Icon="Str" />
         <Props>
@@ -59,7 +59,7 @@
       </Item>
       <Item ItemId=";EntityTypeNotToBeUsedAsNonBindingParam" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST Entity Types ({0}.) MUST not be used as non-binding parameters.]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Entity Types ({0}.) MUST not be used as non-binding parameters.]]></Val>
         </Str>
         <Disp Icon="Str" />
         <Props>
@@ -68,7 +68,7 @@
       </Item>
       <Item ItemId=";GenericActionParamTypeNotSupported" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST Generic action parameter type {0}. not supported]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Generic action parameter type {0}. not supported]]></Val>
         </Str>
         <Disp Icon="Str" />
         <Props>
@@ -77,7 +77,7 @@
       </Item>
       <Item ItemId=";IQueryableNotSupportedForNonBindingParams" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST IQueryable<> is not supported for non-binding parameters]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST IQueryable<> is not supported for non-binding parameters]]></Val>
         </Str>
         <Disp Icon="Str" />
         <Props>
@@ -86,7 +86,7 @@
       </Item>
       <Item ItemId=";InvalidBindingParam" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST Type {0}. is not a valid binding parameter]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Type {0}. is not a valid binding parameter]]></Val>
         </Str>
         <Disp Icon="Str" />
         <Props>
@@ -95,7 +95,7 @@
       </Item>
       <Item ItemId=";InvokeNotAvailable" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST Invoke not available. This invokable has already been Invoked.]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Invoke not available. This invokable has already been Invoked.]]></Val>
         </Str>
         <Disp Icon="Str" />
         <Props>
@@ -104,7 +104,7 @@
       </Item>
       <Item ItemId=";ProvideMethodToCalculateAvailability" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST If the action is conditionally available you need to provide a method to calculate availability]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST If the action is conditionally available you need to provide a method to calculate availability]]></Val>
         </Str>
         <Disp Icon="Str" />
         <Props>
@@ -113,7 +113,7 @@
       </Item>
       <Item ItemId=";ResultsNotAvailable" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST Results not available. This invokable hasn't been Invoked.]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Results not available. This invokable hasn't been Invoked.]]></Val>
         </Str>
         <Disp Icon="Str" />
         <Props>
@@ -122,7 +122,7 @@
       </Item>
       <Item ItemId=";UnexpectedAvailabilityMethodProvided" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST Unexpected availabilityMethodName provided.]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Unexpected availabilityMethodName provided.]]></Val>
         </Str>
         <Disp Icon="Str" />
         <Props>
@@ -138,13 +138,13 @@
     <Disp Icon="Ver" Disp="true" LocTbl="false" Path=" \ ;Version \ 8 \ 0" />
     <Item ItemId=";AssemblyVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test TEST TEST 7.2.0.0]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST 7.2.0.0]]></Val>
       </Str>
       <Disp Icon="Str" />
     </Item>
     <Item ItemId=";CompanyName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test TEST TEST Microsoft Corporation]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Microsoft Corporation]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Props>
@@ -153,7 +153,7 @@
     </Item>
     <Item ItemId=";FileDescription" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test TEST TEST ActionProviderImplementation]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST ActionProviderImplementation]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Props>
@@ -162,19 +162,19 @@
     </Item>
     <Item ItemId=";FileVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test TEST TEST 7.2.7385.0]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST 7.2.7385.0]]></Val>
       </Str>
       <Disp Icon="Str" />
     </Item>
     <Item ItemId=";InternalName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test TEST TEST EntityFrameworkActionProvider.dll]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST EntityFrameworkActionProvider.dll]]></Val>
       </Str>
       <Disp Icon="Str" />
     </Item>
     <Item ItemId=";LegalCopyright" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test TEST TEST © 2015 Microsoft. All rights reserved.]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST © 2015 Microsoft. All rights reserved.]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Props>
@@ -183,7 +183,7 @@
     </Item>
     <Item ItemId=";LegalTrademarks" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test TEST TEST Microsoft® is a registered trademark of Microsoft Corporation.]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Microsoft® is a registered trademark of Microsoft Corporation.]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Props>
@@ -192,13 +192,13 @@
     </Item>
     <Item ItemId=";OriginalFilename" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test TEST TEST EntityFrameworkActionProvider.dll]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST EntityFrameworkActionProvider.dll]]></Val>
       </Str>
       <Disp Icon="Str" />
     </Item>
     <Item ItemId=";ProductName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test TEST TEST Hybrid Service Management Automation]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Hybrid Service Management Automation]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Props>
@@ -207,7 +207,7 @@
     </Item>
     <Item ItemId=";ProductVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test TEST TEST 7.2.7385.0]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST 7.2.7385.0]]></Val>
       </Str>
       <Disp Icon="Str" />
     </Item>

@@ -27,9 +27,9 @@
       <Modified By="sunggonm" DateTime="2013-06-17T18:12:55Z" />
       <Item ItemId=";AccountNameNotFoundInUrl" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Could not find account name. Either account name  is not present or invalid or Url is malformed.]]></Val>
+          <Val><![CDATA[Test Test Test Could not find account name. Either account name  is not present or invalid or Url is malformed.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Kontoname wurde nicht gefunden. Entweder ist der Kontoname nicht vorhanden oder ungültig, oder die URL ist falsch formatiert.]]></Val>
+            <Val><![CDATA[Test Test Test Kontoname wurde nicht gefunden. Entweder ist der Kontoname nicht vorhanden oder ungültig, oder die URL ist falsch formatiert.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -41,9 +41,9 @@
       </Item>
       <Item ItemId=";AccountNotFound" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Could not find the account. SubscriptionId: {0}. AccountName: {1}]]></Val>
+          <Val><![CDATA[Test Test Test Could not find the account. SubscriptionId: {0}. AccountName: {1}]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Konto wurde nicht gefunden. SubscriptionId: {0}. AccountName: {1}]]></Val>
+            <Val><![CDATA[Test Test Test Konto wurde nicht gefunden. SubscriptionId: {0}. AccountName: {1}]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -55,9 +55,9 @@
       </Item>
       <Item ItemId=";EmptyPathOrQuery" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Path and query is empty in request Uri]]></Val>
+          <Val><![CDATA[Test Test Test Path and query is empty in request Uri]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Der Pfad und die Abfrage im Anforderungs-URI sind leer.]]></Val>
+            <Val><![CDATA[Test Test Test Der Pfad und die Abfrage im Anforderungs-URI sind leer.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -68,9 +68,9 @@
       </Item>
       <Item ItemId=";InvalidSubscriptionIdInClaims" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST Test Invalid Subscription Id format. Guid expected in claims.]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Test Invalid Subscription Id format. Guid expected in claims.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test TEST TEST Test Ungültiges Format der Abonnement-ID. GUID in Ansprüchen erwartet.]]></Val>
+            <Val><![CDATA[Test Test Test TEST TEST Test Ungültiges Format der Abonnement-ID. GUID in Ansprüchen erwartet.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -81,9 +81,9 @@
       </Item>
       <Item ItemId=";InvalidSubscriptionIdInUrl" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST Test Invalid Subscription Id format. Guid expected in Url.]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Test Invalid Subscription Id format. Guid expected in Url.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test TEST TEST Test Ungültiges Format der Abonnement-ID. GUID in URL erwartet.]]></Val>
+            <Val><![CDATA[Test Test Test TEST TEST Test Ungültiges Format der Abonnement-ID. GUID in URL erwartet.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -94,9 +94,9 @@
       </Item>
       <Item ItemId=";InvalidUrl" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST Test Invalid Url. Url: {0}.]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Test Invalid Url. Url: {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test TEST TEST Test Ungültige URL. URL: {0}.]]></Val>
+            <Val><![CDATA[Test Test Test TEST TEST Test Ungültige URL. URL: {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -107,9 +107,9 @@
       </Item>
       <Item ItemId=";LoginFailed" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST Test Login failed.]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Test Login failed.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="Auto" AutoAppr="N/A" Confidence="100">
-            <Val><![CDATA[Test TEST TEST Test Anmeldefehler]]></Val>
+            <Val><![CDATA[Test Test Test TEST TEST Test Anmeldefehler]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -117,9 +117,9 @@
       </Item>
       <Item ItemId=";ProvideAuthHeader" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST Test Please provide Authorization headers with your request.]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Test Please provide Authorization headers with your request.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test TEST TEST Test Stellen Sie Autorisierungskopfzeilen mit Ihrer Anforderung bereit.]]></Val>
+            <Val><![CDATA[Test Test Test TEST TEST Test Stellen Sie Autorisierungskopfzeilen mit Ihrer Anforderung bereit.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -130,9 +130,9 @@
       </Item>
       <Item ItemId=";SubscriptionIdDoesNotMatch" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test TEST TEST Test Subscription id in Url doesn't match the subscription id in claims.]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Test Subscription id in Url doesn't match the subscription id in claims.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test TEST TEST Test Abonnement-ID in URL stimmt nicht mit der Abonnement-ID in Ansprüchen überein.]]></Val>
+            <Val><![CDATA[Test Test Test TEST TEST Test Abonnement-ID in URL stimmt nicht mit der Abonnement-ID in Ansprüchen überein.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -148,53 +148,53 @@
     <Modified By="sunggonm" DateTime="2013-06-17T18:12:55Z" />
     <Item ItemId=";AssemblyVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test TEST TEST Test 7.2.0.0]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Test 7.2.0.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-06-17T18:12:55Z" />
     </Item>
     <Item ItemId=";CompanyName" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
       <Str Cat="Text" UsrLk="true">
-        <Val><![CDATA[Test TEST TEST Test Microsoft Corporation]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Test Microsoft Corporation]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-06-17T18:12:59Z" />
       <Cmts>
-        <Cmt Name="LcxAdmin"><![CDATA[Test TEST TEST Test {Locked=!ru}]]></Cmt>
+        <Cmt Name="LcxAdmin"><![CDATA[Test Test Test TEST TEST Test {Locked=!ru}]]></Cmt>
       </Cmts>
     </Item>
     <Item ItemId=";FileDescription" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
       <Str Cat="Text" UsrLk="true">
-        <Val><![CDATA[Test TEST TEST Test Orchestrator.WebService.HttpModule.Helper]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Test Orchestrator.WebService.HttpModule.Helper]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-06-17T18:12:59Z" />
       <Cmts>
-        <Cmt Name="LcxAdmin"><![CDATA[Test TEST TEST Test {Locked}]]></Cmt>
+        <Cmt Name="LcxAdmin"><![CDATA[Test Test Test TEST TEST Test {Locked}]]></Cmt>
       </Cmts>
     </Item>
     <Item ItemId=";FileVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test TEST TEST Test 7.2.6944.0]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Test 7.2.6944.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-06-17T18:12:55Z" />
     </Item>
     <Item ItemId=";InternalName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test TEST TEST Test Orchestrator.WebService.HttpModule.Common.dll]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Test Orchestrator.WebService.HttpModule.Common.dll]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-06-17T18:12:55Z" />
     </Item>
     <Item ItemId=";LegalCopyright" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test TEST TEST Test © 2015 Microsoft. All rights reserved.]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Test © 2015 Microsoft. All rights reserved.]]></Val>
         <Tgt Cat="Text" Stat="Update" Orig="New">
-          <Val><![CDATA[Test TEST TEST Test  ]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Test  ]]></Val>
         </Tgt>
         <Prev Cat="Text">
-          <Val><![CDATA[Test TEST TEST Test  ]]></Val>
+          <Val><![CDATA[Test Test Test TEST TEST Test  ]]></Val>
         </Prev>
       </Str>
       <Disp Icon="Str" />
@@ -206,7 +206,7 @@
     </Item>
     <Item ItemId=";LegalTrademarks" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test TEST TEST Test Microsoft® is a registered trademark of Microsoft Corporation.]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Test Microsoft® is a registered trademark of Microsoft Corporation.]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Props>
@@ -215,24 +215,24 @@
     </Item>
     <Item ItemId=";OriginalFilename" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test TEST TEST Test Orchestrator.WebService.HttpModule.Common.dll]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Test Orchestrator.WebService.HttpModule.Common.dll]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-06-17T18:12:55Z" />
     </Item>
     <Item ItemId=";ProductName" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
       <Str Cat="Text" UsrLk="true">
-        <Val><![CDATA[Test TEST TEST Test Hybrid Service Management Automation]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Test Hybrid Service Management Automation]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-06-17T18:12:59Z" />
       <Cmts>
-        <Cmt Name="LcxAdmin"><![CDATA[Test TEST TEST Test {Locked}]]></Cmt>
+        <Cmt Name="LcxAdmin"><![CDATA[Test Test Test TEST TEST Test {Locked}]]></Cmt>
       </Cmts>
     </Item>
     <Item ItemId=";ProductVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test TEST TEST Test 7.2.6944.0]]></Val>
+        <Val><![CDATA[Test Test Test TEST TEST Test 7.2.6944.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-06-17T18:12:55Z" />
