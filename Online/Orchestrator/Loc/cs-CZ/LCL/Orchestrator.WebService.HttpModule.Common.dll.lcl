@@ -36,9 +36,9 @@
       <Modified By="sunggonm" DateTime="2013-06-17T18:12:31Z" />
       <Item ItemId=";AccountNameNotFoundInUrl" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Could not find account name. Either account name  is not present or invalid or Url is malformed.]]></Val>
+          <Val><![CDATA[Test Test Test Test Could not find account name. Either account name  is not present or invalid or Url is malformed.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Název účtu se nenašel. Buď chybí název účtu, nebo je špatná adresa URL.]]></Val>
+            <Val><![CDATA[Test Test Test Test Název účtu se nenašel. Buď chybí název účtu, nebo je špatná adresa URL.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -50,9 +50,9 @@
       </Item>
       <Item ItemId=";AccountNotFound" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test TEST TEST Could not find the account. SubscriptionId: {0}. AccountName: {1}]]></Val>
+          <Val><![CDATA[Test Test Test Test TEST TEST Could not find the account. SubscriptionId: {0}. AccountName: {1}]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test TEST TEST Účet se nenašel. ID předplatného: {0}., název účtu: {1}.]]></Val>
+            <Val><![CDATA[Test Test Test Test TEST TEST Účet se nenašel. ID předplatného: {0}., název účtu: {1}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -64,9 +64,9 @@
       </Item>
       <Item ItemId=";EmptyPathOrQuery" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test TEST TEST Path and query is empty in request Uri]]></Val>
+          <Val><![CDATA[Test Test Test Test TEST TEST Path and query is empty in request Uri]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test TEST TEST Cesta a dotaz jsou v identifikátoru URI žádosti prázdné.]]></Val>
+            <Val><![CDATA[Test Test Test Test TEST TEST Cesta a dotaz jsou v identifikátoru URI žádosti prázdné.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -77,9 +77,9 @@
       </Item>
       <Item ItemId=";InvalidSubscriptionIdInClaims" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test TEST TEST Invalid Subscription Id format. Guid expected in claims.]]></Val>
+          <Val><![CDATA[Test Test Test Test TEST TEST Invalid Subscription Id format. Guid expected in claims.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test TEST TEST Neplatný formát ID předplatného. V deklaracích se očekává GUID.]]></Val>
+            <Val><![CDATA[Test Test Test Test TEST TEST Neplatný formát ID předplatného. V deklaracích se očekává GUID.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -90,9 +90,9 @@
       </Item>
       <Item ItemId=";InvalidSubscriptionIdInUrl" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test TEST TEST Invalid Subscription Id format. Guid expected in Url.]]></Val>
+          <Val><![CDATA[Test Test Test Test TEST TEST Invalid Subscription Id format. Guid expected in Url.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test TEST TEST Neplatný formát ID předplatného. V adrese URL se očekává GUID.]]></Val>
+            <Val><![CDATA[Test Test Test Test TEST TEST Neplatný formát ID předplatného. V adrese URL se očekává GUID.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -103,9 +103,9 @@
       </Item>
       <Item ItemId=";InvalidUrl" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test TEST TEST Invalid Url. Url: {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test TEST TEST Invalid Url. Url: {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test TEST TEST Neplatná adresa URL. URL: {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test TEST TEST Neplatná adresa URL. URL: {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -116,9 +116,9 @@
       </Item>
       <Item ItemId=";LoginFailed" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test TEST TEST Login failed.]]></Val>
+          <Val><![CDATA[Test Test Test Test TEST TEST Login failed.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="Auto" AutoAppr="N/A" Confidence="100">
-            <Val><![CDATA[Test Test Test TEST TEST Přihlášení se nezdařilo.]]></Val>
+            <Val><![CDATA[Test Test Test Test TEST TEST Přihlášení se nezdařilo.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -126,9 +126,9 @@
       </Item>
       <Item ItemId=";ProvideAuthHeader" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test TEST TEST Please provide Authorization headers with your request.]]></Val>
+          <Val><![CDATA[Test Test Test Test TEST TEST Please provide Authorization headers with your request.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test TEST TEST Zadejte k žádosti hlavičky ověření.]]></Val>
+            <Val><![CDATA[Test Test Test Test TEST TEST Zadejte k žádosti hlavičky ověření.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -139,9 +139,9 @@
       </Item>
       <Item ItemId=";SubscriptionIdDoesNotMatch" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test TEST TEST Subscription id in Url doesn't match the subscription id in claims.]]></Val>
+          <Val><![CDATA[Test Test Test Test TEST TEST Subscription id in Url doesn't match the subscription id in claims.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test TEST TEST ID předplatného v adrese URL neodpovídá ID předplatného v deklaracích.]]></Val>
+            <Val><![CDATA[Test Test Test Test TEST TEST ID předplatného v adrese URL neodpovídá ID předplatného v deklaracích.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -157,59 +157,59 @@
     <Modified By="sunggonm" DateTime="2013-06-17T18:12:31Z" />
     <Item ItemId=";AssemblyVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test TEST TEST 7.2.0.0]]></Val>
+        <Val><![CDATA[Test Test Test Test TEST TEST 7.2.0.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-06-17T18:12:31Z" />
     </Item>
     <Item ItemId=";CompanyName" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
       <Str Cat="Text" UsrLk="true">
-        <Val><![CDATA[Test Test Test TEST TEST Microsoft Corporation]]></Val>
+        <Val><![CDATA[Test Test Test Test TEST TEST Microsoft Corporation]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-06-17T18:12:35Z" />
       <Cmts>
-        <Cmt Name="LcxAdmin"><![CDATA[Test Test Test TEST TEST {Locked=!ru}]]></Cmt>
+        <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST {Locked=!ru}]]></Cmt>
       </Cmts>
     </Item>
     <Item ItemId=";FileDescription" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
       <Str Cat="Text" UsrLk="true">
-        <Val><![CDATA[Test Test Test TEST TEST Orchestrator.WebService.HttpModule.Helper]]></Val>
+        <Val><![CDATA[Test Test Test Test TEST TEST Orchestrator.WebService.HttpModule.Helper]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-06-17T18:12:35Z" />
       <Cmts>
-        <Cmt Name="LcxAdmin"><![CDATA[Test Test Test TEST TEST {Locked}]]></Cmt>
+        <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST {Locked}]]></Cmt>
       </Cmts>
     </Item>
     <Item ItemId=";FileVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test TEST TEST 7.2.4038.0]]></Val>
+        <Val><![CDATA[Test Test Test Test TEST TEST 7.2.4038.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-06-17T18:12:31Z" />
     </Item>
     <Item ItemId=";InternalName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test TEST TEST Orchestrator.WebService.HttpModule.Common.dll]]></Val>
+        <Val><![CDATA[Test Test Test Test TEST TEST Orchestrator.WebService.HttpModule.Common.dll]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-06-17T18:12:31Z" />
     </Item>
     <Item ItemId=";LegalCopyright" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test TEST TEST  ]]></Val>
+        <Val><![CDATA[Test Test Test Test TEST TEST  ]]></Val>
         <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-          <Val><![CDATA[Test Test Test TEST TEST  ]]></Val>
+          <Val><![CDATA[Test Test Test Test TEST TEST  ]]></Val>
         </Tgt>
         <Prev Cat="Text">
-          <Val><![CDATA[Test Test Test TEST TEST © 2013 Microsoft. All rights reserved.]]></Val>
+          <Val><![CDATA[Test Test Test Test TEST TEST © 2013 Microsoft. All rights reserved.]]></Val>
         </Prev>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-06-17T20:47:11Z" />
       <Cmts>
-        <Cmt Name="LcxAdmin"><![CDATA[Test Test Test TEST TEST {StrContains=!ru;"Microsoft"} {Locked=ja,ko}]]></Cmt>
+        <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST {StrContains=!ru;"Microsoft"} {Locked=ja,ko}]]></Cmt>
       </Cmts>
       <Props>
         <Str Name="Custom3" Val="Repeated_Translated" />
@@ -217,24 +217,24 @@
     </Item>
     <Item ItemId=";OriginalFilename" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test TEST TEST Orchestrator.WebService.HttpModule.Common.dll]]></Val>
+        <Val><![CDATA[Test Test Test Test TEST TEST Orchestrator.WebService.HttpModule.Common.dll]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-06-17T18:12:31Z" />
     </Item>
     <Item ItemId=";ProductName" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
       <Str Cat="Text" UsrLk="true">
-        <Val><![CDATA[Test Test Test TEST TEST OaaS]]></Val>
+        <Val><![CDATA[Test Test Test Test TEST TEST OaaS]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-06-17T18:12:35Z" />
       <Cmts>
-        <Cmt Name="LcxAdmin"><![CDATA[Test Test Test TEST TEST {Locked}]]></Cmt>
+        <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST {Locked}]]></Cmt>
       </Cmts>
     </Item>
     <Item ItemId=";ProductVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test TEST TEST 7.2.0.0]]></Val>
+        <Val><![CDATA[Test Test Test Test TEST TEST 7.2.0.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-06-17T18:12:31Z" />
