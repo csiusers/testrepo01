@@ -36,9 +36,9 @@
       <Modified By="klece_000" DateTime="2014-09-22T08:49:31Z" />
       <Item ItemId=";CloudServicesControllerDeleteCloudServiceEnterExit" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test SubscriptionId: {0}., CloudServiceName: {1}]]></Val>
+          <Val><![CDATA[Test Test Test Test SubscriptionId: {0}., CloudServiceName: {1}]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test SubscriptionId: {0}., CloudServiceName: {1}]]></Val>
+            <Val><![CDATA[Test Test Test Test SubscriptionId: {0}., CloudServiceName: {1}]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -50,9 +50,9 @@
       </Item>
       <Item ItemId=";CloudServicesControllerGetAllResourcesInCloudServiceEnterExit" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}]]></Val>
+            <Val><![CDATA[Test Test Test Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -63,9 +63,9 @@
       </Item>
       <Item ItemId=";ETagMismatched" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Account already exists and etag mismatched.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST Account already exists and etag mismatched.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Účet už existuje a značka etag se neshoduje.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test TEST TEST Účet už existuje a značka etag se neshoduje.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -76,9 +76,9 @@
       </Item>
       <Item ItemId=";EventsControllerHandleSubscriptionNotificationsEnterExit" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST SubscriptionId: {0}., State: {1}]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST SubscriptionId: {0}., State: {1}]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST ID předplatného: {0}., stav: {1}]]></Val>
+            <Val><![CDATA[Test Test Test Test Test TEST TEST ID předplatného: {0}., stav: {1}]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -89,9 +89,9 @@
       </Item>
       <Item ItemId=";ResourceProviderResponse" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Resource Provider response: {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST Resource Provider response: {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Odpověď zprostředkovatele prostředků: {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test TEST TEST Odpověď zprostředkovatele prostředků: {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -102,9 +102,9 @@
       </Item>
       <Item ItemId=";ResourcesControllerDeleteResourceEnterExit" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}, ResourceType: {2}, ResourceName:{3}]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}, ResourceType: {2}, ResourceName:{3}]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}, ResourceType: {2}, ResourceName:{3}]]></Val>
+            <Val><![CDATA[Test Test Test Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}, ResourceType: {2}, ResourceName:{3}]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -116,9 +116,9 @@
       </Item>
       <Item ItemId=";ResourcesControllerGetResourceEnterExit" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}, ResourceType: {2}, ResourceName:{3}]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}, ResourceType: {2}, ResourceName:{3}]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}, ResourceType: {2}, ResourceName:{3}]]></Val>
+            <Val><![CDATA[Test Test Test Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}, ResourceType: {2}, ResourceName:{3}]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -129,9 +129,9 @@
       </Item>
       <Item ItemId=";ResourcesControllerProvisionOrUpdateResourceEnterExit" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}, ResourceType: {2}, ResourceName:{3}]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}, ResourceType: {2}, ResourceName:{3}]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}, ResourceType: {2}, ResourceName:{3}]]></Val>
+            <Val><![CDATA[Test Test Test Test Test TEST TEST SubscriptionId: {0}., CloudServiceName: {1}, ResourceType: {2}, ResourceName:{3}]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -147,16 +147,16 @@
     <Modified By="klece_000" DateTime="2014-09-22T08:49:31Z" />
     <Item ItemId=";AssemblyVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST 7.2.0.0]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST 7.2.0.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
     </Item>
     <Item ItemId=";CompanyName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST Microsoft Corporation]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST Microsoft Corporation]]></Val>
         <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-          <Val><![CDATA[Test Test Test Test TEST TEST Microsoft Corporation]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST Microsoft Corporation]]></Val>
         </Tgt>
       </Str>
       <Disp Icon="Str" />
@@ -167,9 +167,9 @@
     </Item>
     <Item ItemId=";FileDescription" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST Orchestrator.WebService.ResourceProvider]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST Orchestrator.WebService.ResourceProvider]]></Val>
         <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-          <Val><![CDATA[Test Test Test Test TEST TEST Orchestrator.WebService.ResourceProvider]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST Orchestrator.WebService.ResourceProvider]]></Val>
         </Tgt>
       </Str>
       <Disp Icon="Str" />
@@ -180,23 +180,23 @@
     </Item>
     <Item ItemId=";FileVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST 7.2.4038.0]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST 7.2.4038.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
     </Item>
     <Item ItemId=";InternalName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST Orchestrator.WebService.ResourceProvider.dll]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST Orchestrator.WebService.ResourceProvider.dll]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
     </Item>
     <Item ItemId=";LegalCopyright" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST  ]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST  ]]></Val>
         <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-          <Val><![CDATA[Test Test Test Test TEST TEST  ]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST  ]]></Val>
         </Tgt>
       </Str>
       <Disp Icon="Str" />
@@ -207,16 +207,16 @@
     </Item>
     <Item ItemId=";OriginalFilename" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST Orchestrator.WebService.ResourceProvider.dll]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST Orchestrator.WebService.ResourceProvider.dll]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
     </Item>
     <Item ItemId=";ProductName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST OaaS]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST OaaS]]></Val>
         <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-          <Val><![CDATA[Test Test Test Test TEST TEST OaaS]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST OaaS]]></Val>
         </Tgt>
       </Str>
       <Disp Icon="Str" />
@@ -227,7 +227,7 @@
     </Item>
     <Item ItemId=";ProductVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST 7.2.0.0]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST 7.2.0.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />

@@ -27,9 +27,9 @@
       <Modified By="l.seidel" DateTime="2014-09-23T13:16:30Z" />
       <Item ItemId=";CloudServiceNotFound" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST CloudService not found. Name {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST CloudService not found. Name {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST CloudService nicht gefunden. Name {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test TEST TEST CloudService nicht gefunden. Name {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -40,9 +40,9 @@
       </Item>
       <Item ItemId=";FailedToStartRunbook" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Runbook cannot be started. Runbook name {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST Runbook cannot be started. Runbook name {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Runbook kann nicht gestartet werden. Runbookname {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test TEST TEST Runbook kann nicht gestartet werden. Runbookname {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -53,9 +53,9 @@
       </Item>
       <Item ItemId=";SubscriptionNotFound" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Subcription not found. Id {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST Subcription not found. Id {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Abonnement nicht gefunden. ID {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test TEST TEST Abonnement nicht gefunden. ID {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -71,16 +71,16 @@
     <Modified By="l.seidel" DateTime="2014-09-23T13:16:30Z" />
     <Item ItemId=";AssemblyVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST 7.2.0.0]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST 7.2.0.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="l.seidel" DateTime="2014-09-24T12:16:13Z" />
     </Item>
     <Item ItemId=";CompanyName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST Microsoft Corporation]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST Microsoft Corporation]]></Val>
         <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-          <Val><![CDATA[Test Test Test Test TEST TEST Microsoft Corporation]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST Microsoft Corporation]]></Val>
         </Tgt>
       </Str>
       <Disp Icon="Str" />
@@ -91,9 +91,9 @@
     </Item>
     <Item ItemId=";FileDescription" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST Orhcestrator.Management.Cloud]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST Orhcestrator.Management.Cloud]]></Val>
         <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-          <Val><![CDATA[Test Test Test Test TEST TEST Orchestrator.Management.Cloud]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST Orchestrator.Management.Cloud]]></Val>
         </Tgt>
       </Str>
       <Disp Icon="Str" />
@@ -104,26 +104,26 @@
     </Item>
     <Item ItemId=";FileVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST 7.2.6944.0]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST 7.2.6944.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="l.seidel" DateTime="2014-09-24T12:16:13Z" />
     </Item>
     <Item ItemId=";InternalName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST Orchestrator.ResourceProvider.dll]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST Orchestrator.ResourceProvider.dll]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="l.seidel" DateTime="2014-09-24T12:16:13Z" />
     </Item>
     <Item ItemId=";LegalCopyright" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST © 2015 Microsoft. All rights reserved.]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST © 2015 Microsoft. All rights reserved.]]></Val>
         <Tgt Cat="Text" Stat="Update" Orig="New">
-          <Val><![CDATA[Test Test Test Test TEST TEST  ]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST  ]]></Val>
         </Tgt>
         <Prev Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST  ]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST  ]]></Val>
         </Prev>
       </Str>
       <Disp Icon="Str" />
@@ -135,7 +135,7 @@
     </Item>
     <Item ItemId=";LegalTrademarks" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST Microsoft® is a registered trademark of Microsoft Corporation.]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST Microsoft® is a registered trademark of Microsoft Corporation.]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Props>
@@ -144,19 +144,19 @@
     </Item>
     <Item ItemId=";OriginalFilename" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST Orchestrator.ResourceProvider.dll]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST Orchestrator.ResourceProvider.dll]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="l.seidel" DateTime="2014-09-24T12:16:13Z" />
     </Item>
     <Item ItemId=";ProductName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST Hybrid Service Management Automation]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST Hybrid Service Management Automation]]></Val>
         <Tgt Cat="Text" Stat="Update" Orig="New">
-          <Val><![CDATA[Test Test Test Test TEST TEST OaaS]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST OaaS]]></Val>
         </Tgt>
         <Prev Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST OaaS]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST OaaS]]></Val>
         </Prev>
       </Str>
       <Disp Icon="Str" />
@@ -168,7 +168,7 @@
     </Item>
     <Item ItemId=";ProductVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST 7.2.6944.0]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST 7.2.6944.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="l.seidel" DateTime="2014-09-24T12:16:13Z" />
