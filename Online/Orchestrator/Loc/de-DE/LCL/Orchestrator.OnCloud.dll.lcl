@@ -27,9 +27,9 @@
       <Modified By="l.seidel" DateTime="2014-09-23T13:16:30Z" />
       <Item ItemId=";AzureQueueLength" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Azure Average Queue Length Per Interval]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Azure Average Queue Length Per Interval]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Durchschnittliche Azure-Warteschlangenlänge pro Intervall]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Durchschnittliche Azure-Warteschlangenlänge pro Intervall]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -40,9 +40,9 @@
       </Item>
       <Item ItemId=";string:Log&#x0;" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Azure Average Queue Length Per Interval Base]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Azure Average Queue Length Per Interval Base]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Durchschnittliche Azure-Warteschlangenlänge pro Intervall - Basis]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Durchschnittliche Azure-Warteschlangenlänge pro Intervall - Basis]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -53,9 +53,9 @@
       </Item>
       <Item ItemId=";AzureQueueMessageDuration" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Azure Queue Message Duration]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Azure Queue Message Duration]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Dauer der Azure-Warteschlangennachricht]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Dauer der Azure-Warteschlangennachricht]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -66,9 +66,9 @@
       </Item>
       <Item ItemId=";AzureQueueMessageDurationBase" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Azure Queue Message Duration Base]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Azure Queue Message Duration Base]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Dauer der Azure-Warteschlangennachricht - Basis]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Dauer der Azure-Warteschlangennachricht - Basis]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -79,9 +79,9 @@
       </Item>
       <Item ItemId=";AzureQueueParseException" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST OrchestratorQueueConnectionString parse exception]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST OrchestratorQueueConnectionString parse exception]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST OrchestratorQueueConnectionString-Analyseausnahme]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST OrchestratorQueueConnectionString-Analyseausnahme]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -92,9 +92,9 @@
       </Item>
       <Item ItemId=";AzureStorageCountersDoNotExist" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Azure storage performance counters do not exist.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Azure storage performance counters do not exist.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Leistungsindikatoren für Azure-Speicher sind nicht vorhanden.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Leistungsindikatoren für Azure-Speicher sind nicht vorhanden.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -105,9 +105,9 @@
       </Item>
       <Item ItemId=";AzureStorageExceptionsPerSec" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Azure Storage Exceptions Per Sec]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Azure Storage Exceptions Per Sec]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Azure-Speicherausnahmen pro Sekunde]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Azure-Speicherausnahmen pro Sekunde]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -118,9 +118,9 @@
       </Item>
       <Item ItemId=";AzureStorageParseException" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST OrchestratorStoreConnectionString parse exception]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST OrchestratorStoreConnectionString parse exception]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST OrchestratorStoreConnectionString-Analyseausnahme]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST OrchestratorStoreConnectionString-Analyseausnahme]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -131,9 +131,9 @@
       </Item>
       <Item ItemId=";AzureStorageStorageUnavailableThrown" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST 2030: Storage unavailable]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST 2030: Storage unavailable]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="Auto" AutoAppr="N/A" Confidence="100">
-            <Val><![CDATA[Test Test Test Test TEST TEST 2030: Speicher nicht verfügbar.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST 2030: Speicher nicht verfügbar.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -144,9 +144,9 @@
       </Item>
       <Item ItemId=";AzureWorkerQueuePerfCountersDoNotExist" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Azure Worker Queue performance counters do not exist.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Azure Worker Queue performance counters do not exist.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Leistungsindikatoren für Azure Worker-Warteschlange sind nicht vorhanden.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Leistungsindikatoren für Azure Worker-Warteschlange sind nicht vorhanden.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -157,9 +157,9 @@
       </Item>
       <Item ItemId=";AzureWorkerRetryPolicyCounter" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Worker Azure Storage Retries]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Worker Azure Storage Retries]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Azure Worker-Speicherwiederholungen]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Azure Worker-Speicherwiederholungen]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -170,9 +170,9 @@
       </Item>
       <Item ItemId=";ConfigurationSettingNotFound" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Configuration setting not found in ServiceConfiguration.cscfg for the key: ]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Configuration setting not found in ServiceConfiguration.cscfg for the key: ]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Für folgenden Schlüssel wurde keine Konfigurationseinstellung in ServiceConfiguration.cscfg gefunden:]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Für folgenden Schlüssel wurde keine Konfigurationseinstellung in ServiceConfiguration.cscfg gefunden:]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -183,9 +183,9 @@
       </Item>
       <Item ItemId=";FailedInGetMessage" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Failed in GetMessage {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Failed in GetMessage {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Fehler in GetMessage {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Fehler in GetMessage {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -196,9 +196,9 @@
       </Item>
       <Item ItemId=";FailedToInitializeQueue" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Failed to initialize queue with error {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Failed to initialize queue with error {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Fehler beim Initialisieren von Warteschlange; Fehler {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Fehler beim Initialisieren von Warteschlange; Fehler {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -210,9 +210,9 @@
       </Item>
       <Item ItemId=";FailedToInitializeQueue1" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Failed to initialize queue with error {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Failed to initialize queue with error {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Fehler beim Initialisieren von Warteschlange; Fehler {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Fehler beim Initialisieren von Warteschlange; Fehler {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -223,9 +223,9 @@
       </Item>
       <Item ItemId=";InSetPartitionInstanceIdCreatedQueue" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST In SetPartitionInstanceId. Created Queue for instance id {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST In SetPartitionInstanceId. Created Queue for instance id {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST In SetPartitionInstanceId wurde eine Warteschlange für Instanz-ID {0}. erstellt]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST In SetPartitionInstanceId wurde eine Warteschlange für Instanz-ID {0}. erstellt]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -236,9 +236,9 @@
       </Item>
       <Item ItemId=";InitializingQueueWithAzureAccount" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Initializing Queue with azure queue account {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Initializing Queue with azure queue account {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Warteschlange wird mit Azure-Warteschlangenkonto {0}. initialisiert]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Warteschlange wird mit Azure-Warteschlangenkonto {0}. initialisiert]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -249,9 +249,9 @@
       </Item>
       <Item ItemId=";MessageIdIsNull" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Failed to delete the message - the MessageId is null]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Failed to delete the message - the MessageId is null]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Fehler beim Löschen der Meldung - MessageId ist null]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Fehler beim Löschen der Meldung - MessageId ist null]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -262,9 +262,9 @@
       </Item>
       <Item ItemId=";MessageWithJobIdReceived" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Message with JobId {0}. received in queueReader {1}]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Message with JobId {0}. received in queueReader {1}]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Meldung mit JobId {0}. in queueReader {1} empfangen]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Meldung mit JobId {0}. in queueReader {1} empfangen]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -275,9 +275,9 @@
       </Item>
       <Item ItemId=";ModuleVersionIdNotFoundInPath" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST The last segment of the path must be module version id. Path: {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST The last segment of the path must be module version id. Path: {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Das letzte Segment des Pfads muss die Modulversions-ID sein. Pfad: {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Das letzte Segment des Pfads muss die Modulversions-ID sein. Pfad: {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -288,9 +288,9 @@
       </Item>
       <Item ItemId=";ParameterCannotBeNullOrEmpty" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST {0}. cannot be null or empty]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST {0}. cannot be null or empty]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST {0}. darf nicht null oder leer sein]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST {0}. darf nicht null oder leer sein]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -301,9 +301,9 @@
       </Item>
       <Item ItemId=";QueueDeleteMessageMessageNotFound" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Queue DeleteMessage - message ID {0}. with PopReceipt {1} not found. This can be caused by the message PopReceipt expiration.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Queue DeleteMessage - message ID {0}. with PopReceipt {1} not found. This can be caused by the message PopReceipt expiration.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Queue DeleteMessage - Meldungs-ID {0}. mit PopReceipt {1} nicht gefunden. Dies kann durch den PopReceipt-Ablauf der Meldung verursacht werden.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Queue DeleteMessage - Meldungs-ID {0}. mit PopReceipt {1} nicht gefunden. Dies kann durch den PopReceipt-Ablauf der Meldung verursacht werden.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -314,9 +314,9 @@
       </Item>
       <Item ItemId=";QueueDeleteMessageThrewException" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Queue DeleteMessage threw an exception.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Queue DeleteMessage threw an exception.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Durch Queue DeleteMessage wurde eine Ausnahme ausgelöst.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Durch Queue DeleteMessage wurde eine Ausnahme ausgelöst.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -327,9 +327,9 @@
       </Item>
       <Item ItemId=";QueueGetMessagesThrewException" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Queue GetMessages threw an exception]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Queue GetMessages threw an exception]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Durch Queue GetMessages wurde eine Ausnahme ausgelöst]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Durch Queue GetMessages wurde eine Ausnahme ausgelöst]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -340,9 +340,9 @@
       </Item>
       <Item ItemId=";QueueInstanceId" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST InstanceId {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST InstanceId {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST InstanceId {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST InstanceId {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -353,9 +353,9 @@
       </Item>
       <Item ItemId=";ReasonCodeConcurrentRequestsHardThrottle" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Too Many Concurrent Requests, Hard Throttle.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Too Many Concurrent Requests, Hard Throttle.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Zu viele gleichzeitige Anforderungen, harte Drosselung.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Zu viele gleichzeitige Anforderungen, harte Drosselung.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -366,9 +366,9 @@
       </Item>
       <Item ItemId=";ReasonCodeConcurrentRequestsSoftThrottle" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Too Many Concurrent Requests, Soft Throttle.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Too Many Concurrent Requests, Soft Throttle.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Zu viele gleichzeitige Anforderungen, weiche Drosselung.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Zu viele gleichzeitige Anforderungen, weiche Drosselung.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -379,9 +379,9 @@
       </Item>
       <Item ItemId=";ReasonCodeDiskSpaceHardThrottle" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Disk Space, Hard Throttle.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Disk Space, Hard Throttle.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Speicherplatz, harte Drosselung.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Speicherplatz, harte Drosselung.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -392,9 +392,9 @@
       </Item>
       <Item ItemId=";ReasonCodeDiskSpaceSoftThrottle" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Disk Space, Soft Throttle.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Disk Space, Soft Throttle.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Speicherplatz, weiche Drosselung.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Speicherplatz, weiche Drosselung.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -405,9 +405,9 @@
       </Item>
       <Item ItemId=";ReasonCodeHighCpuHardThrottle" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST High-volume CPU Activities, Hard Throttle.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST High-volume CPU Activities, Hard Throttle.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST CPU-Aktivitäten mit hohem Volumen, harte Drosselung.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST CPU-Aktivitäten mit hohem Volumen, harte Drosselung.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -418,9 +418,9 @@
       </Item>
       <Item ItemId=";ReasonCodeHighCpuSoftThrottle" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST High-volume CPU Activities, Soft Throttle.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST High-volume CPU Activities, Soft Throttle.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST CPU-Aktivitäten mit hohem Volumen, weiche Drosselung.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST CPU-Aktivitäten mit hohem Volumen, weiche Drosselung.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -431,9 +431,9 @@
       </Item>
       <Item ItemId=";ReasonCodeHighReadsHardThrottle" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST High-volume Read Activities, Hard Throttle.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST High-volume Read Activities, Hard Throttle.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Leseaktivitäten mit hohem Volumen, harte Drosselung.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Leseaktivitäten mit hohem Volumen, harte Drosselung.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -444,9 +444,9 @@
       </Item>
       <Item ItemId=";ReasonCodeHighReadsSoftThrottle" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST High-volume Read Activities, Soft Throttle.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST High-volume Read Activities, Soft Throttle.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Leseaktivitäten mit hohem Volumen, weiche Drosselung.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Leseaktivitäten mit hohem Volumen, weiche Drosselung.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -457,9 +457,9 @@
       </Item>
       <Item ItemId=";ReasonCodeHighWritesHardThrottle" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST High-volume Write Activities, Hard Throttle.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST High-volume Write Activities, Hard Throttle.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Schreibaktivitäten mit hohem Volumen, harte Drosselung.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Schreibaktivitäten mit hohem Volumen, harte Drosselung.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -470,9 +470,9 @@
       </Item>
       <Item ItemId=";ReasonCodeHighWritesSoftThrottle" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST High-volume Write Activities, Soft Throttle.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST High-volume Write Activities, Soft Throttle.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Schreibaktivitäten mit hohem Volumen, weiche Drosselung.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Schreibaktivitäten mit hohem Volumen, weiche Drosselung.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -483,9 +483,9 @@
       </Item>
       <Item ItemId=";ReasonCodeLogSpaceHardThrottle" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Log Space, Hard Throttle.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Log Space, Hard Throttle.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Protokollspeicherplatz, harte Drosselung.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Protokollspeicherplatz, harte Drosselung.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -496,9 +496,9 @@
       </Item>
       <Item ItemId=";ReasonCodeLogSpaceSoftThrottle" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Log Space, Soft Throttle.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Log Space, Soft Throttle.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Protokollspeicherplatz, weiche Drosselung.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Protokollspeicherplatz, weiche Drosselung.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -509,9 +509,9 @@
       </Item>
       <Item ItemId=";ReasonCodeNoThrottling" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST No throttling.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST No throttling.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Keine Drosselung.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Keine Drosselung.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -522,9 +522,9 @@
       </Item>
       <Item ItemId=";ReasonCodeQuotaHardThrottle" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Quota Exceeded, HardThrottle.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Quota Exceeded, HardThrottle.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Kontingent überschritten, harte Drosselung.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Kontingent überschritten, harte Drosselung.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -535,9 +535,9 @@
       </Item>
       <Item ItemId=";ReasonCodeQuotaSoftThrottle" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Quota Exceeded, Soft Throttle.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Quota Exceeded, Soft Throttle.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Kontingent überschritten, weiche Drosselung.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Kontingent überschritten, weiche Drosselung.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -548,9 +548,9 @@
       </Item>
       <Item ItemId=";ReasonCodeRejectAll" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Reject all.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Reject all.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Alle ablehnen.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Alle ablehnen.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -561,9 +561,9 @@
       </Item>
       <Item ItemId=";ReasonCodeRejectAllWrites" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Reject all writes.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Reject all writes.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Alle Schreibvorgänge ablehnen.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Alle Schreibvorgänge ablehnen.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -574,9 +574,9 @@
       </Item>
       <Item ItemId=";ReasonCodeRejectUpsert" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Reject update/insert.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Reject update/insert.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Aktualisierung/Einfügung ablehnen.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Aktualisierung/Einfügung ablehnen.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -587,9 +587,9 @@
       </Item>
       <Item ItemId=";ReasonCodeThrottleMode" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Throttle Mode:]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Throttle Mode:]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Drosselungsmodus:]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Drosselungsmodus:]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -600,9 +600,9 @@
       </Item>
       <Item ItemId=";ReasonCodeThrottleType" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Throttle Type:]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Throttle Type:]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Drosselungstyp:]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Drosselungstyp:]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -613,9 +613,9 @@
       </Item>
       <Item ItemId=";RetryPolicyFromConfiguration" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Azure storage retry policy is using configuration store values.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Azure storage retry policy is using configuration store values.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Wiederholungsrichtlinie für Azure-Speicher verwendet Konfigurationsspeicherwerte.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Wiederholungsrichtlinie für Azure-Speicher verwendet Konfigurationsspeicherwerte.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -626,9 +626,9 @@
       </Item>
       <Item ItemId=";WorkerRetryPolicyPerfCountersDoNotExist" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST 5512: Worker Azure retry policy performance counters do not exist.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST 5512: Worker Azure retry policy performance counters do not exist.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST 5512: Leistungsindikatoren für Azure Worker-Wiederholungsrichtlinie sind nicht vorhanden.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST 5512: Leistungsindikatoren für Azure Worker-Wiederholungsrichtlinie sind nicht vorhanden.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -644,16 +644,16 @@
     <Modified By="l.seidel" DateTime="2014-09-23T13:16:30Z" />
     <Item ItemId=";AssemblyVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST 7.2.0.0]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST 7.2.0.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="l.seidel" DateTime="2014-09-24T12:16:13Z" />
     </Item>
     <Item ItemId=";CompanyName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST Microsoft Corporation]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST Microsoft Corporation]]></Val>
         <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-          <Val><![CDATA[Test Test Test Test TEST TEST Microsoft Corporation]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Microsoft Corporation]]></Val>
         </Tgt>
       </Str>
       <Disp Icon="Str" />
@@ -664,9 +664,9 @@
     </Item>
     <Item ItemId=";FileDescription" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST Orchestrator.OnCloud]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST Orchestrator.OnCloud]]></Val>
         <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-          <Val><![CDATA[Test Test Test Test TEST TEST Orchestrator.OnCloud]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Orchestrator.OnCloud]]></Val>
         </Tgt>
       </Str>
       <Disp Icon="Str" />
@@ -677,26 +677,26 @@
     </Item>
     <Item ItemId=";FileVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST 7.2.6944.0]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST 7.2.6944.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="l.seidel" DateTime="2014-09-24T12:16:13Z" />
     </Item>
     <Item ItemId=";InternalName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST Orchestrator.OnCloud.dll]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST Orchestrator.OnCloud.dll]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="l.seidel" DateTime="2014-09-24T12:16:13Z" />
     </Item>
     <Item ItemId=";LegalCopyright" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST © 2015 Microsoft. All rights reserved.]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST © 2015 Microsoft. All rights reserved.]]></Val>
         <Tgt Cat="Text" Stat="Update" Orig="New">
-          <Val><![CDATA[Test Test Test Test TEST TEST  ]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST  ]]></Val>
         </Tgt>
         <Prev Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST  ]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST  ]]></Val>
         </Prev>
       </Str>
       <Disp Icon="Str" />
@@ -708,7 +708,7 @@
     </Item>
     <Item ItemId=";LegalTrademarks" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST Microsoft® is a registered trademark of Microsoft Corporation.]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST Microsoft® is a registered trademark of Microsoft Corporation.]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Props>
@@ -717,19 +717,19 @@
     </Item>
     <Item ItemId=";OriginalFilename" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST Orchestrator.OnCloud.dll]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST Orchestrator.OnCloud.dll]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="l.seidel" DateTime="2014-09-24T12:16:13Z" />
     </Item>
     <Item ItemId=";ProductName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST Hybrid Service Management Automation]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST Hybrid Service Management Automation]]></Val>
         <Tgt Cat="Text" Stat="Update" Orig="New">
-          <Val><![CDATA[Test Test Test Test TEST TEST OaaS]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST OaaS]]></Val>
         </Tgt>
         <Prev Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST OaaS]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST OaaS]]></Val>
         </Prev>
       </Str>
       <Disp Icon="Str" />
@@ -741,7 +741,7 @@
     </Item>
     <Item ItemId=";ProductVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST 7.2.6944.0]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST 7.2.6944.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="l.seidel" DateTime="2014-09-24T12:16:13Z" />
