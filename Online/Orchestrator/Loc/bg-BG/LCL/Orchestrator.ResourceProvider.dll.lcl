@@ -17,7 +17,7 @@
       <Disp Icon="Str" LocTbl="false" />
       <Item ItemId=";CloudServiceNotFound" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Test CloudService not found. Name {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST Test Test CloudService not found. Name {0}.]]></Val>
         </Str>
         <Disp Icon="Str" />
         <Props>
@@ -26,7 +26,7 @@
       </Item>
       <Item ItemId=";FailedToStartRunbook" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Test Runbook cannot be started. Runbook name {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST Test Test Runbook cannot be started. Runbook name {0}.]]></Val>
         </Str>
         <Disp Icon="Str" />
         <Props>
@@ -35,7 +35,7 @@
       </Item>
       <Item ItemId=";SubscriptionNotFound" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Test Subcription not found. Id {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test TEST TEST Test Test Subcription not found. Id {0}.]]></Val>
         </Str>
         <Disp Icon="Str" />
         <Props>
@@ -48,13 +48,13 @@
     <Disp Icon="Ver" Disp="true" LocTbl="false" Path=" \ ;Version \ 8 \ 0" />
     <Item ItemId=";AssemblyVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST Test Test 7.2.0.0]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST Test Test 7.2.0.0]]></Val>
       </Str>
       <Disp Icon="Str" />
     </Item>
     <Item ItemId=";CompanyName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST Test Test Microsoft Corporation]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST Test Test Microsoft Corporation]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Props>
@@ -63,7 +63,7 @@
     </Item>
     <Item ItemId=";FileDescription" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST Test Test Orhcestrator.Management.Cloud]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST Test Test Orhcestrator.Management.Cloud]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Props>
@@ -72,19 +72,19 @@
     </Item>
     <Item ItemId=";FileVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST Test Test 7.2.7327.0]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST Test Test 7.2.7327.0]]></Val>
       </Str>
       <Disp Icon="Str" />
     </Item>
     <Item ItemId=";InternalName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST Test Test Orchestrator.ResourceProvider.dll]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST Test Test Orchestrator.ResourceProvider.dll]]></Val>
       </Str>
       <Disp Icon="Str" />
     </Item>
     <Item ItemId=";LegalCopyright" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST Test Test © 2015 Microsoft. All rights reserved.]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST Test Test © 2015 Microsoft. All rights reserved.]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Props>
@@ -93,7 +93,7 @@
     </Item>
     <Item ItemId=";LegalTrademarks" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST Test Test Microsoft® is a registered trademark of Microsoft Corporation.]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST Test Test Microsoft® is a registered trademark of Microsoft Corporation.]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Props>
@@ -102,13 +102,13 @@
     </Item>
     <Item ItemId=";OriginalFilename" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST Test Test Orchestrator.ResourceProvider.dll]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST Test Test Orchestrator.ResourceProvider.dll]]></Val>
       </Str>
       <Disp Icon="Str" />
     </Item>
     <Item ItemId=";ProductName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST Test Test Hybrid Service Management Automation]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST Test Test Hybrid Service Management Automation]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Props>
@@ -117,7 +117,7 @@
     </Item>
     <Item ItemId=";ProductVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST Test Test 7.2.7327.0]]></Val>
+        <Val><![CDATA[Test Test Test Test Test TEST TEST Test Test 7.2.7327.0]]></Val>
       </Str>
       <Disp Icon="Str" />
     </Item>
