@@ -14,115 +14,115 @@
       <Disp Icon="Str" LocTbl="false" />
       <Item ItemId=";AccountNotFoundException" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Account is not found in AzureStore.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST Account is not found in AzureStore.]]></Val>
         </Str>
         <Disp Icon="Str" />
       </Item>
       <Item ItemId=";CannotGetClientCert" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Cannot get client certification from cert store. Forwarding requests to scale unit requires authenticaion using this cert.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST Cannot get client certification from cert store. Forwarding requests to scale unit requires authenticaion using this cert.]]></Val>
         </Str>
         <Disp Icon="Str" />
       </Item>
       <Item ItemId=";CannotGetSettingValue" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Cannot get setting value from configuration file. Setting Key = {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST Cannot get setting value from configuration file. Setting Key = {0}.]]></Val>
         </Str>
         <Disp Icon="Str" />
       </Item>
       <Item ItemId=";CloudServiceNameIsNullOrEmpty" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Cloud Service Name is null or empty.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST Cloud Service Name is null or empty.]]></Val>
         </Str>
         <Disp Icon="Str" />
       </Item>
       <Item ItemId=";ConsolidationWaitTimeCannotBeNagative" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Consolidation wait time must be greater than 0. consolidationWaitTime: {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST Consolidation wait time must be greater than 0. consolidationWaitTime: {0}.]]></Val>
         </Str>
         <Disp Icon="Str" />
       </Item>
       <Item ItemId=";EndpointNotFoundException" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Endpoint is not found for a region.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST Endpoint is not found for a region.]]></Val>
         </Str>
         <Disp Icon="Str" />
       </Item>
       <Item ItemId=";FailedToDeserializeResourceInput" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Failed to deserialize resource input from request content in ProvisionOrUpdateResource. Exception: {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST Failed to deserialize resource input from request content in ProvisionOrUpdateResource. Exception: {0}.]]></Val>
         </Str>
         <Disp Icon="Str" />
       </Item>
       <Item ItemId=";ForewardRequestException" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Failed to forward request to Endpoint:{0}. HttpMethod:{1}]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST Failed to forward request to Endpoint:{0}. HttpMethod:{1}]]></Val>
         </Str>
         <Disp Icon="Str" />
       </Item>
       <Item ItemId=";GeoRegionNotSupported" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST GeoRegion: {0}. is not supported.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST GeoRegion: {0}. is not supported.]]></Val>
         </Str>
         <Disp Icon="Str" />
       </Item>
       <Item ItemId=";GuidValueCannotBeEmpty" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST {0}. cannot be empty.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST {0}. cannot be empty.]]></Val>
         </Str>
         <Disp Icon="Str" />
       </Item>
       <Item ItemId=";InvalidResourceEntryStatus" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST {0}. is not a valid ResourceEntryStatus]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST {0}. is not a valid ResourceEntryStatus]]></Val>
         </Str>
         <Disp Icon="Str" />
       </Item>
       <Item ItemId=";InvalidRoutingEntryState" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST {0}. is a invalid routing entry state.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST {0}. is a invalid routing entry state.]]></Val>
         </Str>
         <Disp Icon="Str" />
       </Item>
       <Item ItemId=";ResourceNameAvailabilityOutputCannotBeNull" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST ResourceNameAvailabilityOutput is null but Scale unit web service should return a valid ResourceNameAvailabilityOutput.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST ResourceNameAvailabilityOutput is null but Scale unit web service should return a valid ResourceNameAvailabilityOutput.]]></Val>
         </Str>
         <Disp Icon="Str" />
       </Item>
       <Item ItemId=";ResourceNameIsNullOrEmpty" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Resource Name is null or empty.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST Resource Name is null or empty.]]></Val>
         </Str>
         <Disp Icon="Str" />
       </Item>
       <Item ItemId=";ResourceTypeIsNullOrEmpty" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Resource Type is null or empty.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST Resource Type is null or empty.]]></Val>
         </Str>
         <Disp Icon="Str" />
       </Item>
       <Item ItemId=";StringValueCannotBeNullOrEmpty" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST {0}. cannot be null or empty.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST {0}. cannot be null or empty.]]></Val>
         </Str>
         <Disp Icon="Str" />
       </Item>
       <Item ItemId=";SubscriptionIdIsEmpty" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Subscription ID is empty.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST Subscription ID is empty.]]></Val>
         </Str>
         <Disp Icon="Str" />
       </Item>
       <Item ItemId=";ValueCannotBeEmpty" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST {0}. cannot be empty.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST {0}. cannot be empty.]]></Val>
         </Str>
         <Disp Icon="Str" />
       </Item>
       <Item ItemId=";ValueCannotBeNullOrEmpty" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST {0}. cannot be null or empty.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST {0}. cannot be null or empty.]]></Val>
         </Str>
         <Disp Icon="Str" />
       </Item>
@@ -132,61 +132,61 @@
     <Disp Icon="Ver" Disp="true" LocTbl="false" Path=" \ ;Version \ 8 \ 0" />
     <Item ItemId=";AssemblyVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST 7.2.0.0]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST 7.2.0.0]]></Val>
       </Str>
       <Disp Icon="Str" />
     </Item>
     <Item ItemId=";CompanyName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST Microsoft Corporation]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST Microsoft Corporation]]></Val>
       </Str>
       <Disp Icon="Str" />
     </Item>
     <Item ItemId=";FileDescription" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST Gateway.WebService]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST Gateway.WebService]]></Val>
       </Str>
       <Disp Icon="Str" />
     </Item>
     <Item ItemId=";FileVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST 7.2.6944.0]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST 7.2.6944.0]]></Val>
       </Str>
       <Disp Icon="Str" />
     </Item>
     <Item ItemId=";InternalName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST Orchestrator.Gateway.WebService.dll]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST Orchestrator.Gateway.WebService.dll]]></Val>
       </Str>
       <Disp Icon="Str" />
     </Item>
     <Item ItemId=";LegalCopyright" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST © 2015 Microsoft. All rights reserved.]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST © 2015 Microsoft. All rights reserved.]]></Val>
       </Str>
       <Disp Icon="Str" />
     </Item>
     <Item ItemId=";LegalTrademarks" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST Microsoft® is a registered trademark of Microsoft Corporation.]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST Microsoft® is a registered trademark of Microsoft Corporation.]]></Val>
       </Str>
       <Disp Icon="Str" />
     </Item>
     <Item ItemId=";OriginalFilename" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST Orchestrator.Gateway.WebService.dll]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST Orchestrator.Gateway.WebService.dll]]></Val>
       </Str>
       <Disp Icon="Str" />
     </Item>
     <Item ItemId=";ProductName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST Hybrid Service Management Automation]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST Hybrid Service Management Automation]]></Val>
       </Str>
       <Disp Icon="Str" />
     </Item>
     <Item ItemId=";ProductVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST 7.2.6944.0]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test Test TEST TEST 7.2.6944.0]]></Val>
       </Str>
       <Disp Icon="Str" />
     </Item>
