@@ -27,9 +27,9 @@
       <Modified By="l.seidel" DateTime="2014-09-23T13:16:30Z" />
       <Item ItemId=";AccountNameNotFoundInUrl" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Could not find account name. Either account name  is not present or invalid or Url is malformed.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test Could not find account name. Either account name  is not present or invalid or Url is malformed.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Kontoname wurde nicht gefunden. Entweder ist der Kontoname nicht vorhanden oder ungültig, oder die URL ist falsch formatiert.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test Kontoname wurde nicht gefunden. Entweder ist der Kontoname nicht vorhanden oder ungültig, oder die URL ist falsch formatiert.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -40,9 +40,9 @@
       </Item>
       <Item ItemId=";InvalidHeaderValue" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test TEST TEST The value provided for one of the HTTP headers was not in the correct format.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST The value provided for one of the HTTP headers was not in the correct format.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test TEST TEST Der für einen der HTTP-Header angegebene Wert wies nicht das richtige Format auf.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Der für einen der HTTP-Header angegebene Wert wies nicht das richtige Format auf.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -53,9 +53,9 @@
       </Item>
       <Item ItemId=";RequestIdHeaderNotFound" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test TEST TEST Request id headers could not be found or invalid. The value must be a Guid. Expected headers {0}. or {1}]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Request id headers could not be found or invalid. The value must be a Guid. Expected headers {0}. or {1}]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test TEST TEST Anforderungs-ID-Header wurden nicht gefunden oder sind ungültig. Der Wert muss eine GUID sein. Erwartete Header sind {0}. oder {1}]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Anforderungs-ID-Header wurden nicht gefunden oder sind ungültig. Der Wert muss eine GUID sein. Erwartete Header sind {0}. oder {1}]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -66,9 +66,9 @@
       </Item>
       <Item ItemId=";SubscriptionIdNotFoundInUrl" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test TEST TEST Could not find subscription id. Either Subscription Id is not present or invalid or Url is malformed.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Could not find subscription id. Either Subscription Id is not present or invalid or Url is malformed.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test TEST TEST Abonnement-ID wurde nicht gefunden. Entweder ist die Abonnement-ID nicht vorhanden oder ungültig, oder die URL ist falsch formatiert.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Abonnement-ID wurde nicht gefunden. Entweder ist die Abonnement-ID nicht vorhanden oder ungültig, oder die URL ist falsch formatiert.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -79,9 +79,9 @@
       </Item>
       <Item ItemId=";ThumbprintsNotFoundInConfiguration" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test TEST TEST Thumbprints are not specified in the configuration. LookupKey: {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Thumbprints are not specified in the configuration. LookupKey: {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test TEST TEST Es sind keine Fingerabdrücke in der Konfiguration angegeben. LookupKey: {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Es sind keine Fingerabdrücke in der Konfiguration angegeben. LookupKey: {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -97,16 +97,16 @@
     <Modified By="l.seidel" DateTime="2014-09-23T13:16:30Z" />
     <Item ItemId=";AssemblyVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test TEST TEST 7.2.0.0]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST 7.2.0.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="l.seidel" DateTime="2014-09-24T12:16:14Z" />
     </Item>
     <Item ItemId=";CompanyName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test TEST TEST Microsoft Corporation]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST Microsoft Corporation]]></Val>
         <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-          <Val><![CDATA[Test Test Test TEST TEST Microsoft Corporation]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Microsoft Corporation]]></Val>
         </Tgt>
       </Str>
       <Disp Icon="Str" />
@@ -117,9 +117,9 @@
     </Item>
     <Item ItemId=";FileDescription" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test TEST TEST Orchestrator.WebService.HttpModule.RP]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST Orchestrator.WebService.HttpModule.RP]]></Val>
         <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-          <Val><![CDATA[Test Test Test TEST TEST Orchestrator.WebService.HttpModule.RP]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Orchestrator.WebService.HttpModule.RP]]></Val>
         </Tgt>
       </Str>
       <Disp Icon="Str" />
@@ -130,26 +130,26 @@
     </Item>
     <Item ItemId=";FileVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test TEST TEST 7.2.6944.0]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST 7.2.6944.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="l.seidel" DateTime="2014-09-24T12:16:14Z" />
     </Item>
     <Item ItemId=";InternalName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test TEST TEST Orchestrator.WebService.HttpModule.RP.dll]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST Orchestrator.WebService.HttpModule.RP.dll]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="l.seidel" DateTime="2014-09-24T12:16:14Z" />
     </Item>
     <Item ItemId=";LegalCopyright" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test TEST TEST © 2015 Microsoft. All rights reserved.]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST © 2015 Microsoft. All rights reserved.]]></Val>
         <Tgt Cat="Text" Stat="Update" Orig="New">
-          <Val><![CDATA[Test Test Test TEST TEST  ]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST  ]]></Val>
         </Tgt>
         <Prev Cat="Text">
-          <Val><![CDATA[Test Test Test TEST TEST  ]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST  ]]></Val>
         </Prev>
       </Str>
       <Disp Icon="Str" />
@@ -161,7 +161,7 @@
     </Item>
     <Item ItemId=";LegalTrademarks" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test TEST TEST Microsoft® is a registered trademark of Microsoft Corporation.]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST Microsoft® is a registered trademark of Microsoft Corporation.]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Props>
@@ -170,19 +170,19 @@
     </Item>
     <Item ItemId=";OriginalFilename" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test TEST TEST Orchestrator.WebService.HttpModule.RP.dll]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST Orchestrator.WebService.HttpModule.RP.dll]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="l.seidel" DateTime="2014-09-24T12:16:14Z" />
     </Item>
     <Item ItemId=";ProductName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test TEST TEST Hybrid Service Management Automation]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST Hybrid Service Management Automation]]></Val>
         <Tgt Cat="Text" Stat="Update" Orig="New">
-          <Val><![CDATA[Test Test Test TEST TEST OaaS]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST OaaS]]></Val>
         </Tgt>
         <Prev Cat="Text">
-          <Val><![CDATA[Test Test Test TEST TEST OaaS]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST OaaS]]></Val>
         </Prev>
       </Str>
       <Disp Icon="Str" />
@@ -194,7 +194,7 @@
     </Item>
     <Item ItemId=";ProductVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test TEST TEST 7.2.6944.0]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST 7.2.6944.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="l.seidel" DateTime="2014-09-24T12:16:14Z" />
