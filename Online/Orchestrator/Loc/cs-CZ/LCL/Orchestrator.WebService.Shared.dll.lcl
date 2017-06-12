@@ -36,9 +36,9 @@
       <Modified By="sunggonm" DateTime="2013-03-18T21:10:01Z" />
       <Item ItemId=";AccountIDError" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Unable to validate AccountID. Please ensure resource has AccountID as one of its properties.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Unable to validate AccountID. Please ensure resource has AccountID as one of its properties.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test ID účtu se nedá ověřit. Zkontrolujte prosím, že má prostředek ID účtu jako jednu ze svých vlastností.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test ID účtu se nedá ověřit. Zkontrolujte prosím, že má prostředek ID účtu jako jednu ze svých vlastností.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -49,9 +49,9 @@
       </Item>
       <Item ItemId=";AccountIsNotAuthorizeForModuleOperation" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test The account is not authorized to operate on this module. AccountId mismatched.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test The account is not authorized to operate on this module. AccountId mismatched.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Účet není autorizovaný k tomu, aby pracoval na tomto modulu. ID účtu neodpovídá.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Účet není autorizovaný k tomu, aby pracoval na tomto modulu. ID účtu neodpovídá.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -62,9 +62,9 @@
       </Item>
       <Item ItemId=";AccountIsNotAuthorized" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Account is not authorized.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Account is not authorized.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Účet není autorizovaný.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Účet není autorizovaný.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -75,9 +75,9 @@
       </Item>
       <Item ItemId=";AccountIsNotAuthorizedToThisRunbook" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Account is not authorized to this Runbook]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Account is not authorized to this Runbook]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Účet není autorizovaný pro tento runbook.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Účet není autorizovaný pro tento runbook.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -88,9 +88,9 @@
       </Item>
       <Item ItemId=";AccountIsNotAuthorizedToThisSchedule" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50027:Account is not authorized to this schedule]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50027:Account is not authorized to this schedule]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50027: Účet není autorizovaný pro tento plán.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50027: Účet není autorizovaný pro tento plán.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -101,9 +101,9 @@
       </Item>
       <Item ItemId=";AccountNotAuthorized" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Account is not authorized to perform this action.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Account is not authorized to perform this action.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Účet není autorizovaný k provedení této akce.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Účet není autorizovaný k provedení této akce.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -114,9 +114,9 @@
       </Item>
       <Item ItemId=";AccountNotAuthorizedForGlobalModule" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test The account is unauthorized to create or update a global module.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test The account is unauthorized to create or update a global module.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Účet není autorizovaný k vytváření ani aktualizaci globálního modulu.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Účet není autorizovaný k vytváření ani aktualizaci globálního modulu.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -127,9 +127,9 @@
       </Item>
       <Item ItemId=";AccountNotExistsOrDeleted" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Account specified does not exist or is marked for deletion.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Account specified does not exist or is marked for deletion.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Zadaný účet neexistuje nebo je určený k odstranění.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Zadaný účet neexistuje nebo je určený k odstranění.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -140,9 +140,9 @@
       </Item>
       <Item ItemId=";AccountNotFound" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Could not find the account. SubscriptionId: {0}. AccountName: {1}]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Could not find the account. SubscriptionId: {0}. AccountName: {1}]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Účet se nenašel. ID předplatného: {0}., název účtu: {1}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Účet se nenašel. ID předplatného: {0}., název účtu: {1}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -153,9 +153,9 @@
       </Item>
       <Item ItemId=";AccountNotFoundInHttpContext" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Account not found in http context.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Account not found in http context.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Účet se v kontextu HTTP nenašel.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Účet se v kontextu HTTP nenašel.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -166,9 +166,9 @@
       </Item>
       <Item ItemId=";AdminConfigurationCannotBeNull" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test AdminConfiguration cannot be null]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test AdminConfiguration cannot be null]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Konstruktor AdminConfiguration nemůže mít hodnotu null.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Konstruktor AdminConfiguration nemůže mít hodnotu null.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -179,9 +179,9 @@
       </Item>
       <Item ItemId=";CannotCreateCertificateWithInvalidValues" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Invalid properties specified during create of certificate.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Invalid properties specified during create of certificate.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Během vytváření certifikátu byly zadány neplatné vlastnosti.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Během vytváření certifikátu byly zadány neplatné vlastnosti.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -192,9 +192,9 @@
       </Item>
       <Item ItemId=";CannotCreateConnectionFieldValueWithInvalidProperties" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Cannot create ConnectionFieldValue with invalid values]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Cannot create ConnectionFieldValue with invalid values]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Nelze vytvořit ConnectionFieldValue s neplatnými hodnotami]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Nelze vytvořit ConnectionFieldValue s neplatnými hodnotami]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -205,9 +205,9 @@
       </Item>
       <Item ItemId=";CannotCreateConnectionFieldWithInvalidProperties" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Cannot create ConnectionField with invalid values]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Cannot create ConnectionField with invalid values]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Nelze vytvořit ConnectionField s neplatnými hodnotami]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Nelze vytvořit ConnectionField s neplatnými hodnotami]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -218,9 +218,9 @@
       </Item>
       <Item ItemId=";CannotCreateConnectionTypeWithInvalidProperties" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Cannot create ConnectionType with invalid values]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Cannot create ConnectionType with invalid values]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Nelze vytvořit ConnectionType s neplatnými hodnotami]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Nelze vytvořit ConnectionType s neplatnými hodnotami]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -231,9 +231,9 @@
       </Item>
       <Item ItemId=";CannotCreateConnectionWithInvalidProperties" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Cannot create Connection with invalid values]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Cannot create Connection with invalid values]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Nelze vytvořit připojení s neplatnými hodnotami]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Nelze vytvořit připojení s neplatnými hodnotami]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -244,9 +244,9 @@
       </Item>
       <Item ItemId=";CannotCreateCredentialTypeWithNoFields" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50030:Cannot create Credential Type as there were no valid fields found]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50030:Cannot create Credential Type as there were no valid fields found]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50030:Nelze vytvořit typ přihlašovacích údajů, protože nebyla nalezena žádná platná pole.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50030:Nelze vytvořit typ přihlašovacích údajů, protože nebyla nalezena žádná platná pole.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -257,9 +257,9 @@
       </Item>
       <Item ItemId=";CannotCreateCredentialWithInvalidValues" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Invalid properties specified during create of credential.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Invalid properties specified during create of credential.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Během vytváření pověření byly zadány neplatné vlastnosti.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Během vytváření pověření byly zadány neplatné vlastnosti.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -270,9 +270,9 @@
       </Item>
       <Item ItemId=";CannotCreateDisabledSchedule" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Cannot create a disabled schedule]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Cannot create a disabled schedule]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Nelze vytvořit zakázaný plán]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Nelze vytvořit zakázaný plán]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -283,9 +283,9 @@
       </Item>
       <Item ItemId=";CannotCreateModuleConnectionTypeExists" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50031:Module {0}. could not be created as connection type with the same name {1} and different connention type field properties/values already exist.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50031:Module {0}. could not be created as connection type with the same name {1} and different connention type field properties/values already exist.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50031:Modul {0}. se nepodařilo vytvořit, protože již existuje typ připojení se stejným názvem {1}, ale jinými vlastnostmi/hodnotami pole typu připojení.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50031:Modul {0}. se nepodařilo vytvořit, protože již existuje typ připojení se stejným názvem {1}, ale jinými vlastnostmi/hodnotami pole typu připojení.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -296,9 +296,9 @@
       </Item>
       <Item ItemId=";CannotCreateModuleErrorParsingMetadataFile" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50032:Module {0}. could not be created as there was an error parsing the module metadata file {1}]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50032:Module {0}. could not be created as there was an error parsing the module metadata file {1}]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50032:Modul {0}. se nepodařilo vytvořit, protože došlo k chybě při analýze souboru metadat modulu {1}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50032:Modul {0}. se nepodařilo vytvořit, protože došlo k chybě při analýze souboru metadat modulu {1}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -309,9 +309,9 @@
       </Item>
       <Item ItemId=";CannotCreateModuleErrorReadingMetadataFile" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50033:Module {0}. could not be created as there was an error reading the module metadata file]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50033:Module {0}. could not be created as there was an error reading the module metadata file]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50033:Modul {0}. se nepodařilo vytvořit, protože došlo k chybě při čtení souboru metadat modulu.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50033:Modul {0}. se nepodařilo vytvořit, protože došlo k chybě při čtení souboru metadat modulu.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -322,9 +322,9 @@
       </Item>
       <Item ItemId=";CannotCreateModuleErrorUnexpectedFormatMetadataFile" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50034:Cannot create Module {0}. as the module metadata format was unexpected.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50034:Cannot create Module {0}. as the module metadata format was unexpected.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50034:Nelze vytvořit modul {0}., protože metadata modulu měla neočekávaný formát.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50034:Nelze vytvořit modul {0}., protože metadata modulu měla neočekávaný formát.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -335,9 +335,9 @@
       </Item>
       <Item ItemId=";CannotCreateModuleInvalidConnectionTypeType" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50037:Cannot create Module {0}. as the type specified in the connection type metadata is invalid.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50037:Cannot create Module {0}. as the type specified in the connection type metadata is invalid.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50037:Nelze vytvořit modul {0}., protože typ zadaný v metadatech typu připojení je neplatný.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50037:Nelze vytvořit modul {0}., protože typ zadaný v metadatech typu připojení je neplatný.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -348,9 +348,9 @@
       </Item>
       <Item ItemId=";CannotCreateModuleStructureWasInvalid" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50035:Cannot create module as the module structure was invalid]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50035:Cannot create module as the module structure was invalid]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50035:Nelze vytvořit modul, protože struktura modulu byla neplatná.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50035:Nelze vytvořit modul, protože struktura modulu byla neplatná.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -361,9 +361,9 @@
       </Item>
       <Item ItemId=";CannotCreateModuleWithoutName" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Cannot create a module without a proper name.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Cannot create a module without a proper name.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Modul bez názvu se nedá vytvořit.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Modul bez názvu se nedá vytvořit.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -374,9 +374,9 @@
       </Item>
       <Item ItemId=";CannotCreateScheduleStartTimeNotAfterMinExpected" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Could not create the schedule.  The start time must be at least {0}. minutes after the time you create the schedule.  Schedule: ‘{1}’.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Could not create the schedule.  The start time must be at least {0}. minutes after the time you create the schedule.  Schedule: ‘{1}’.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Plán nejde vytvořit. Čas spuštění musí být aspoň o {0}. min pozdější než čas vytvoření plánu. Plán: {1}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Plán nejde vytvořit. Čas spuštění musí být aspoň o {0}. min pozdější než čas vytvoření plánu. Plán: {1}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -387,9 +387,9 @@
       </Item>
       <Item ItemId=";CannotCreateVariableWithInvalidValues" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Invalid properties specified during create of variables.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Invalid properties specified during create of variables.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Během vytváření proměnných byly zadány neplatné vlastnosti.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Během vytváření proměnných byly zadány neplatné vlastnosti.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -400,12 +400,12 @@
       </Item>
       <Item ItemId=";CannotExtractRunbookName" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50001:Cannot extract runbook name from script.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50001:Cannot extract runbook name from script.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50001:Ze skriptu nelze extrahovat název sady Runbook.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50001:Ze skriptu nelze extrahovat název sady Runbook.]]></Val>
           </Tgt>
           <Prev Cat="Text">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50001:Cannot extract runbook name from script / slug header.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50001:Cannot extract runbook name from script / slug header.]]></Val>
           </Prev>
         </Str>
         <Disp Icon="Str" />
@@ -416,9 +416,9 @@
       </Item>
       <Item ItemId=";CannotUpdateCertificateWithInvalidValues" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Invalid properties specified during update of certificate.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Invalid properties specified during update of certificate.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Během aktualizace certifikátu byly zadány neplatné vlastnosti.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Během aktualizace certifikátu byly zadány neplatné vlastnosti.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -429,9 +429,9 @@
       </Item>
       <Item ItemId=";CannotUpdateCredentialsWithInvalidValues" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Invalid properties specified during update of credential.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Invalid properties specified during update of credential.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Během aktualizace pověření byly zadány neplatné vlastnosti.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Během aktualizace pověření byly zadány neplatné vlastnosti.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -442,9 +442,9 @@
       </Item>
       <Item ItemId=";CannotUploadMediaResource" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Error occured while uploading media resource.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Error occured while uploading media resource.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Při odesílání mediálního zdroje došlo k chybě.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Při odesílání mediálního zdroje došlo k chybě.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -455,9 +455,9 @@
       </Item>
       <Item ItemId=";CannotUploadMediaResourceDbg" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50042: Error occured while uploading media resource '{0}.'.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50042: Error occured while uploading media resource '{0}.'.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50042: Při nahrávání mediálního prostředku {0}. došlo k chybě.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50042: Při nahrávání mediálního prostředku {0}. došlo k chybě.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -468,9 +468,9 @@
       </Item>
       <Item ItemId=";CcredentialAlreadyExists" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test A credential with same name already exists for this Account.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test A credential with same name already exists for this Account.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Přihlašovací údaj se stejným názvem už pro tento účet existuje.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Přihlašovací údaj se stejným názvem už pro tento účet existuje.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -481,9 +481,9 @@
       </Item>
       <Item ItemId=";CouldNotFindAccount" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Could not find the account. SubscriptionId: {0}. AccountName: {1}]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Could not find the account. SubscriptionId: {0}. AccountName: {1}]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Účet se nenašel. ID předplatného: {0}., název účtu: {1}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Účet se nenašel. ID předplatného: {0}., název účtu: {1}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -494,15 +494,15 @@
       </Item>
       <Item ItemId=";CouldNotFindRunbookToExtractActivitiesForModule" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50002:Could not find Runbook to extract activities for Module {0}. Version{1}. No activities will be extracted.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50002:Could not find Runbook to extract activities for Module {0}. Version{1}. No activities will be extracted.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50002:Nepodařilo se vyhledat sadu Runbook pro extrahování aktivit modulu {0}., verze{1}. Nebudou extrahovány žádné aktivity.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50002:Nepodařilo se vyhledat sadu Runbook pro extrahování aktivit modulu {0}., verze{1}. Nebudou extrahovány žádné aktivity.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
         <Modified By="Mgr. Jan Kapoun" DateTime="2013-04-08T14:44:08Z" />
         <Cmts>
-          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
+          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
         </Cmts>
         <Props>
           <Str Name="Custom2" Val="HO2_SMA" />
@@ -510,15 +510,15 @@
       </Item>
       <Item ItemId=";DraftRunbookVersionNotFound" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50003:Runbook does not contain a draft version.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50003:Runbook does not contain a draft version.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50003:Sada Runbook neobsahuje verzi konceptu.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50003:Sada Runbook neobsahuje verzi konceptu.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
         <Modified By="Mgr. Jan Kapoun" DateTime="2013-04-08T14:44:08Z" />
         <Cmts>
-          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
+          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
         </Cmts>
         <Props>
           <Str Name="Custom2" Val="HO2_SMA" />
@@ -526,9 +526,9 @@
       </Item>
       <Item ItemId=";ETagNotSpecified" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test ETag is not specified.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test ETag is not specified.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Značka ETag není zadána.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Značka ETag není zadána.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -539,9 +539,9 @@
       </Item>
       <Item ItemId=";ETagNotSpecifiedEvt" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50043: ETag is not specified.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50043: ETag is not specified.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50043: Není zadána značka ETag.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50043: Není zadána značka ETag.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -552,9 +552,9 @@
       </Item>
       <Item ItemId=";ETagsAssociatedWithBlobsNotSupported" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test ETags associated with BLOBs not supported]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test ETags associated with BLOBs not supported]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Značky ETag přidružené k binárním rozsáhlým objektům nejsou podporovány]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Značky ETag přidružené k binárním rozsáhlým objektům nejsou podporovány]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -565,9 +565,9 @@
       </Item>
       <Item ItemId=";EntityTypeNotAssociatedWithAMediaResource" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Entity type is not associated with a media resource]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Entity type is not associated with a media resource]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Typ entity není přidružen k mediálnímu zdroji]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Typ entity není přidružen k mediálnímu zdroji]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -578,9 +578,9 @@
       </Item>
       <Item ItemId=";ExceptionInvokingAction" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Exception invoking [action={0}.]5D;]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Exception invoking [action={0}.]5D;]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Vyvolání výjimky [akce={0}.]5D;]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Vyvolání výjimky [akce={0}.]5D;]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -591,9 +591,9 @@
       </Item>
       <Item ItemId=";ExceptionIsNullInHandleException" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test exception is null in HandleException]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test exception is null in HandleException]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Výjimka v metodě HandleException má hodnotu null.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Výjimka v metodě HandleException má hodnotu null.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -604,9 +604,9 @@
       </Item>
       <Item ItemId=";ExpiredSchedule" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Cannot create expired schedule.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Cannot create expired schedule.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Nelze vytvořit plán, u nějž vypršela platnost.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Nelze vytvořit plán, u nějž vypršela platnost.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -617,9 +617,9 @@
       </Item>
       <Item ItemId=";FailedToCheckThrottleLimit" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Failed to check throttle limit]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Failed to check throttle limit]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Nepovedlo se zkontrolovat limit omezení.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Nepovedlo se zkontrolovat limit omezení.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -630,9 +630,9 @@
       </Item>
       <Item ItemId=";FileStreamForIntegrationModuleEncounteredError" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test FileStream for integration module upload encountered an error]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test FileStream for integration module upload encountered an error]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Došlo k chybě v proudu FileStream určeného pro odeslání integračního modulu]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Došlo k chybě v proudu FileStream určeného pro odeslání integračního modulu]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -643,9 +643,9 @@
       </Item>
       <Item ItemId=";FuncIsNotInitialized" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test {0}. Func is not initialized.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test {0}. Func is not initialized.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Funkce {0}. není inicializována.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Funkce {0}. není inicializována.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -656,9 +656,9 @@
       </Item>
       <Item ItemId=";GetRunbookJobSnapshotsInvalidSortDirection" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Invalid sort direction: {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Invalid sort direction: {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Neplatný směr řazení: {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Neplatný směr řazení: {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -669,9 +669,9 @@
       </Item>
       <Item ItemId=";GetRunbookJobSnapshotsInvalidSortProperty" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Invalid sort property: {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Invalid sort property: {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Neplatná vlastnost řazení: {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Neplatná vlastnost řazení: {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -682,9 +682,9 @@
       </Item>
       <Item ItemId=";ImportModule" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Import Module]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Import Module]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Import modulu]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Import modulu]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -695,9 +695,9 @@
       </Item>
       <Item ItemId=";ImportRunbook" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Import Runbook]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Import Runbook]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Import runbooku]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Import runbooku]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -708,9 +708,9 @@
       </Item>
       <Item ItemId=";InternalServerError" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Internal Server Error.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Internal Server Error.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Vnitřní chyba serveru.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Vnitřní chyba serveru.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -721,9 +721,9 @@
       </Item>
       <Item ItemId=";InvalidArgument_NullArgument" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50005:Invalid argument specified. Argument {0}. cannot be null.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50005:Invalid argument specified. Argument {0}. cannot be null.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50005:Byl zadán neplatný argument. Argument {0}. nemůže mít hodnotu null.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50005:Byl zadán neplatný argument. Argument {0}. nemůže mít hodnotu null.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -734,9 +734,9 @@
       </Item>
       <Item ItemId=";InvalidJobId" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Invalid job id. Job id must be a guid.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Invalid job id. Job id must be a guid.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Neplatné ID úlohy. ID úlohy musí být identifikátor GUID.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Neplatné ID úlohy. ID úlohy musí být identifikátor GUID.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -747,9 +747,9 @@
       </Item>
       <Item ItemId=";InvalidModuleContentsUri" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Module contents uri is invalid. Uri {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Module contents uri is invalid. Uri {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Identifikátor URI obsahu modulu je neplatný. URI: {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Identifikátor URI obsahu modulu je neplatný. URI: {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -760,18 +760,18 @@
       </Item>
       <Item ItemId=";InvalidRunbookDefinition" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50006:Runbook definition is invalid. {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50006:Runbook definition is invalid. {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50006:Definice sady Runbook je neplatná. {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50006:Definice sady Runbook je neplatná. {0}.]]></Val>
           </Tgt>
           <Prev Cat="Text">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50006:Runbook definition is invalid.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50006:Runbook definition is invalid.]]></Val>
           </Prev>
         </Str>
         <Disp Icon="Str" />
         <Modified By="Mgr. Jan Kapoun" DateTime="2013-04-08T14:44:08Z" />
         <Cmts>
-          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
+          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
         </Cmts>
         <Props>
           <Str Name="Custom2" Val="HO2_SMA" />
@@ -779,15 +779,15 @@
       </Item>
       <Item ItemId=";InvalidRunbookDefinitionMessage" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Runbook definition is invalid. {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Runbook definition is invalid. {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Definice sady Runbook je neplatná. {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Definice sady Runbook je neplatná. {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
         <Modified By="Mgr. Jan Kapoun" DateTime="2013-04-08T14:44:08Z" />
         <Cmts>
-          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
+          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
         </Cmts>
         <Props>
           <Str Name="Custom2" Val="HO2_SMA" />
@@ -795,9 +795,9 @@
       </Item>
       <Item ItemId=";InvalidScheduleInterval" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Schedule interval is invalid. Interval {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Schedule interval is invalid. Interval {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Interval plánu je neplatný. Interval: {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Interval plánu je neplatný. Interval: {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -808,9 +808,9 @@
       </Item>
       <Item ItemId=";JobContextForScheduleNotFound" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test The job context could not be found for the specified runbook and schedule.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test The job context could not be found for the specified runbook and schedule.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Kontext úlohy se pro zadaný runbook a plán nenašel.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Kontext úlohy se pro zadaný runbook a plán nenašel.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -821,9 +821,9 @@
       </Item>
       <Item ItemId=";JobIdAlreadyExists" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Job with specified id already exists. Job id: {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Job with specified id already exists. Job id: {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Úloha se zadaným ID už existuje. ID úlohy: {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Úloha se zadaným ID už existuje. ID úlohy: {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -834,9 +834,9 @@
       </Item>
       <Item ItemId=";JobIdHasToBeAGuid" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test jobId has to be a guid.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test jobId has to be a guid.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test jobId musí být identifikátorem GUID.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test jobId musí být identifikátorem GUID.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -847,9 +847,9 @@
       </Item>
       <Item ItemId=";JobIdHaveToBeSupplied" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test jobId have to be supplied.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test jobId have to be supplied.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test jobId musí být poskytnuto.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test jobId musí být poskytnuto.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -860,9 +860,9 @@
       </Item>
       <Item ItemId=";JobStartRatePerAccountThrottleType" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test JobStartRatePerAccount]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test JobStartRatePerAccount]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test JobStartRatePerAccount]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test JobStartRatePerAccount]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -873,9 +873,9 @@
       </Item>
       <Item ItemId=";JobStartThrottleByJobRuntimeLimitReached" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test The operation could not be performed. Operation: {0}. The quota for the monthly total job run time has been reached for this subscription.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test The operation could not be performed. Operation: {0}. The quota for the monthly total job run time has been reached for this subscription.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Operaci nešlo udělat. Operace: {0}. Dosáhlo se kvóty pro celkový čas běhu úloh za měsíc pro toto předplatné.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Operaci nešlo udělat. Operace: {0}. Dosáhlo se kvóty pro celkový čas běhu úloh za měsíc pro toto předplatné.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -886,9 +886,9 @@
       </Item>
       <Item ItemId=";JobStartThrottleLimitReached" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test The operation could not be performed. Operation: {0}. The maxium number of job requests has been reached. Please try again later.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test The operation could not be performed. Operation: {0}. The maxium number of job requests has been reached. Please try again later.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Operaci nešlo udělat. Operace: {0}. Dosáhlo se maximálního počtu žádostí o úlohy. Zkuste to prosím znova později.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Operaci nešlo udělat. Operace: {0}. Dosáhlo se maximálního počtu žádostí o úlohy. Zkuste to prosím znova později.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -899,9 +899,9 @@
       </Item>
       <Item ItemId=";MaxNumberOfAllowedJobsReached" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test The maximum number of allowed jobs has been reached. Please try again later.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test The maximum number of allowed jobs has been reached. Please try again later.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Dosáhlo se maximálního počtu povolených úloh. Zkuste to prosím znova později.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Dosáhlo se maximálního počtu povolených úloh. Zkuste to prosím znova později.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -912,9 +912,9 @@
       </Item>
       <Item ItemId=";MaxNumberOfAllowedRunbooksReached" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test The runbook could not be created. The quota for the number of runbooks has been reached for this subscription.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test The runbook could not be created. The quota for the number of runbooks has been reached for this subscription.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Runbook nešlo vytvořit. Dosáhlo se kvóty pro počet runbooků pro toto předplatné.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Runbook nešlo vytvořit. Dosáhlo se kvóty pro počet runbooků pro toto předplatné.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -925,9 +925,9 @@
       </Item>
       <Item ItemId=";MediaLinkEntryCannotBeDetermined" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Internal Server Error: the Media Link Entry could not be determined.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Internal Server Error: the Media Link Entry could not be determined.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Vnitřní chyba serveru: Nebylo možné určit položku odkazu na média (Media Link Entry).]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Vnitřní chyba serveru: Nebylo možné určit položku odkazu na média (Media Link Entry).]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -938,9 +938,9 @@
       </Item>
       <Item ItemId=";MediaResourceCannotBeSaved" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test An error occurred. The media resource could not be saved.  Resource type '{0}.']]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test An error occurred. The media resource could not be saved.  Resource type '{0}.']]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Došlo k chybě. Mediální zdroj nebylo možné uložit. Typ prostředku „{0}.“]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Došlo k chybě. Mediální zdroj nebylo možné uložit. Typ prostředku „{0}.“]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -951,9 +951,9 @@
       </Item>
       <Item ItemId=";MediaResourceCannotBeSavedDbg" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50040: An error occurred. The media resource could not be saved.  Resource type '{0}.']]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50040: An error occurred. The media resource could not be saved.  Resource type '{0}.']]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50040: Došlo k chybě. Mediální prostředek se nepodařilo uložit. Typ prostředku: {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50040: Došlo k chybě. Mediální prostředek se nepodařilo uložit. Typ prostředku: {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -964,9 +964,9 @@
       </Item>
       <Item ItemId=";ModuleContentsCannotBeRead" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Unable to read module contents. ModuleName {0}. Uri {1}]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Unable to read module contents. ModuleName {0}. Uri {1}]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Nejde přečíst obsah modulu. Název modulu: {0}., URI: {1}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Nejde přečíst obsah modulu. Název modulu: {0}., URI: {1}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -977,9 +977,9 @@
       </Item>
       <Item ItemId=";ModuleContentsNotFound" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Module data blob is empty. ModuleName{0}. Uri {1}]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Module data blob is empty. ModuleName{0}. Uri {1}]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Datový objekt blob modulu je prázdný. Název modulu: {0}., URI: {1}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Datový objekt blob modulu je prázdný. Název modulu: {0}., URI: {1}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -990,9 +990,9 @@
       </Item>
       <Item ItemId=";ModuleDeletedProblemParsingContents" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50036:Module {0}. was deleted as there was a problem parsing its contents.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50036:Module {0}. was deleted as there was a problem parsing its contents.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50036:Modul {0}. byl odstraněn, protože byly problémy s analýzou jeho obsahu.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50036:Modul {0}. byl odstraněn, protože byly problémy s analýzou jeho obsahu.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1003,9 +1003,9 @@
       </Item>
       <Item ItemId=";ModuleImportRatePerAccountThrottleType" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test ModuleImportRatePerAccount]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test ModuleImportRatePerAccount]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test ModuleImportRatePerAccount]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test ModuleImportRatePerAccount]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1016,9 +1016,9 @@
       </Item>
       <Item ItemId=";ModuleImportThrottleLimitReached" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test The import module request could not be performed. The maxium number of import module requests has been reached. Please try again later.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test The import module request could not be performed. The maxium number of import module requests has been reached. Please try again later.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Žádost o import modulu nešlo splnit. Dosáhlo se maximálního počtu žádostí o import modulu. Zkuste to prosím znova později.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Žádost o import modulu nešlo splnit. Dosáhlo se maximálního počtu žádostí o import modulu. Zkuste to prosím znova později.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1029,9 +1029,9 @@
       </Item>
       <Item ItemId=";ModuleImportThrottleMaxSizeLimitReached" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test The integration module could not be imported. The module size is greater than the available quota for the total size of modules for this subscription.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test The integration module could not be imported. The module size is greater than the available quota for the total size of modules for this subscription.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Modul integrace nešlo importovat. Velikost modulu je větší než dostupná kvóta pro celkovou velikost modulů pro toto předplatné.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Modul integrace nešlo importovat. Velikost modulu je větší než dostupná kvóta pro celkovou velikost modulů pro toto předplatné.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1042,9 +1042,9 @@
       </Item>
       <Item ItemId=";ModuleSizeLargerThanMaxSupported" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Module data blob size is not supported. ModuleName {0}. MaxModuleSize {1}. ActualModuleSize {2}]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Module data blob size is not supported. ModuleName {0}. MaxModuleSize {1}. ActualModuleSize {2}]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Velikost datového objektu blob modulu není podporovaná. Název modulu: {0}., maximální velikost modulu: {1}, skutečná velikost modulu: {2}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Velikost datového objektu blob modulu není podporovaná. Název modulu: {0}., maximální velikost modulu: {1}, skutečná velikost modulu: {2}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1055,9 +1055,9 @@
       </Item>
       <Item ItemId=";ModuleSlugHeaderCannotBeEmpty" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Slug header cannot be empty, and should be set to the module name]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Slug header cannot be empty, and should be set to the module name]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Záhlaví zkráceného názvu stránky nemůže být prázdné a mělo by být nastaveno na název modulu]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Záhlaví zkráceného názvu stránky nemůže být prázdné a mělo by být nastaveno na název modulu]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1068,9 +1068,9 @@
       </Item>
       <Item ItemId=";NoAccountIdFoundInHttpContext" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test No account id found in http context]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test No account id found in http context]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test V kontextu HTTP se nenašlo žádné ID účtu.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test V kontextu HTTP se nenašlo žádné ID účtu.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1081,9 +1081,9 @@
       </Item>
       <Item ItemId=";NoAccountNameFoundInHttpContext" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test No account name found in http context]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test No account name found in http context]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test V kontextu HTTP se nenašel žádný název účtu.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test V kontextu HTTP se nenašel žádný název účtu.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1094,9 +1094,9 @@
       </Item>
       <Item ItemId=";NoAccountStoreFoundInHttpApplication" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test No account store found in application.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test No account store found in application.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test V aplikaci se nenašlo žádné úložiště účtů.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test V aplikaci se nenašlo žádné úložiště účtů.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1107,9 +1107,9 @@
       </Item>
       <Item ItemId=";NoSubscriptionIdFoundInHttpContext" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test No subscription id found in http context]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test No subscription id found in http context]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test V kontextu HTTP se nenašlo žádné ID předplatného.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test V kontextu HTTP se nenašlo žádné ID předplatného.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1120,9 +1120,9 @@
       </Item>
       <Item ItemId=";NumberOfConcurrentJobs" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test " {0}. of concurrent jobs"]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test " {0}. of concurrent jobs"]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Počet souběžných úloh: {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Počet souběžných úloh: {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1133,9 +1133,9 @@
       </Item>
       <Item ItemId=";PendingActionDataExpected" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Pending action data is only expected for labeled resume.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Pending action data is only expected for labeled resume.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Data akce čekající na zpracování se očekávají jenom pro obnovení s popiskem.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Data akce čekající na zpracování se očekávají jenom pro obnovení s popiskem.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1146,9 +1146,9 @@
       </Item>
       <Item ItemId=";PropertyCannotBeUpdated" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Property '{0}.' cannot be updated.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Property '{0}.' cannot be updated.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Vlastnost „{0}.“ nelze aktualizovat.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Vlastnost „{0}.“ nelze aktualizovat.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1159,15 +1159,15 @@
       </Item>
       <Item ItemId=";PublishedRunbookVersionNotFound" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Runbook does not contain a published version.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Runbook does not contain a published version.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Sada Runbook neobsahuje publikovanou verzi.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Sada Runbook neobsahuje publikovanou verzi.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
         <Modified By="Mgr. Jan Kapoun" DateTime="2013-04-08T14:44:08Z" />
         <Cmts>
-          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
+          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
         </Cmts>
         <Props>
           <Str Name="Custom2" Val="HO2_SMA" />
@@ -1175,15 +1175,15 @@
       </Item>
       <Item ItemId=";PublishedRunbookVersionNotFoundDbg" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50042: Runbook '{0}.' does not contain a published version.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50042: Runbook '{0}.' does not contain a published version.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50042: Sada Runbook {0}. neobsahuje publikovanou verzi.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50042: Sada Runbook {0}. neobsahuje publikovanou verzi.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
         <Modified By="use" DateTime="2013-05-02T15:43:29Z" />
         <Cmts>
-          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
+          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
         </Cmts>
         <Props>
           <Str Name="Custom2" Val="HO9_SMA" />
@@ -1191,9 +1191,9 @@
       </Item>
       <Item ItemId=";RequestCompleted" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Web Request {0}. completed.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Web Request {0}. completed.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Webová žádost {0}. byla dokončena.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Webová žádost {0}. byla dokončena.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1204,9 +1204,9 @@
       </Item>
       <Item ItemId=";ResumeAction" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Resume Job]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Resume Job]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Pokračovat v úloze]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Pokračovat v úloze]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1217,9 +1217,9 @@
       </Item>
       <Item ItemId=";ResumingJob" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50010:Resuming Job with JobId {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50010:Resuming Job with JobId {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50010:Obnovení úlohy s JobId {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50010:Obnovení úlohy s JobId {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1230,15 +1230,15 @@
       </Item>
       <Item ItemId=";RunbookCreated" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50038: Runbook '{0}.' created successfully.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50038: Runbook '{0}.' created successfully.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50038: Sada Runbook {0}. byla úspěšně vytvořena.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50038: Sada Runbook {0}. byla úspěšně vytvořena.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
         <Modified By="use" DateTime="2013-05-02T15:43:29Z" />
         <Cmts>
-          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
+          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
         </Cmts>
         <Props>
           <Str Name="Custom2" Val="HO9_SMA" />
@@ -1246,15 +1246,15 @@
       </Item>
       <Item ItemId=";RunbookDefinitionNotFound" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Runbook definition not found.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Runbook definition not found.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Definice sady Runbook nebyla nalezena.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Definice sady Runbook nebyla nalezena.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
         <Modified By="sunggonm" DateTime="2013-04-10T22:37:57Z" />
         <Cmts>
-          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
+          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
         </Cmts>
         <Props>
           <Str Name="Custom3" Val="Repeated_Translated" />
@@ -1262,9 +1262,9 @@
       </Item>
       <Item ItemId=";RunbookDefinitionStale" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Runbook definition is stale. Runbook '{0}.'.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Runbook definition is stale. Runbook '{0}.'.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Definice sady Runbook je zastaralá. Sada Runbook: {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Definice sady Runbook je zastaralá. Sada Runbook: {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1275,9 +1275,9 @@
       </Item>
       <Item ItemId=";RunbookDefinitionStaleEvt" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50044:Runbook definition is stale. Runbook '{0}.'.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50044:Runbook definition is stale. Runbook '{0}.'.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50044:Definice sady Runbook je zastaralá. Sada Runbook: {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50044:Definice sady Runbook je zastaralá. Sada Runbook: {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1288,15 +1288,15 @@
       </Item>
       <Item ItemId=";RunbookDefinitionUpdated" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50039: Runbook '{0}.' updated successfully.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50039: Runbook '{0}.' updated successfully.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50039: Sada Runbook {0}. byla úspěšně aktualizována.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50039: Sada Runbook {0}. byla úspěšně aktualizována.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
         <Modified By="use" DateTime="2013-05-02T15:43:29Z" />
         <Cmts>
-          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
+          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
         </Cmts>
         <Props>
           <Str Name="Custom2" Val="HO9_SMA" />
@@ -1304,15 +1304,15 @@
       </Item>
       <Item ItemId=";RunbookDoesNotContainDraftToPublish" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50011:Runbook {0}. does not contain draft to publish.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50011:Runbook {0}. does not contain draft to publish.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50011:Sada Runbook {0}. neobsahuje koncept k publikování.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50011:Sada Runbook {0}. neobsahuje koncept k publikování.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
         <Modified By="Mgr. Jan Kapoun" DateTime="2013-04-08T14:44:08Z" />
         <Cmts>
-          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
+          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
         </Cmts>
         <Props>
           <Str Name="Custom2" Val="HO2_SMA" />
@@ -1320,15 +1320,15 @@
       </Item>
       <Item ItemId=";RunbookIsCheckedIn" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50012:Runbook {0}. is checked in]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50012:Runbook {0}. is checked in]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50012:Sada Runbook {0}. je zaregistrována]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50012:Sada Runbook {0}. je zaregistrována]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
         <Modified By="Mgr. Jan Kapoun" DateTime="2013-04-08T14:44:08Z" />
         <Cmts>
-          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
+          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
         </Cmts>
         <Props>
           <Str Name="Custom2" Val="HO2_SMA" />
@@ -1336,15 +1336,15 @@
       </Item>
       <Item ItemId=";RunbookIsGoingToBeEdited" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50013:Runbook {0}. is going to be edited]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50013:Runbook {0}. is going to be edited]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50013:Sada Runbook {0}. bude upravena]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50013:Sada Runbook {0}. bude upravena]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
         <Modified By="Mgr. Jan Kapoun" DateTime="2013-04-08T14:44:08Z" />
         <Cmts>
-          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
+          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
         </Cmts>
         <Props>
           <Str Name="Custom2" Val="HO2_SMA" />
@@ -1352,15 +1352,15 @@
       </Item>
       <Item ItemId=";RunbookIsInEditModeNow" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50014:Runbook {0}. is in edit mode now.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50014:Runbook {0}. is in edit mode now.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50014:Sada Runbook {0}. je nyní v režimu úprav.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50014:Sada Runbook {0}. je nyní v režimu úprav.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
         <Modified By="Mgr. Jan Kapoun" DateTime="2013-04-08T14:44:08Z" />
         <Cmts>
-          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
+          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
         </Cmts>
         <Props>
           <Str Name="Custom2" Val="HO2_SMA" />
@@ -1368,18 +1368,18 @@
       </Item>
       <Item ItemId=";RunbookIsNotBeingEdited" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50015:Runbook {0}. is not being editted.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50015:Runbook {0}. is not being editted.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50015:Sada Runbook {0}. není aktuálně upravována.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50015:Sada Runbook {0}. není aktuálně upravována.]]></Val>
           </Tgt>
           <Prev Cat="Text">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50015:Runbook {0}. is not being editted. Only in-edit Runbooks can be tested.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50015:Runbook {0}. is not being editted. Only in-edit Runbooks can be tested.]]></Val>
           </Prev>
         </Str>
         <Disp Icon="Str" />
         <Modified By="use" DateTime="2013-05-02T15:43:29Z" />
         <Cmts>
-          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
+          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
         </Cmts>
         <Props>
           <Str Name="Custom2" Val="HO9_SMA" />
@@ -1387,18 +1387,18 @@
       </Item>
       <Item ItemId=";RunbookIsNotYetPublished" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50016:Runbook {0}. is not yet published.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50016:Runbook {0}. is not yet published.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50016:Sada Runbook {0}. ještě nebyla publikována.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50016:Sada Runbook {0}. ještě nebyla publikována.]]></Val>
           </Tgt>
           <Prev Cat="Text">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50016:Runbook {0}. is not yet published. Only published Runbooks can be started.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50016:Runbook {0}. is not yet published. Only published Runbooks can be started.]]></Val>
           </Prev>
         </Str>
         <Disp Icon="Str" />
         <Modified By="use" DateTime="2013-05-02T15:43:29Z" />
         <Cmts>
-          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
+          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
         </Cmts>
         <Props>
           <Str Name="Custom2" Val="HO9_SMA" />
@@ -1406,15 +1406,15 @@
       </Item>
       <Item ItemId=";RunbookIsReadyToBePublished" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50017:Runbook {0}. is ready to be published.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50017:Runbook {0}. is ready to be published.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50017:Sada Runbook {0}. je připravena k publikování.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50017:Sada Runbook {0}. je připravena k publikování.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
         <Modified By="Mgr. Jan Kapoun" DateTime="2013-04-08T14:44:08Z" />
         <Cmts>
-          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
+          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
         </Cmts>
         <Props>
           <Str Name="Custom2" Val="HO2_SMA" />
@@ -1422,15 +1422,15 @@
       </Item>
       <Item ItemId=";RunbookNameAsSpecifiedInSlugHeader" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50018:Runbook name as specified in slug header: {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50018:Runbook name as specified in slug header: {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50018:Název sady Runbook dle zadání v záhlaví zkráceného názvu stránky: {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50018:Název sady Runbook dle zadání v záhlaví zkráceného názvu stránky: {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
         <Modified By="Mgr. Jan Kapoun" DateTime="2013-04-08T14:44:08Z" />
         <Cmts>
-          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
+          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
         </Cmts>
         <Props>
           <Str Name="Custom2" Val="HO2_SMA" />
@@ -1438,18 +1438,18 @@
       </Item>
       <Item ItemId=";RunbookNameMismatched" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test The workflow name in the script must match the runbook name.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test The workflow name in the script must match the runbook name.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Název pracovního postupu ve skriptu musí odpovídat názvu runbooku.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Název pracovního postupu ve skriptu musí odpovídat názvu runbooku.]]></Val>
           </Tgt>
           <Prev Cat="Text">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Runbook name in the script cannot be changed.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Runbook name in the script cannot be changed.]]></Val>
           </Prev>
         </Str>
         <Disp Icon="Str" />
         <Modified By="klece_000" DateTime="2014-09-23T16:58:28Z" />
         <Cmts>
-          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
+          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
         </Cmts>
         <Props>
           <Str Name="Custom2" Val="LQA_20140919" />
@@ -1457,15 +1457,15 @@
       </Item>
       <Item ItemId=";RunbookNameNotFound" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Runbook name not found.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Runbook name not found.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Název sady Runbook nebyl nalezen.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Název sady Runbook nebyl nalezen.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
         <Modified By="Mgr. Jan Kapoun" DateTime="2013-04-08T14:44:08Z" />
         <Cmts>
-          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
+          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
         </Cmts>
         <Props>
           <Str Name="Custom2" Val="HO2_SMA" />
@@ -1473,15 +1473,15 @@
       </Item>
       <Item ItemId=";RunbookNotFound" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Runbook not found.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Runbook not found.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Sada Runbook nebyla nalezena.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Sada Runbook nebyla nalezena.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
         <Modified By="Mgr. Jan Kapoun" DateTime="2013-04-08T14:44:08Z" />
         <Cmts>
-          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
+          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
         </Cmts>
         <Props>
           <Str Name="Custom2" Val="HO2_SMA" />
@@ -1489,9 +1489,9 @@
       </Item>
       <Item ItemId=";RunbookVersionSaveFailedEvt" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50045: Error occured while saving runbook version. Runbook Name '{0}.'.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50045: Error occured while saving runbook version. Runbook Name '{0}.'.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50045: Při ukládání verze sady Runbook došlo k chybě. Název sady Runbook: {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50045: Při ukládání verze sady Runbook došlo k chybě. Název sady Runbook: {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1502,9 +1502,9 @@
       </Item>
       <Item ItemId=";ScheduleExpiryTimeNotInUTC" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test ExpiryTime is not in UTC.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test ExpiryTime is not in UTC.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test ExpiryTime není ve standardu UTC.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test ExpiryTime není ve standardu UTC.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1515,12 +1515,12 @@
       </Item>
       <Item ItemId=";ScheduleIdDoesNotExist" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50026:ScheduleId does not exist]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50026:ScheduleId does not exist]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50026: ID plánu neexistuje.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50026: ID plánu neexistuje.]]></Val>
           </Tgt>
           <Prev Cat="Text">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test ScheduleId does not exist]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test ScheduleId does not exist]]></Val>
           </Prev>
         </Str>
         <Disp Icon="Str" />
@@ -1531,9 +1531,9 @@
       </Item>
       <Item ItemId=";ScheduleNotFound" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Schedule not found.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Schedule not found.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Plán se nenašel.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Plán se nenašel.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1544,9 +1544,9 @@
       </Item>
       <Item ItemId=";ScheduleStartTimeAfterExpiryTime" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test StartTime is after expiryTime.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test StartTime is after expiryTime.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test StartTime je po expiryTime.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test StartTime je po expiryTime.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1557,9 +1557,9 @@
       </Item>
       <Item ItemId=";ScheduleStartTimeNotInUTC" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test StartTime is not in UTC.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test StartTime is not in UTC.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test StartTime není ve standardu UTC.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test StartTime není ve standardu UTC.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1570,9 +1570,9 @@
       </Item>
       <Item ItemId=";ScheduleTypeNotSupported" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Schedule type is not supported]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Schedule type is not supported]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Typ plánu není podporován]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Typ plánu není podporován]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1583,9 +1583,9 @@
       </Item>
       <Item ItemId=";ScheduleWithoutName" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Cannot create schedule without name.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Cannot create schedule without name.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Nelze vytvořit plán bez názvu.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Nelze vytvořit plán bez názvu.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1596,9 +1596,9 @@
       </Item>
       <Item ItemId=";ServiceDoesNotSupportETagHeaderForMediaResource" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Service does not support the ETag header for a media resource.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Service does not support the ETag header for a media resource.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Služba nepodporuje hlavičku ETag pro příslušný mediální zdroj.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Služba nepodporuje hlavičku ETag pro příslušný mediální zdroj.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1609,9 +1609,9 @@
       </Item>
       <Item ItemId=";SlugHeaderDoesNotContainModuleName" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test SlugHeader does not contain module name.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test SlugHeader does not contain module name.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Záhlaví zkráceného názvu stránky neobsahuje název modulu.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Záhlaví zkráceného názvu stránky neobsahuje název modulu.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1622,9 +1622,9 @@
       </Item>
       <Item ItemId=";StartAction" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Start Runbook]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Start Runbook]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Spustit runbook]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Spustit runbook]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1635,9 +1635,9 @@
       </Item>
       <Item ItemId=";StartTimeShouldBeBeforeEndTime" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test start time should be before end time]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test start time should be before end time]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Čas spuštění by měl předcházet času ukončení.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Čas spuštění by měl předcházet času ukončení.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1648,15 +1648,15 @@
       </Item>
       <Item ItemId=";StartingRunbookOnSchedule" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50019:Starting Runbook {0}. on Schedule]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50019:Starting Runbook {0}. on Schedule]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50019:Spouštění sady Runbook {0}. v plánu]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50019:Spouštění sady Runbook {0}. v plánu]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
         <Modified By="Mgr. Jan Kapoun" DateTime="2013-04-08T14:44:08Z" />
         <Cmts>
-          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
+          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
         </Cmts>
         <Props>
           <Str Name="Custom2" Val="HO2_SMA" />
@@ -1664,15 +1664,15 @@
       </Item>
       <Item ItemId=";StartingRunbookToExtractActivitiesForModule" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50020:Starting Runbook to extract activities for Module {0}. Version {1}]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50020:Starting Runbook to extract activities for Module {0}. Version {1}]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50020:Spouštění sady Runbook pro extrahování aktivit modulu {0}., verze {1}]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50020:Spouštění sady Runbook pro extrahování aktivit modulu {0}., verze {1}]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
         <Modified By="Mgr. Jan Kapoun" DateTime="2013-04-08T14:44:08Z" />
         <Cmts>
-          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
+          <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=i"Runbook"}]]></Cmt>
         </Cmts>
         <Props>
           <Str Name="Custom2" Val="HO2_SMA" />
@@ -1680,9 +1680,9 @@
       </Item>
       <Item ItemId=";StoppingJob" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50021:Stopping Job {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50021:Stopping Job {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50021:Zastavování úlohy {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50021:Zastavování úlohy {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1693,12 +1693,12 @@
       </Item>
       <Item ItemId=";StreamsCreatedSinceDateTimeShouldBeDatetimeValue" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test StreamsCreatedSinceDateTime should have a valid datetime value]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test StreamsCreatedSinceDateTime should have a valid datetime value]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test streamsCreatedSinceDateTime musí mít platnou hodnotu datetime.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test streamsCreatedSinceDateTime musí mít platnou hodnotu datetime.]]></Val>
           </Tgt>
           <Prev Cat="Text">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test streamsCreatedSinceDateTime should be a value datetime value]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test streamsCreatedSinceDateTime should be a value datetime value]]></Val>
           </Prev>
         </Str>
         <Disp Icon="Str" />
@@ -1709,9 +1709,9 @@
       </Item>
       <Item ItemId=";SubscriptionIdNotFoundInUrl" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test No subscription id found in the url. Url {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test No subscription id found in the url. Url {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test V adrese URL se nenašlo žádné ID předplatného. URL: {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test V adrese URL se nenašlo žádné ID předplatného. URL: {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1722,9 +1722,9 @@
       </Item>
       <Item ItemId=";SuspendingJob" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50022:Suspending Job {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50022:Suspending Job {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50022:Pozastavování úlohy {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50022:Pozastavování úlohy {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1735,9 +1735,9 @@
       </Item>
       <Item ItemId=";TempFileForRunbookDefinition" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50041:Temp file name: '{0}.']]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50041:Temp file name: '{0}.']]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50041:Název dočasného souboru: {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50041:Název dočasného souboru: {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1748,9 +1748,9 @@
       </Item>
       <Item ItemId=";TempFileInUseAndCannotBeDeleted" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50023:Temp file {0}. is in use and cannot be deleted.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50023:Temp file {0}. is in use and cannot be deleted.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50023:Dočasný soubor {0}. je používán a nelze jej odstranit.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50023:Dočasný soubor {0}. je používán a nelze jej odstranit.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1761,9 +1761,9 @@
       </Item>
       <Item ItemId=";TestAction" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Test Runbook]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Test Runbook]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Otestovat runbook]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Otestovat runbook]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1774,9 +1774,9 @@
       </Item>
       <Item ItemId=";TestJobRunningForRunbookDraft" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test 50024:Job is already running.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50024:Job is already running.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test 50024:Úloha je již spuštěna.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 50024:Úloha je již spuštěna.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1787,9 +1787,9 @@
       </Item>
       <Item ItemId=";TotalJobRuntimePerMonthPerSubscriptionThrottleType" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test TotalJobRuntimePerMonthPerSubscription]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test TotalJobRuntimePerMonthPerSubscription]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test TotalJobRuntimePerMonthPerSubscription]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test TotalJobRuntimePerMonthPerSubscription]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1800,9 +1800,9 @@
       </Item>
       <Item ItemId=";TotalRunbookPerSubscriptionThrottleType" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test TotalRunbookPerSubscription]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test TotalRunbookPerSubscription]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test TotalRunbookPerSubscription]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test TotalRunbookPerSubscription]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1813,9 +1813,9 @@
       </Item>
       <Item ItemId=";TotalRunningJobPerAccountThrottleType" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test TotalRunningJobPerAccount]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test TotalRunningJobPerAccount]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test TotalRunningJobPerAccount]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test TotalRunningJobPerAccount]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1826,9 +1826,9 @@
       </Item>
       <Item ItemId=";WebServiceCommandTimeoutNotSpecified" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test CommandTimeout not set in Web.config. Default value will be used.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test CommandTimeout not set in Web.config. Default value will be used.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test V souboru Web.config není nastavena možnost CommandTimeout. Bude použita výchozí hodnota.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test V souboru Web.config není nastavena možnost CommandTimeout. Bude použita výchozí hodnota.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1839,9 +1839,9 @@
       </Item>
       <Item ItemId=";WebServiceErrorSettingCommandTimeout" ItemType="0" PsrId="211" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test Cannot set CommandTimeout. Default value will be used. Exception: {0}.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Cannot set CommandTimeout. Default value will be used. Exception: {0}.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-            <Val><![CDATA[Test Test Test Test TEST TEST Test Nelze nastavit možnost CommandTimeout. Bude použita výchozí hodnota. Výjimka: {0}.]]></Val>
+            <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Nelze nastavit možnost CommandTimeout. Bude použita výchozí hodnota. Výjimka: {0}.]]></Val>
           </Tgt>
         </Str>
         <Disp Icon="Str" />
@@ -1857,59 +1857,59 @@
     <Modified By="sunggonm" DateTime="2013-03-18T21:10:01Z" />
     <Item ItemId=";AssemblyVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST Test 7.2.0.0]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 7.2.0.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-03-27T15:56:39Z" />
     </Item>
     <Item ItemId=";CompanyName" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
       <Str Cat="Text" UsrLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST Test Microsoft Corporation]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Microsoft Corporation]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-03-19T22:38:36Z" />
       <Cmts>
-        <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {Locked=!ru}]]></Cmt>
+        <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {Locked=!ru}]]></Cmt>
       </Cmts>
     </Item>
     <Item ItemId=";FileDescription" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
       <Str Cat="Text" UsrLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST Test Orchestrator.WebService.Shared]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Orchestrator.WebService.Shared]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-03-19T22:38:36Z" />
       <Cmts>
-        <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {Locked}]]></Cmt>
+        <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {Locked}]]></Cmt>
       </Cmts>
     </Item>
     <Item ItemId=";FileVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST Test 7.2.4038.0]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 7.2.4038.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-03-27T15:56:39Z" />
     </Item>
     <Item ItemId=";InternalName" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST Test Orchestrator.WebService.Shared.dll]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Orchestrator.WebService.Shared.dll]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-03-27T15:56:39Z" />
     </Item>
     <Item ItemId=";LegalCopyright" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
       <Str Cat="Text">
-        <Val><![CDATA[Test Test Test Test TEST TEST Test  ]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test  ]]></Val>
         <Tgt Cat="Text" Stat="Loc" Appr="PreApproved" Orig="New" AutoAppr="N/A">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test  ]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test  ]]></Val>
         </Tgt>
         <Prev Cat="Text">
-          <Val><![CDATA[Test Test Test Test TEST TEST Test © 2013 Microsoft. All rights reserved.]]></Val>
+          <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test © 2013 Microsoft. All rights reserved.]]></Val>
         </Prev>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-04-10T22:37:57Z" />
       <Cmts>
-        <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {StrContains=!ru;"Microsoft"} {Locked=ja,ko}]]></Cmt>
+        <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {StrContains=!ru;"Microsoft"} {Locked=ja,ko}]]></Cmt>
       </Cmts>
       <Props>
         <Str Name="Custom3" Val="Repeated_Translated" />
@@ -1917,24 +1917,24 @@
     </Item>
     <Item ItemId=";OriginalFilename" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST Test Orchestrator.WebService.Shared.dll]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test Orchestrator.WebService.Shared.dll]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-03-27T15:56:39Z" />
     </Item>
     <Item ItemId=";ProductName" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
       <Str Cat="Text" UsrLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST Test OaaS]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test OaaS]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-03-19T22:38:36Z" />
       <Cmts>
-        <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test TEST TEST Test {Locked}]]></Cmt>
+        <Cmt Name="LcxAdmin"><![CDATA[Test Test Test Test Test Test TEST TEST Test {Locked}]]></Cmt>
       </Cmts>
     </Item>
     <Item ItemId=";ProductVersion" ItemType="0" PsrId="211" Leaf="true">
       <Str Cat="Text" DevLk="true">
-        <Val><![CDATA[Test Test Test Test TEST TEST Test 7.2.0.0]]></Val>
+        <Val><![CDATA[Test Test Test Test Test Test TEST TEST Test 7.2.0.0]]></Val>
       </Str>
       <Disp Icon="Str" />
       <Modified By="sunggonm" DateTime="2013-03-27T15:56:39Z" />
